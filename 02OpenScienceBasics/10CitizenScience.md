@@ -9,40 +9,40 @@ Občianska veda v podstate predstavuje priamy výsledok úspešnej popularizáci
 
 ### Prečo občianska veda
 
-Občianska veda je cieľom otvorenej vedy, ale zároveň aj činiteľom, vďaka ktorému je realizácia otvorenej vedy možná. Môže sa týkať občanov, ktorí sa aktívne a otvorene podieľajú na samotnom výskumnom procese, často prostredníctvom tzv. crowdsourcingu (riešenie úlohy skupinou ľudí). Patria sem askpekty ako zbieranie dát, analyzovanie dát, dobrovoľné monitorovanie a distribuované spracovanie údajov?volunteer monitoring, and distributed computing. Alebo to tiež môže znamenať to, že verejnosť lepšie pochodpí vedu, a to vďaka väčšiemu prístupu k informáciám o výskume, vrátane schopnosti použiť otvorené výskumná dáta a možnosti získať prístup k článkom voľne dostupným v časopisoch. Väčší prístup k výstupom výskumu  \(tiež známy ako Veda typu Urob si snám/Do-It-Yourself Science\) zahŕňa príklady ako inovácie pacientov, pacientský aktivizmus/podpora, mimovládne organizácie a skupiny na ochranu občianskych práv. Vedie to k jasnejšej klasifikácii a odlíšeniu aktivít na aktivity, ktoré riadia vedci a tie, ktoré nevedú vedci \(pozri [Outside the Academy – DIY Science Communities](https://speakerdeck.com/lu_cyp/outside-the-academy-diy-science-communities)\). Verejnosť sa môže zapojiť aj do tvorby politík, napríklad, prostredníctvom "nastavenia programov vedeckých systémov" \(pozri Monitor otvorenej vedy Európskej komisie [European Commission’s Open Science Monitor](https://ec.europa.eu/research/openscience/index.cfm?pg=citizen&section=monitor)\).
+Občianska veda je cieľom otvorenej vedy, ale zároveň aj činiteľom, vďaka ktorému je realizácia otvorenej vedy možná. Môže sa týkať občanov, ktorí sa aktívne a otvorene podieľajú na samotnom výskumnom procese, často prostredníctvom tzv. crowdsourcingu (riešenie úlohy skupinou ľudí). Patria sem askpekty ako zbieranie dát, analyzovanie dát, dobrovoľné monitorovanie a distribuované spracovanie údajov?volunteer monitoring, and distributed computing. Alebo to tiež môže znamenať to, že verejnosť lepšie pochodpí vedu, a to vďaka väčšiemu prístupu k informáciám o výskume, vrátane schopnosti použiť otvorené výskumná dáta a možnosti získať prístup k článkom voľne dostupným v časopisoch. Väčší prístup k výstupom výskumu  \(tiež známy ako Veda typu Urob si snám/Do-It-Yourself Science\) zahŕňa príklady ako inovácie pacientov, pacientský aktivizmus/podpora, mimovládne organizácie a skupiny na ochranu občianskych práv. Vedie to k jasnejšej klasifikácii a odlíšeniu aktivít na aktivity, ktoré riadia vedci a tie, ktoré nevedú vedci \(pozri [Outside the Academy – DIY Science Communities](https://speakerdeck.com/lu_cyp/outside-the-academy-diy-science-communities)\). Verejnosť sa môže zapojiť aj do tvorby politík, napríklad, prostredníctvom "nastavenia programov vedeckých systémov" \(pozri Monitor otvorenej vedy Európskej komisie/[European Commission’s Open Science Monitor](https://ec.europa.eu/research/openscience/index.cfm?pg=citizen&section=monitor)\).
 
-"_Citizen Science and Open Science together can address grand challenges, respond to diminishing societal trust in science, contribute to the creation of common goods and shared resources, and facilitate knowledge transfer between science and society to stimulate innovation. The issues of openness, inclusion and empowerment, education and training, funding, infrastructures and reward systems are discussed regarding critical challenges for both approaches. You might consider Citizen Science and Open Science jointly, to strengthen synergies by building on existing initiatives, launching targeted actions regarding education and training, and infrastructures_". Extracted from the [Policy Brief on Citizen Science and Open Science](https://ecsa.citizen-science.net/sites/default/files/ditos-policybrief3-20180208-citizen_science_and_open_science_synergies_and_future_areas_of_work.pdf) by the European Citizen Science Association \(ECSA\)
+"_Občianska veda a otvorená veda spolu dokážu riešiť náročné výzvy, reagovať na klesajúcu dôvedru spoločnosti vo vedu, prispievať k tvorbe spoločných výstupov/produktov?spoločného dobra creation of comon goods  a zdieľaných zdrojov a uľahčiť transfer poznatkov medzi vedou a spoločnosťou s cieľom stimulovať inovácie. V súvislosti s dôležitými výzvami pre obidva prístupy sa diskutuje o otázkach otvorenosti, inklúzie a posilnenia postavenia (empowerment), vzdelávania a odborného školenia/výcviku, financovania, infraštruktúr a systémov odmeňovania. Môžete zvážiť spoločné zapojenie občiasnkej vedy a otvorenej vedy, aby ste posilnili ich synergie, tým že budete stavať na existujúcich iniciatívach, spustíte cielené akcie zamerané na vzdelávacie a odborný výcvk a infraštruktúru_". Výňatok z informačného dokumentu [Policy Brief on Citizen Science and Open Science](https://ecsa.citizen-science.net/sites/default/files/ditos-policybrief3-20180208-citizen_science_and_open_science_synergies_and_future_areas_of_work.pdf), vypracovaného Európskou asociáciou občianskej vedy (the European Citizen Science Association \(ECSA\).
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Ciele vzdelávania 
 
-1. Understand the different aspects of citizen science \(collaborative versus DIY\).
+1. Pochopiť rôzne aspekty občianskej vedy \(kolaboratívna v. urob si sám (DIY\).
 
-2. Understand the basic concepts and viewpoints of a variety of stakeholders in science communication.
+2. Pchopiť základné pojmy a stanoviská rôznych aktérov občianskej vedy.
 
-3. Management of intellectual property in citizen science projects. A guide for this is available [here](https://www.wilsoncenter.org/sites/default/files/research_brief_guide_for_researchers.pdf).
+3. Manažment duševného vlastníctva v projektoch občianskej vedy. Návod, ako postupovať nájdete [TU](https://www.wilsoncenter.org/sites/default/files/research_brief_guide_for_researchers.pdf).
 
-4. Management of [citizen science data](http://www.ukeof.org.uk/documents/DataAdviceNote2.pdf).
+4. Manažment [dát občianskej vedy](http://www.ukeof.org.uk/documents/DataAdviceNote2.pdf).
 
-5. Identify the best strategies in establishing clear and concise communication of scientific principles.
+5. Identifikovať najlepšie stratégie stanovenia zrozumiteľnej a stručnej komnkácie vedeckých princípov.
 
-6.  What are the best ways to communicate your research/story, with whom, and using what tools.
+6.  Aké sú najlepšie spôsoby, ako komunkovať svoj výskum/príbeh, komu a prostredníctvom akých nástrojov.
 
 ### 
 
-### Key components
+### Kľúčové prvky 
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
-#### Knowledge
+#### Poznanie
 
-The European Citizen Science Association \(ECSA\) created a best practice guideline on what constitutes good citizen science and wrote the [10 principles of Citizen Science](https://ecsa.citizen-science.net/engage-us/10-principles-citizen-science). This statement has been translated into many languages. Those 10 principles offers a guidance of best practices for any project based on Citizen Science.
+Európska asociácia občianskej vedy \(ECSA\) vytvorila odporúčania najlepších postupov dobrej občianskej vedy a zostavila  created a best practice guideline on what constitutes good citizen science and wrote the [10 princípov občianskej vedy](https://ecsa.citizen-science.net/engage-us/10-principles-citizen-science). This statement has been translated into many languages. Those 10 principles offers a guidance of best practices for any project based on Citizen Science.
 
 When starting a citizen science project there are a few key elements that must be take into account: how are you going to engage citizens? how are you going to ensure data quality? how are you going to deal with ethics and legal issues?
 
 Although there is still an open debate on how to assess some citizen science activities there are already some examples that can be included as societal impact in evaluation reports like the [cases studies](http://impact.ref.ac.uk/CaseStudies/Results.aspx?val=%22Citizen+Science%22) extracted from the UK Research Excellence Framework.
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Skills
+#### Zručnosti
 
 * Be able to differentiate in different citizen science project approaches: projects where citizens just provide data versus projects where the citizen engagement is along the research project.
 
