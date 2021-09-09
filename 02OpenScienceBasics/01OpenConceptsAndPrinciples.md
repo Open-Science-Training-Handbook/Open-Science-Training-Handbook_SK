@@ -1,9 +1,9 @@
 ## <img src="/Images/Icons/cloud.png" width="200" height="200" />
-## 1. Open Concepts and Principles
+## 1. Pojmy a princípy otvorenosti
 
-### What is it?
+### Čo je to?
 
-Open Science is the practice of science in such a way that others can collaborate and contribute, where research data, lab notes and other research processes are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods ([FOSTER Open Science Definition](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)). In a nutshell, Open Science is transparent and accessible knowledge that is shared and developed through collaborative networks \(Vicente-Sáez & Martínez-Fuentes 2018\).
+Otvorená veda znamená vykonávanie vedeckej činnosti spôsobom, ktorý umožní iným ľuďom spolupracovať a prispievať. Otvorená veda znamená, že výskumné dáta, laboratórne denníky a iné výskumné procesy sú voľne dostupné pod podmienkami, ktoré umožnia opätovné používanie, redistribúciu a reprodukciu výskumu a jeho podkladových dát a metód ([Definícia otvorenej vedy podľa platformy FOSTER](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)). V skratke, otvorená veda je transparetné a dostupné poznanie, ktoré sa zdieľa a rozvíja prostredníctvom kolboratívnych sietí \(Vicente-Sáez & Martínez-Fuentes 2018\).
 
 Open Science is about increased rigour, accountability, and reproducibility for research. It is based on the principles of inclusion, fairness, equity, and sharing, and ultimately seeks to change the way research is done, who is involved and how it is valued. It aims to make research more open to participation, review/refutation, improvement and \(re\)use for the world to benefit.
 
