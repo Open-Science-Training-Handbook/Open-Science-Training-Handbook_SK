@@ -1,80 +1,80 @@
 ## <img src="/Images/Icons/cloud.png" width="200" height="200" />
-## 1. Open Concepts and Principles
+## 1. Pojmy a princípy otvorenosti
 
-### What is it?
+### Čo je to?
 
-Open Science is the practice of science in such a way that others can collaborate and contribute, where research data, lab notes and other research processes are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods ([FOSTER Open Science Definition](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)). In a nutshell, Open Science is transparent and accessible knowledge that is shared and developed through collaborative networks \(Vicente-Sáez & Martínez-Fuentes 2018\).
+Otvorená veda znamená vykonávanie vedeckej činnosti spôsobom, ktorý umožní iným ľuďom spolupracovať a prispievať. Otvorená veda znamená, že výskumné dáta, laboratórne denníky a iné výskumné procesy sú voľne dostupné pod podmienkami, ktoré umožnia opätovné používanie, redistribúciu a reprodukciu výskumu a jeho podkladových dát a metód ([Definícia otvorenej vedy podľa platformy FOSTER](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)). V skratke, otvorená veda je transparetné a dostupné poznanie, ktoré sa zdieľa a rozvíja prostredníctvom kolboratívnych sietí \(Vicente-Sáez & Martínez-Fuentes 2018\).
 
-Open Science is about increased rigour, accountability, and reproducibility for research. It is based on the principles of inclusion, fairness, equity, and sharing, and ultimately seeks to change the way research is done, who is involved and how it is valued. It aims to make research more open to participation, review/refutation, improvement and \(re\)use for the world to benefit.
+Otvorená veda znamené zvýšenie rigoróznosti?presnoti?dôslednosti increased rigour, zodpovednosti a reprodukovateľnosti výskumu. Je založená na princípoch inklúzie, spravodlivosti, rovnosti a zdieľaní, a v konečnom dôsledku sa snaží zmeniť spôsob realizácie výskumu, kto je zapojený a to, ako sa výskum hodnotí?akú má výskum hodnotu how it is valued. Cieľom je otvoriť viac výskum participácii, posudzovaniu/odmietnutiu, zlepšeniu a \(opätovnému\)použitiu v prospech celého sveta.
 
-There are several definitions of "openness" with regards to various aspects of science; the [Open Definition](http://opendefinition.org/) defines it thus: “Open data and content can be freely used, modified, and shared by anyone for any purpose”. Open Science encompasses a variety of practices, usually including areas like open access to publications, open research data, open source software/tools, open workflows, citizen science, open educational resources, and alternative methods for research evaluation including open peer review \([Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)\).![](/Images/image_0.png)Pontika et al. \(2015\)
+Existuje niekoľko definícií "otvorenosti", ktoré berú do úvahy rôzne aspekty vedy. Projekt [Open Definition](http://opendefinition.org/)(Definícia otvorenosti) definuje otvorennosť takto: “Otvorené dáta a obsah môže ktokoľvek voľne používať, modifikovať a zdieľať na akýkoľvek účel”. Otvorená veda zahŕňa množstvo rôznych praktík/postupov, vrátane oblastí ako otvorený prístup k publikáciám, otvorené výskumné dáta, softvér/nástroje s otvoreným zdrojovým kódom, otvorené pracovné postupuy (open workflows), občianska veda, otvorené vzdelávacie zdroje a alternatívne metódy hodnotenia výskumu, vrátane otvoreného recenzného procesu. \([Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)\).![](/Images/image_0.png)Pontika et al. \(2015\)
 
-The aims and assumptions underlying the push to implement these various practices have been analysed by Fecher & Friesike \([2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036)\), whose analyses of the literature found five broad concerns, or "schools of thought". These are:
+Ciele a predpoklady, ktoré sú základom snahy implementovať tieto rúzne postupy analyzovali Fecher a Friesike \([2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036)\). V svojich analýzach literatúry identifikovali päť širokých oblastí záujmu či "myšlienkových škôl". Sú to tieto: 
 
-* **Democratic school:** Believing that there is an unequal distribution of access to knowledge, this area is concerned with making scholarly knowledge \(including publications and data\) available freely for all.
+* **Demokratická škola:** Presvedčenie, že nie každý človek má rovnaký prístup k poznaniu. Záto oblasť je zameraná na sprístupnenie vedeckýh poznatkov \(vrátane publikáciía dát\) voľne všetkým ľuďom.
 
-* **Pragmatic school:** Following the principle that the creation of knowledge is made more efficient through collaboration and strengthened through critique, this area seeks to harness network effects by connecting scholars and making scholarly methods transparent.
+* **Pragmatická škola:** Vychádza z princípu, že spolupráca a kritika zefektívňuje a posilňuje produkciu poznatkov. Táto oblasť sa snaží využiť sieťové efekty prepájaním vedcov a sprehľadňením vedecko-výskumných metód.
 
-* **Infrastructure school:** This thread is motivated by the assumption that efficient research requires readily available platforms, tools and services for dissemination and collaboration.
+* **Škola infrašktruktúry:** Tento smer vychádza z predpokladu, že efektívny výskum vyžaduje ľahko dostupné platformy, nástroje a služby na šírenie a spoluprácu.
 
-* **Public school:** Based on the recognition that true societal impact requires societal engagement in research and readily understandable communication of scientific results, this area seeks to bring the public to collaborate in research through citizen science, and make scholarship more readily understandable through lay summaries, blogging and other less formal communicative methods.
+* **Verejná škola:** Vychádza z uznania toho, skutočný spoločenksý dopad vyžaduje zapojenie spoločnosti do výskumu a jednoducho zrozumiteľnúá komunikácia vedecko-výskumných výsledkov. Táto oblasť sa snaží zapojiť verejnosť do spolupráce na výskume prostredníctvom občianskej vedy, a zjednodušiť pochopenie vedy prostredníctvom súhrnov/abstraktov pre laickú verejnosť, blogov a iných menej formálnych spôsobov komunikácie.
 
-* **Measurement school:** Motivated by the acknowledgement that traditional metrics for measuring scientific impact have proven problematic \(by being too heavily focused on publications, often only at the journal-level, for instance\), this strand seeks "alternative metrics" which can make use of the new possibilities of digitally networked tools to track and measure the impact of scholarship through formerly invisible activities.
+* **Škola merania?metrík Measurement School:** Založená na poznaní toho, že tradičné metriky vedeckého impaktu sa ukázali ako problematické \(prílišným zameraním na publikovanie, napríklad, často len na úrovni časopisu\). Tento smer hľadá "alternatívne metriky", ktoré dokážu využiť nové možnosti digitálne zosieťovaných nástrojov na sledovanie a meranie dopadu vedy prostredníctvom predtým neviditeľných aktivít.
 
-### Rationale
+### Odôvodnenie
 
-Open Science, as defined above, encompasses a huge number of potential structural changes to academic practice, whose culture can often be hierarchical and conservative. Moreover, even where researchers are sympathetic to the aims of Open Science, they might not yet see the worth in taking them up, as existing incentive mechanisms do not yet reflect this new culture of openness and collaboration. As a consequence, convincing researchers of the need to change their practices will require a good understanding not only of the ethical, social and academic benefits, but also of the ways in which taking up Open Science practices will actually help them succeed in their work. This section will describe some of the core concepts, principles, actors, and practices in Open Science, and how these fit within a broader research ecosystem.
+Otvorená veda, ako je definovaná vyššie v texte, zahŕňa veľké množstvo potenciálnych štrukturálnych zmien akademickej praxe?zmien praxe akademickej obce, ktorej kulúra je často hierarchická a konzervatívna. Open Science, as defined above, encompasses a huge number of potential structural changes to academic practice, whose culture can often be hierarchical and conservative. Dokonca aj keď sú vedci naklonení cieľom otvorenej vedy, môže im pripadať zbytočné prijať ich za svoje, keďže súčasné stimulačné mechanizmy zatiaľ neodrážajú túto novú kultúru otvorenosti a spolupráce. Preto presvedčiť výskumníkov o ptrebe zmeny ich postupov bude vyžadovať dobré porozumenie nie len etických, spoločenských a akademických prínosov ale aj spôsobov, ktorými prijatie postupov otvorenej vedy vedcom skutočne pomôže uspieť v ich práci. Táto čas opisuje niektoré z hlavných pojmov, princípov, akterov a praktík otvorenej vedy a to, ako zapadnú do širšieho výskumného ekosystému.
 
 ![](/Images/image_1.png)
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Vzdelávacie ciele
 
-1. Understand the social, economical, legal, and ethical principles and concepts underpinning Open Science.
+1. Porozumieť spoločenským, ekonomickým, právnym a etickým princípom a pojmom, ktoré sú základom otvorenej vedy.
 
-2. Become familiar with the history of Open Science, and the disparity and diversity of views from different research communities, disciplines and cultures.
+2. Oboznámiť sa s históriou otvorenej vedy a rozdielnosťou a rozmanitosťou názorov rôznych výskumných komunít, disciplín a kultúr.
 
-3. Gain insight into the developments around Open Science, and the personal impact these can have on researchers, research, and society more broadly.
+3. Získať prehľad o vývoji v oblasti otvorenej vedy a osobnom dopade na výskumníkov, výskum a spoločnoť vo všeobecnosti.
 
-### Key components
+### Kľúčové komponenty
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
 
 ![](/Images/02%20Open%20Science%20Basics/02_open_concepts_and_principles.png)
 
-#### Knowledge & Skills
-* Open Science is the movement to help make the results of scholarly research more accessible, including code, data, and research papers.
+#### Poznatky a zručnosti
+* Otvorená veda je hnutie, ktoré pomáha zabezpečiť širší prístup k výsledkom vedeckého výskumu, vrátane kódov, dát a výskumných článkov.
 
-  * It encompasses many different but often related aspects impacting the entire research lifecycle, including open publishing, open data, open source software, open notebook science, open peer review, open dissemination, and open materials \(see glossary for definitions\).
+  * Zahŕňa mnoho rôznych ale často súvisiacich aspektov, ktoré ovplyvňujú celý výskumný cyklus, vrátane otvoreného publikovania, otvorených dát, softvéru s otvoreným zdrojovým kódom, otvorené vedecké záznamy/denníky, otvorený recenzný proces, open šírenie a otvorené materiály \(definíce nájdete v glosári\).
 
 
-* History of Open Science, and the motivations behind the movement.
+* História otvorenej vedy a motivácia v pozadí hnutia.
 
-  * The origins of academic publishing began in the 17th century with the first academic journals.
+  * Počiatky akademického publikovania siahajú do 17. storočia k prvým akademickým časopisom.
 
-  * Increasing motivation to share resources between research disciplines, as well as increased transparency for greater efficiency, rigour, accountability, sustainability for future generations, and reproducibility.
+  * Rastúca motivácia zdieľať zdroje medzi jednotlivými vednými disciplínami, ako aj zvýšená transparentnosť s cieľom väčšej efektívnosti, rigoróznosti?presnosti, zodpovednosti udržateľnosti pre budúce generácie a reprodukovateľnosti.
 
-  * Ethical cases whereby increased transparency can reduce fraud, data manipulation, and selective reporting of results.
+  * Etické prípady, v ktorých zvýšená transparentnosť môže redukovať podvody, manipuláciu s dátami a selektívne reportovanie?oznamovanie?vykazovanie?hlásenie výsledkov selective reporting of results.
 
-* Present state arose from pressure from research academies and governments for publicly-funded research to be shared more openly, often for the purpose of accelerated societal or economic growth and innovation.
+* Súčasný stav je dôsledkom tlaku vedecko-výskumných pracovníkov a vlád na to otvorenejšie zdieľanie výskumu financovaný z verejných zdrojov, aby sa mohol dosiahnuť rýchlejší spoločneský a ekonomický rast a inovácie.
 
-  * Publicly funded research outputs should be publicly available.
+  * Výstupy výskumu financovaného z verejných zdrojov by mali byť verejne dostuné.
 
-  * Need to drive cultural change in research and amongst researchers.
+  * Potreba vyvolať?podporiť drive  kultúrnu zmenu vo výskume a medzi výskumníkmi. 
 
-  * Embracing of Web-based tools and technologies to facilitate scientific collaboration.
+  * Prijatie webových nástrojov a technológií na uľahčenie vedeckej spolupráce.
 
-* Differences and commonalities within Open Science practices, principles and communities.
+* Rozdielne a podobné aspekty v rámci postupov, princípov a komunít otvorenej vedy. 
 
-  * It is generally accepted that Open Science leads to increased impact associated with wider sharing and re-use \(e.g., the so-called "[open access citation advantage](https://sparceurope.org/what-we-do/open-access/sparc-europe-open-access-resources/open-access-citation-advantage-service-oaca/oaca-list/)"\).
+  * Vo všeobecnosti sa akceptuje to, že otvorená veda vedie k zvýšenému dopadu spojenému so širším zdieľaním a opätovným použitím \(napr., "[open access citation advantage](https://sparceurope.org/what-we-do/open-access/sparc-europe-open-access-resources/open-access-citation-advantage-service-oaca/oaca-list/)"\(citačná výhoda otvoreného prístupu)).
 
-  * Open Science could increase trust in science and in the reliability of scientific results.
+  * Otvorená veda by mohla zvýšiť dôveru vo vedu a spoľahlivosť vedeckých výsledkov.
 
-* Open Science and relations to licensing, copyright issues.
+* Otvorená veda a vzťah k licenciám a otázkam autorského práva.
 
-  * Typically, open research outputs are openly licensed in order to maximize re-use while allowing the creator to retain ownership and receive credit for their work.
+  * Otvorené výstupy výskumu zvyčajne majú otvorené licencie, aby sa maximalizovalo ich opätovné využitie, pričom tieto licencie umožňujú tvorcovi ponechať si vlastnícke práva a mať priznané autorstvo svojej práce.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Otázky, prekážky a bežné mylné predstavy
 
 Q: "What is the difference between Open Science and ‘science’?"
 
