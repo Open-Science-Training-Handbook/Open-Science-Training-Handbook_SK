@@ -7,7 +7,7 @@ Otvorená veda znamená vykonávanie vedeckej činnosti spôsobom, ktorý umožn
 
 Otvorená veda znamené zvýšenie rigoróznosti?presnoti?dôslednosti increased rigour, zodpovednosti a reprodukovateľnosti výskumu. Je založená na princípoch inklúzie, spravodlivosti, rovnosti a zdieľaní, a v konečnom dôsledku sa snaží zmeniť spôsob realizácie výskumu, kto je zapojený a to, ako sa výskum hodnotí?akú má výskum hodnotu how it is valued. Cieľom je otvoriť viac výskum participácii, posudzovaniu/odmietnutiu, zlepšeniu a \(opätovnému\)použitiu v prospech celého sveta.
 
-Existuje niekoľko definícií "otvorenosti", ktoré berú do úvahy rôzne aspekty vedy. Projekt [Open Definition](http://opendefinition.org/) definuje otvorennosť takto: “Otvorené dáta a obsah môže ktokoľvek voľne používať, modifikovať a zdieľať na akýkoľvek účel”. Otvorená veda zahŕňa množstvo rôznych praktík/postupov, vrátane oblastí ako otvorený prístup k publikáciám, otvorené výskumné dáta, softvér/nástroje s otvoreným zdrojovým kódom, otvorené pracovné postupuy (open workflows), občianska veda, otvorené vzdelávacie zdroje a alternatívne metódy hodnotenia výskumu, vrátane otvoreného recenzného procesu. \([Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)\).![](/Images/image_0.png)Pontika et al. \(2015\)
+Existuje niekoľko definícií "otvorenosti", ktoré berú do úvahy rôzne aspekty vedy. Projekt [Open Definition](http://opendefinition.org/)(Definícia otvorenosti) definuje otvorennosť takto: “Otvorené dáta a obsah môže ktokoľvek voľne používať, modifikovať a zdieľať na akýkoľvek účel”. Otvorená veda zahŕňa množstvo rôznych praktík/postupov, vrátane oblastí ako otvorený prístup k publikáciám, otvorené výskumné dáta, softvér/nástroje s otvoreným zdrojovým kódom, otvorené pracovné postupuy (open workflows), občianska veda, otvorené vzdelávacie zdroje a alternatívne metódy hodnotenia výskumu, vrátane otvoreného recenzného procesu. \([Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)\).![](/Images/image_0.png)Pontika et al. \(2015\)
 
 Ciele a predpoklady, ktoré sú základom snahy implementovať tieto rúzne postupy analyzovali Fecher a Friesike \([2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036)\). V svojich analýzach literatúry identifikovali päť širokých oblastí záujmu či "myšlienkových škôl". Sú to tieto: 
 
@@ -42,39 +42,39 @@ Otvorená veda, ako je definovaná vyššie v texte, zahŕňa veľké množstvo 
 ![](/Images/02%20Open%20Science%20Basics/02_open_concepts_and_principles.png)
 
 #### Poznatky a zručnosti
-* Open Science is the movement to help make the results of scholarly research more accessible, including code, data, and research papers.
+* Otvorená veda je hnutie, ktoré pomáha zabezpečiť širší prístup k výsledkom vedeckého výskumu, vrátane kódov, dát a výskumných článkov.
 
-  * It encompasses many different but often related aspects impacting the entire research lifecycle, including open publishing, open data, open source software, open notebook science, open peer review, open dissemination, and open materials \(see glossary for definitions\).
+  * Zahŕňa mnoho rôznych ale často súvisiacich aspektov, ktoré ovplyvňujú celý výskumný cyklus, vrátane otvoreného publikovania, otvorených dát, softvéru s otvoreným zdrojovým kódom, otvorené vedecké záznamy/denníky, otvorený recenzný proces, open šírenie a otvorené materiály \(definíce nájdete v glosári\).
 
 
-* History of Open Science, and the motivations behind the movement.
+* História otvorenej vedy a motivácia v pozadí hnutia.
 
-  * The origins of academic publishing began in the 17th century with the first academic journals.
+  * Počiatky akademického publikovania siahajú do 17. storočia k prvým akademickým časopisom.
 
-  * Increasing motivation to share resources between research disciplines, as well as increased transparency for greater efficiency, rigour, accountability, sustainability for future generations, and reproducibility.
+  * Rastúca motivácia zdieľať zdroje medzi jednotlivými vednými disciplínami, ako aj zvýšená transparentnosť s cieľom väčšej efektívnosti, rigoróznosti?presnosti, zodpovednosti udržateľnosti pre budúce generácie a reprodukovateľnosti.
 
-  * Ethical cases whereby increased transparency can reduce fraud, data manipulation, and selective reporting of results.
+  * Etické prípady, v ktorých zvýšená transparentnosť môže redukovať podvody, manipuláciu s dátami a selektívne reportovanie?oznamovanie?vykazovanie?hlásenie výsledkov selective reporting of results.
 
-* Present state arose from pressure from research academies and governments for publicly-funded research to be shared more openly, often for the purpose of accelerated societal or economic growth and innovation.
+* Súčasný stav je dôsledkom tlaku vedecko-výskumných pracovníkov a vlád na to otvorenejšie zdieľanie výskumu financovaný z verejných zdrojov, aby sa mohol dosiahnuť rýchlejší spoločneský a ekonomický rast a inovácie.
 
-  * Publicly funded research outputs should be publicly available.
+  * Výstupy výskumu financovaného z verejných zdrojov by mali byť verejne dostuné.
 
-  * Need to drive cultural change in research and amongst researchers.
+  * Potreba vyvolať?podporiť drive  kultúrnu zmenu vo výskume a medzi výskumníkmi. 
 
-  * Embracing of Web-based tools and technologies to facilitate scientific collaboration.
+  * Prijatie webových nástrojov a technológií na uľahčenie vedeckej spolupráce.
 
-* Differences and commonalities within Open Science practices, principles and communities.
+* Rozdielne a podobné aspekty v rámci postupov, princípov a komunít otvorenej vedy. 
 
-  * It is generally accepted that Open Science leads to increased impact associated with wider sharing and re-use \(e.g., the so-called "[open access citation advantage](https://sparceurope.org/what-we-do/open-access/sparc-europe-open-access-resources/open-access-citation-advantage-service-oaca/oaca-list/)"\).
+  * Vo všeobecnosti sa akceptuje to, že otvorená veda vedie k zvýšenému dopadu spojenému so širším zdieľaním a opätovným použitím \(napr., "[open access citation advantage](https://sparceurope.org/what-we-do/open-access/sparc-europe-open-access-resources/open-access-citation-advantage-service-oaca/oaca-list/)"\(citačná výhoda otvoreného prístupu)).
 
-  * Open Science could increase trust in science and in the reliability of scientific results.
+  * Otvorená veda by mohla zvýšiť dôveru vo vedu a spoľahlivosť vedeckých výsledkov.
 
-* Open Science and relations to licensing, copyright issues.
+* Otvorená veda a vzťah k licenciám a otázkam autorského práva.
 
-  * Typically, open research outputs are openly licensed in order to maximize re-use while allowing the creator to retain ownership and receive credit for their work.
+  * Otvorené výstupy výskumu zvyčajne majú otvorené licencie, aby sa maximalizovalo ich opätovné využitie, pričom tieto licencie umožňujú tvorcovi ponechať si vlastnícke práva a mať priznané autorstvo svojej práce.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Otázky, prekážky a bežné mylné predstavy
 
 Q: "What is the difference between Open Science and ‘science’?"
 
