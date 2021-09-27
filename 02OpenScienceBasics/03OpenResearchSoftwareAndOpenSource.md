@@ -1,11 +1,11 @@
 <img src="/Images/Icons/open_source_software.png" width="150" height="150" /> <img src="/Images/Icons/publish.png" width="150" height="150" />
-## 3. Open Research Software and Open Source
+## 3. Otvorený výskumný softvér a otvorený zdrojový kód  Open Research Software and Open Source
 
-### What is it?
+### Čo je to?
 
-Open research software, or open-source research software, refers to the use and development of software for analysis, simulation, visualization, etc. where the full source code is available. In addition, according to the [Open Source Definition](https://opensource.org/osd), open-source software must be distributed in source and/or compiled form \(with the source code available in the latter case\), and must be shared under a license that allows modification, derivation, and redistribution.
+Otvorený výskumný softvér alebo softvér s otvoreným zdrojovým kódom sa vzťahuje na používanie a vývoj softvéru na anlýzu, simuláci, vizualizáciu a i. v prípade, keď je dostupný úplný zdrojový kód. Podľa [Open Source Definition](https://opensource.org/osd) sa softvér s otvoreným zdrojovým kódom musí tiež distribuovať vo forme zdrojového kódu a/alebo kompilovanej forme \(v druhom prípade s dostupným zdrojovým kódom\), a musí sa zdieľať pod licenciou, ktorá umožňuje modifikáciu, deriváciu a redistribúciu.
 
-### Rationale
+### Odôvodnenie
 
 Modern research relies on software, and building upon—or reproducing—that research requires access to the full source code behind that software \([Barnes, 2010](https://doi.org/10/cj8t6n); [Morin et al., 2012](https://doi.org/10/m5t); [Ince et al., 2012](https://doi.org/10/hqg); [Prins et al. 2015](https://doi.org/10/f3mn4p); [Lowndes et al., 2018](https://doi.org/10/gc4jb3)\). As Buckheit and Donoho put it, paraphrasing Jon Claerbout, ‘‘An article about a computational result is advertising, not scholarship. The actual scholarship is the full software environment, code and data, that produced the result’’ \([Buckheit & Donoho, 1995](https://doi.org/10.1007/978-1-4612-2544-7_5)\). Open access to the source code of research software also helps improve the impact of the research \([Vandewalle, 2012](https://doi.org/10/gc5sjp)\).
 
