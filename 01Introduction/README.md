@@ -2,7 +2,7 @@
 
 ## Účel knihy
 
-_**"Keď budú všetci vedci vedieť o otvorenej vede a budú vzdelávaní, podporovaní a usmerňovaní tak, aby praktizovali otvorenú vedu vo všetkých štádiách svojej kariéry, bude možné zásadne zmeniť spôsob, akým sa realizuje výskum a šíria jeho výsledky, a tak podporiť vedecký ekosystém so zvýšenou viditeľnosťou, efektívnejším zdieľaním a posilnenou integritou výskumu."**_ Správa pracovnej skupiny pre zručnosti v oblasti otvorenej vedy ([Open Science Skills Working Group Report](https://ec.europa.eu/research/openscience/pdf/os_skills_wgreport_final.pdf#view=fit&pagemode=none) \2017\)
+_**"Keď budú všetci vedci vedieť o otvorenej vede a budú vzdelávaní, podporovaní a usmerňovaní tak, aby praktizovali otvorenú vedu vo všetkých štádiách svojej kariéry, bude možné zásadne zmeniť spôsob, akým sa realizuje výskum a šíria jeho výsledky, a tak podporiť vedecký ekosystém so zvýšenou viditeľnosťou, efektívnejším zdieľaním a posilnenou integritou výskumu."**_ Správa pracovnej skupiny pre zručnosti v oblasti otvorenej vedy ([Open Science Skills Working Group Report](https://ec.europa.eu/research/openscience/pdf/os_skills_wgreport_final.pdf#view=fit&pagemode=none), 2017)
 
 Hnutie otvorenej vedy si kladie za cieľ dosiahnuť, aby boli výsledky a postupy vedy dostupné všetkým a aby ich mohli všetci znovu použiť. Otvorená veda súvisí s kultúrou a poznaním v rovnakej miere ako s technológiami a službami. Preto je dôležitou úlohou presvedčiť vedcov o prínosoch zmeny ich postupov a vybaviť ich zručnosťami a vedomosťami, ktoré na to potrebujú.
 
