@@ -76,21 +76,21 @@ Otvorená veda, ako je definovaná vyššie v texte, zahŕňa veľké množstvo 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Otázky, prekážky a bežné mylné predstavy
 
-Q: "Aký je rozdiel medzi otvorenou vedou a "vedou"?"
+Otázka: "Aký je rozdiel medzi otvorenou vedou a "vedou"?"
 
-A: Otvorená veda znamená robiť tradičnú vedu transparentnejšie na rôznych úrovniach, napríklad otvoreným zdieľaním kódu alebo dát. Mnohí výskumníci už týmto spôsobom pracujú, ale nenazývajú to otvorená veda.
+Odpoveď: Otvorená veda znamená robiť tradičnú vedu transparentnejšie na rôznych úrovniach, napríklad otvoreným zdieľaním kódu alebo dát. Mnohí výskumníci už týmto spôsobom pracujú, ale nenazývajú to otvorená veda.
 
-Q: "Vylučuje "otvorená veda" humanitné a spoločenské vedy?"
+Otázka: "Vylučuje "otvorená veda" humanitné a spoločenské vedy?"
 
-A: Nie, termín otvorená veda je inkluzívny. Otvorená veda sa niekedy označuje aj v širšom zmysle ako "otvorený výskum" (Open Research) alebo "otvorená učenosť" (Open Scholarship), aby zahŕňala aj iné disciplíny, princípy a praktiky. Termín otvorená veda sa však bežne používa na viacerých úrovniach, preto je jeho prijatie na komunikačné účely má zmysel, za predpokladu, že zahŕňa všetky výskumné disciplíny.    
+Odpoveď: Nie, termín otvorená veda je inkluzívny. Otvorená veda sa niekedy označuje aj v širšom zmysle ako "otvorený výskum" (Open Research) alebo "otvorená učenosť" (Open Scholarship), aby zahŕňala aj iné disciplíny, princípy a praktiky. Termín otvorená veda sa však bežne používa na viacerých úrovniach, preto je jeho prijatie na komunikačné účely má zmysel, za predpokladu, že zahŕňa všetky výskumné disciplíny.    
 
-Q: "Vedie otvorená veda k zneužitiu alebo nepochopeniu výskumu?"
+Otázka: "Vedie otvorená veda k zneužitiu alebo nepochopeniu výskumu?"
 
-A: Nie, v skutočnosti aplikovanie otvorenej vedy chráni pred zneužívaním či nepochopením. Transparentnosť vedie k dôvere, istote a umožňuje ostatným overiť a validovať výskumný proces.
+Odpoveď: Nie, v skutočnosti aplikovanie otvorenej vedy chráni pred zneužívaním či nepochopením. Transparentnosť vedie k dôvere, istote a umožňuje ostatným overiť a validovať výskumný proces.
 
-Q: "Nebude dôsledkom otvorenej vedy prílišné preťaženie informáciami?"
+Otázka: "Nebude dôsledkom otvorenej vedy prílišné preťaženie informáciami?"
 
-A: Je lepšie mať príliš veľa informácií a zaoberať sa tým, ako ich mať príliš málo a riskovať, že dôležité informácie nám budú chýbať. A máme k dispozícii technológie ako RSS informačné kanály, strojové učenie a umelá inteligencia, ktoré uľahčujú agregovanie obsahu.
+Odpoveď: Je lepšie mať príliš veľa informácií a zaoberať sa tým, ako ich mať príliš málo a riskovať, že dôležité informácie nám budú chýbať. A máme k dispozícii technológie ako RSS informačné kanály, strojové učenie a umelá inteligencia, ktoré uľahčujú agregovanie obsahu.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Výsledky vzdelávania
