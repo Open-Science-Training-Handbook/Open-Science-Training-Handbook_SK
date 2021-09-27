@@ -1,13 +1,13 @@
 ## <img src="/Images/Icons/idea.png" width="200" height="200" />
-## Glossary
+## Glosár
 
-**Altmetrics**
+**Altmetriky?Alternatívne metriky Altmetrics**
 
-* Altmetrics are alternative ways of recording and measuring the use and impact of scholarship. Rather than solely counting the number of times a work is cited in scholarly literature, alternative metrics also measure and analyze social media (e.g., Facebook, Twitter, blogs, wikis, etc.), document downloads, links to publishing and unpublished research, and other uses of research literature, in order to provide a more comprehensive measurement of reach and impact.
+* Altmetriky sú alternatívne spôsoby zaznamenávania a merania používania a dopadu vedy. Namiesto výhradného sledovania toho, koľkokrát je dielo citované vo vedeckej literatúre, sa alternatívne metriky zameriavajú skôr na meranie a analýzu sociálnych médií (napr. Facebook, Twitter, blogy, wiki a pod.), stiahnutí dokumentu, odkazy na publikovaný a nepublikovaný výskum a iné použitia vedecko-výskumnej literatúry, aby sa získalo komplexné meranie dosahu a dopadu.
 
-**Audience**
+**Publikum?Cieľová skupina Audience**
 
-* The group addressed by a communication (e.g., those in attendance of an Open Science training). The target audience is a group of individuals that will be addressed or affected by the training.
+* Skupina, ktorej je určená komunikácia (napr. účastníci vzdelávania o ovtvorenej vede). Cieľová skupina je skupina jednotlivých osôb, ktorým je vzdelávanie určené alebo sa ich dotýka. 
 
 **Behaviorism (Learning Theory)**
 
