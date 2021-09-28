@@ -5,79 +5,79 @@
 
 * Altmetriky sú alternatívne spôsoby zaznamenávania a merania používania a dopadu vedy. Namiesto výhradného sledovania toho, koľkokrát je dielo citované vo vedeckej literatúre, sa alternatívne metriky zameriavajú skôr na meranie a analýzu sociálnych médií (napr. Facebook, Twitter, blogy, wiki a pod.), stiahnutí dokumentu, odkazy na publikovaný a nepublikovaný výskum a iné použitia vedecko-výskumnej literatúry, aby sa získalo komplexné meranie dosahu a dopadu.
 
-**Publikum?Cieľová skupina Audience**
+**Publikum**
 
-* Skupina, ktorej je určená komunikácia (napr. účastníci vzdelávania o ovtvorenej vede). Cieľová skupina je skupina jednotlivých osôb, ktorým je vzdelávanie určené alebo sa ich dotýka. 
+* Skupina, ktorej je určená komunikácia (napr. účastníci vzdelávacieho podujatia o otvorenej vede). Cieľová skupina je skupina jednotlivých osôb, ktorým je vzdelávanie určené alebo sa ich dotýka. 
 
-**Behaviorism (Learning Theory)**
+**Behaviorizmus (teória učenia sa)**
 
-* Behaviorism means that learning is governed by drill-and-practice and is best done with the use of stimuli to which the learners respond. This generally means that you ask the learner to do an exercise for which there is a clear answer or a clear path to follow. Evaluation is clear and can easily be done with the help of simple metrics.
+* Behaviorizmus znamená, že učenie sa je podmienené nácvikom a praxou a najlepšie prebieha, ak sa použije podnet, na ktorý jedinec reaguje. Vo všeobecnosti to znamená, že požiadate učiaceho sa, aby spravil cvičenie, na ktoré exituje jasná odpoveď alebo zrejmá cesta, ktorú majú sledovať. Hodnotenie je jasné a dá sa ľahko realizovať s pomocu jednoduchých metrík.
 
-**Cognitivism**
+**Kognitivizmus**
 
-* Cognitivism is based on the interaction between the outer world and what the reflecting brain makes out of the information perceived in combination with the knowledge that it has already stored. Cognitivism concentrates therefore on problem solving.
+* Kognitivizmus je založený na interakcii medzi vonkajším svetoma a tým, čo si reflektujúci mozog?myseľ/človek  dokáže pochopiť z vnímaných informácií v kombinácii s poznatkami, ktoré už má uložené v pamäti. Kognitivizmus sa preto zameriava na riešenie problému.     Cognitivism is based on the interaction between the outer world and what the reflecting brain makes out of the information perceived in combination with the knowledge that it has already stored.
 
-**Connectivism**
+**Konektivizmus**
 
-* Connectivism is the integration of principles explored by chaos, network, complexity and self-organization theories. Connectivism is driven by the understanding that decisions are based on rapidly altering foundations, as new information is continually being acquired. 
+* Konektivizmus je integrácia princípov skúmaných teóriami chaosu, sietí, komplexnosti a samoorganizácie. Konektivizmus vyhcádza z pochopenia toho, že rozhodnutia sú založené na rýchlo sa meniacich základoch, pretože jedinec neustále získava nové informácie. 
 
-**Constructivism**
+**Konštruktivizmus**
 
-* Constructivism in the strict sense means the world is not as it is. Instead the world is primarily the product of our individual experiences and minds. In the context of teaching and learning this means that learners themselves create the path of learning. The focus is hence on the learner’s creativity and evaluation of progress is not based on the differentiation between right or wrong.
+* Konštruktivizmus v užšom slova zmysle znamená, že svet nie je taký, aký sa javí. namiesto toho je svet hlavne produktom našich individuálnych zážitkov a mysle. V kontexte učenia a učenia sa to znamená, že samotní učiaci sa si vytvárajú cesty, ktorými sa učia. Dôraz je preto na kreativite učiacich sa a hodnotení pokroku sa nezakladá na odlíšení dobrého od zlého.
 
-**Copyright**
+**Autorské právo (Copyright)**
 
-* The aspect of Intellectual property that grants creators the right to permit (or not permit) the reproduction of their creations. It is distinct from trademark rights or moral rights.
+* Aspekt duševného vlastníctva, ktorý dáva tvorcom právo udeliť (alebo neudeliť) povolenie na reprodukovanie svojho diela. Líši sa od práv súvisiach s ochrannými známkami a morálnymch práv.
 
 **Creative Commons**
 
-* A suite of standardized licences that allow copyright holders to grant some rights to users by default. CC licences are widely used, simple to use, machine readable, and have been created by legal experts. There are a variety of CC licences, each of which use one or more clauses. Some licences are compatible with Open Access in the Budapest sense (CC0 or those carrying the BY, SA, and ND clauses), and some are not (carrying the NC clause). 
+* Rad šdandardizovaných licencií, ktoré umožňujú nositeľovi práv automaticky udeliť používateľom niektoré práva. CC licencie sa široko používajú, ich použitie je jednoduché, sú strojov čitateľné a vytvorili ich právni experti. Existuje množstvo CC licencií, pričom každá obsahuje jednu alebo viac podmienok. Niektoré licencie sú kompatibilné s otvoreným prístupom v zmysle budapeštianskej deklarácie (CC0 alebo tie, ktoré obsahujú podmienku Uvedenie Autora (BY), Rovnaké Šírenie (SA) a Žiadne Odvodené diela (ND)) a niektoré s ním nie sú komaptibilné (obsahujú podmienk Nekomerčné Použitie (NC)).          
 
-**Curriculum**
+**Kurikulum**
 
-* Curriculum refers to the lessons and other training content taught in a school or in a specific course or program within a defined structure.
+* Kurikulum sa vzťahuje na lekcie a iný obsah vzdelávania vyučovaný v škole alebo v konkrétnom kurze či programe so stanovenou štruktúrou.
 
-**Data**
+**Dáta**
 
-* Data in the sense used here are all digitally available objects (simple or complex) that emerge or are the result of the research process.
+* Dáta v zmysle používanom tu?v tejto príručke sú digitálne dostupné objekty (jednoduché alebo zložité), ktoré vznikajú alebo sú výsledkom výsledkom výskumného procesu.   Data in the sense used here are all digitally available objects (simple or complex) that emerge or are the result of the research process.
 
-**Data Mining**
+**Dolovanie dát (Data Mining)**
 
-* An analytic process designed to explore data in search of consistent patterns or systematic relationships between variables, transforming data into information for future use.
+* Analytický proces určený na skúmanie dát pri hľadaní konzistentých vzorcov alebo systémových vzťahov medzi premennými, transformujúci dáta na informácie na budúce použitie.    An analytic process designed to explore data in search of consistent patterns or systematic relationships between variables, transforming data into information for future use.
 
-**Digital Object Identifier (DOI)**
+**Digitálny identifikátor objektov ? Identifikátor digitálnych objektov Digit Object Identifier (DOI) - pozri Readme v Gabi Fišová**
 
-* A unique text string that is used to identify digital objects such as journal articles, data sets or open source software releases. A DOI is one type of Persistent Identifier (PID).
+* Jedinečný textový reťazec, ktorý sa používa na identifikovanie digitálnych objektov, ako sú články v časopisoch, dátové súbory a vydaný softvér s otvoreným zdrojovým kódom. DOI je typom trvalého identifikátor (PID, z angl. persistent identifier).
 
-**Documentation**
+**Dokumentácia**
 
-* A documentation is detailed information as well as background and methodological approach about the data or code (e.g., description of the project, variables, and measuring instruments). 
+* Dokumentácia obsahuje podrobné informácie o dátach alebo kóde, ako aj pozadie a metodologický prístup k dátam alebo kódu (napr., opis projektu, premenné a nástroje merania). 
 
-**FAIR Data**
+**FAIR dáta**
 
-* FAIR Data (according to [FORCE11 principles](https://www.force11.org/group/fairgroup/fairprinciples) and published in [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) are Findable, Accessible, Interoperable, and Re-usable, in order to facilitate knowledge discovery by assisting humans and machines in their discovery of, access to, integration and analysis of, task-appropriate scientific data and their associated algorithms and workflows.
+* FAIR dáta (podľa [FORCE11 principles](https://www.force11.org/group/fairgroup/fairprinciples) a publikované v [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) sú vyhľadateľné, dostupné, interoperabilné a opätovne použiteľné, aby sa uľahčilo nájdenie poznatkov, tým že sa pomôže ľuďom a strojom násjť, získať, integrovať a analyzovať také vedecké údaje a súvisiace algoritmy a pracovné postupy, ktoré zodpovedajú prislušnej?zadanej úlohe.     FAIR Data are Findable, Accessible, Interoperable, and Re-usable, in order to facilitate knowledge discovery by assisting humans and machines in their discovery of, access to, integration and analysis of, task-appropriate scientific data and their associated algorithms and workflows.
 
-**Gamification**
+**Gamifikácia**
 
-* The use of game design elements and game mechanics in non-game contexts, such as education where it can be used to bring extra engagement.
+* Využívanie herných prvkov, herného dizajnu a herných mechaník v nehernom kontexte, ako je vzdelávanie, kde sa môže využiť na zvýšenie zapojenia.
 
 **GDPR**
 
-* (General Data Protection Regulation) seeks to create a harmonised data protection law framework across the EU. It aims to restitute the control of personal data to citizens, whilst imposing strict rules on those hosting and 'processing' these data, anywhere in the world. The Regulation also introduces rules relating to the free movement of personal data within and outside the EU.
+* (Všeobecné nariadenie o ochrane údajov) snaži sa vytvoriť harmonizovaný právny rámec ochrany údajov v celej EÚ. Cieľom je vrátiť občanom kontrolu na osobnými údajmi, a zároveň uložiť prísne pravidlá tým, ktorí takéto údaje hosťujú a "spracúvajú" kdekoľvek na svete. Nariadenie tiežzavádza pravidlá týkajúce sa voľného pohybu osobných údajov vo vnútri a mimo EÚ.    
 
-**Impact Factor**
+**Impakt faktor**
 
-* A numerical measure that indicates the average number of citations to articles published over the previous two years in a journal. It is frequently used as a proxy for a journal's relative importance. Its transfer to the impact of individual articles published in a journal is considered to be problematic.
+* Číselné meradlo, ktoré uvádza priemerný počet citácií článkov publikovaných počas predchádzajúcich dvoch rokov v časopise. Často sa používa ako zástupný údaj vyjadrujúci relatívnu dôležitosť časopisu. Jeho prenos na impakt jednotlivých článkov publikovaných v časopise sa považuje za problmatický.   A numerical measure that indicates the average number of citations to articles published over the previous two years in a journal. It is frequently used as a proxy for a journal's relative importance. Its transfer to the impact of individual articles published in a journal is considered to be problematic.
 
-**Intellectual Property**
+**Duševné vlastníctvo**
 
-* A legal term that refers to creations of the mind. Examples of intellectual property include music, literature, paintings, sculpturing, video and other artistic works; discoveries and inventions; and phrases, symbols, and designs.
+* Právny výraz, ktorý sa vzťahuje na výsledky tvorivého myslenia alebo tvorivej dušenej činnosti. Medzi príklady dušeného vlastníctva patria hudobné, literárne, maliarske, sochárske diela, video a iné umelecké diela, objavy a vynálezy, frázy, ysmboly a dizajny.   A legal term that refers to creations of the mind. Examples of intellectual property include music, literature, paintings, sculpturing, video and other artistic works; discoveries and inventions; and phrases, symbols, and designs.
 
-**Journal**
+**Časopis**
 
-* A series of published research articles. Historically divided into volumes and issues.
+* Séria?Rad publikovaných výskumných článkov. Historicky rozdelený do ročníkov a čísiel.   A series of published research articles. Historically divided into volumes and issues.
 
-**License**
+**Licencia**
 
 * A license allows a third party to perform certain actions with a work or data. The license informs about the usage rights of a resource (e.g. text, data, source code).
 
