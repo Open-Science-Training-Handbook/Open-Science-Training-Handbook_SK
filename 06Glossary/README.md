@@ -141,57 +141,57 @@
 
 * Súbor, v ktorom dokumentujete svoje výskumné dáta. Dokumentácia by mala byť tak dostatočná, že umožní iným vedcom porozumieť dátam, replikovať alebo reprodukovať dáta či ich opätovne použiť akýmkoľvek spôsobom.   File where you document your research data. The documentation should be sufficient to enable other researchers to understand, replicate or reproduce the data or reuse them in any other way.
 
-**Reporting Bias opravím**
+**Reporting Bias**
 
-* Reporting bias occurs when certain aspects of a study are systematically not reported transparently, creating wastage and redundancy through selective reporting or non-publishing.
+* Reporting bias nastáva, keď systematicky dochádza k tomu, že sa určité aspekty výskumu nereportujú transparentne, pričom pri selektívnom reportovaní a nepublikovaní dochádza k plytvaniu a redundancii     Reporting bias occurs when certain aspects of a study are systematically not reported transparently, creating wastage and redundancy through selective reporting or non-publishing.
 
-**Repository**
+**Repozitár**
 
-* Repository is defined as the infrastructure and corresponding service that allows for the persistent, efficient and sustainable storage of digital objects (such as documents, data and code). 
+* Repozitár je definovaný ako infraštruktúra an príslušné služby, ktoré umožňujú trvalé, efektívne a udržateľné uloženie digitálnych objektov (ako sú dokumenty, dáta a kódy). 
 
-**Reproducible Research**
+**Reprodukovateľný výskum**
 
-* Reproducibility is a spectrum and instructors should choose the definition most used by their audience. Generally speaking, reproducible research makes it possible to obtain similar results of a study or experiment and independent results obtained with the same methods but under different conditions (i.e., pertains to results). Some break the definition into levels of reproducibility, including computationally reproducible (also called "reproducible"): where code and data can be analyzed in a similar manner as in the original research to achieve the same results, and empirically reproducible (also called “replicable”): where an independent researcher can repeat a study using the same methods but creating new data.
+* Reprodukovateľnosť zahŕňa celé spektrum definícií a školitelia by mali vybrať definíciu, ktorú ich publikum najviac používa. Vo všeobecnosti môžme povedať, že reprodukovateľný výskum umožňuje získať podobné výsledky z výskumu alebo experimentu a nezávislé výsledky získané tými istými metódami ale v iných podmienkach (t.j., týka sa výsledkov). Niekedy sa definícia ďalej člení na úrovne reprodukovateľnosti, vrátane výpočtovo reprodukovateľných (tiež nazývané "reprodukovateľné"), kedy sa kód a dáta môžu analyzovať podobným spôsobom ako v pôvodonom výskume so zámerom dosiahnuť tie isté výsledky, a empiricky reprodukovateľných (tiež nazývané "replikovateľné"), kedy nezávislí výskumníci môžu zopakovať výskum, pričom použijú rovnaké metódy ale vytvoria nové dáta.       Reproducibility is a spectrum and instructors should choose the definition most used by their audience. Generally speaking, reproducible research makes it possible to obtain similar results of a study or experiment and independent results obtained with the same methods but under different conditions (i.e., pertains to results). Some break the definition into levels of reproducibility, including computationally reproducible (also called "reproducible"): where code and data can be analyzed in a similar manner as in the original research to achieve the same results, and empirically reproducible (also called “replicable”): where an independent researcher can repeat a study using the same methods but creating new data.
 
-**Research Impact**
+**Dopad?Impakt výskumu Research Impact**
 
-* Involve academic, economic and societal aspects, or some combination of all three. Impact is the demonstrable contribution that research makes in shifting understanding and advancing scientific, method, theory and application across and within disciplines, and the broader role that this plays outside of the research system.
+* Zahŕňa akademické, ekonomické a spoločenské aspekty alebo kombináciu všetkých troch. Dopad je preukázateľný prínos výskumu k zmene pochopenia vedy rozvíjaniu vedeckých metód, teórie a aplikácie naprieč disciplínami a v rámci nich, ako aj širšia rola, pričom zohráva aj širšiu rolu mimo vedecko-výskumného systému.   Involve academic, economic and societal aspects, or some combination of all three. Impact is the demonstrable contribution that research makes in shifting understanding and advancing scientific, method, theory and application across and within disciplines, and the broader role that this plays outside of the research system.
 
-**Research Funder**
+**Fincovateľ výskumu**
 
-* An institute, corporation or government body that provides financial assistance for research.
+* Inštitúcia, korporácia alebo vládny orgán, ktorý poskytujú výskumu finančnú podporu. An institute, corporation or government body that provides financial assistance for research.
 
-**Scholarly Communication**
+**Vedecká komunikácia ? Scholarly Communication**
 
-* The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community. The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community.
+* Tvorba, transformácia, šírenie a uchovávanie poznatkov súvisiacich s učením, výskumom a vedeckým úsilím. Je to proces, v rámci ktorého akademici, vedci a výskumníci zdieľajú a publikujú výsledky svojho výskumu tak, aby boli dostupné širšej akademickej komunite.      The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community.
 
-**Sharing**
+**Zdieľanie**
 
-* The joint use of a resource or space. A fundamental aspect of collaborative research. As most research is digitally-authored & digitally-published, the resulting digital content is non-rivalrous and can be shared without any loss to the original creator.
+* Spoločbé využívanie priestoru. Základný aspekt kolaboratívneho výskumu. Keďže sa väčšina výskumu vytvára a publikuje digitálne, výsledný digitálny obsah nie je konkurečný a može sa zdieľať bez akejkoľvek ujmny, ktorú by utrpel pôvodný tvorca.   The joint use of a resource or space. A fundamental aspect of collaborative research. As most research is digitally-authored & digitally-published, the resulting digital content is non-rivalrous and can be shared without any loss to the original creator.
 
-**Subscription**
+**Predplatné**
 
-* A form of business model whereby a fee is paid in order to gain access to a product or service - in this case, the outputs of scholarly research.
+* Obchodný model, v rámci ktorého sa platí poplatok za získanie prístupu k produktu alebo službe, v tomto prípade, výstupom vedeckého výskumu. A form of business model whereby a fee is paid in order to gain access to a product or service - in this case, the outputs of scholarly research.
 
-**Trainer**
+**Školiteľ**
 
-* The moderator and instructor of a training, whose role is to ensure the training objectives are met, run the practice, and ensure no one is left out.
+* Moderátori a inštruktori vzdelávania, ktorých úlohou je zaistiť, že ciele vzdelávania sa dosiahnu, viesť praktické cvičenia a zabezpečiť, že nikto nebude vynechaný.   ktoThe moderator and instructor of a training, whose role is to ensure the training objectives are met, run the practice, and ensure no one is left out.
 
-**Training**
+**Vzdelávacie poujatie?Školenie Training**
 
-* Training is any organised activity that teaches, informs, or transfers skills or knowledge on specific useful competencies through active, engaged learning. 
+* Vzdelávacie podujatie je organizovaná činnosť, v rámci ktorej sa učí, informuje alebo prenášajú zručnosti či vedomosti súvisiace s konkrétnymi užitičnými kompetenciami, a to prostredníctvom aktívneho, zaujímavého učenia sa.  Training is any organised activity that teaches, informs, or transfers skills or knowledge on specific useful competencies through active, engaged learning. 
 
-**Training Format**
+**Formát vzdelávacieho podujatia?školenia  Training Format**
 
-* A conventionally named, standardised delivery method that is applied by a trainer and includes any number of the pedagogical tools necessary (i.e. motivation/demotivation, hands-on approaches, etc).
+* Tradične?bežne pomenovaná, štandardizovaná metóda, ktorá sa používa a ktorá zahŕňa akýkoľvek počet potrebných pedagogockých nástrjov (t.j., motivácia/demotivácia, praktický prístupy (hands-on) a pod.).   A conventionally named, standardised delivery method that is applied by a trainer and includes any number of the pedagogical tools necessary (i.e. motivation/demotivation, hands-on approaches, etc).
 
-**Version Control**
+**Správa verzií**
 
-* Version control is the management of changes to documents, computer programs, large web sites, and other collections of information in a logical and persistent manner, allowing for both track changes and the ability to revert a piece of information to a previous revision.
+* Správa verzií je manažment zmien dokumentov, počítačových programov, veľkých webových stránok a iných súborov informácií logickým a perzistentným spôsobom. Umoňuje sledovať zmeny, ako aj obnovenie informácií z predchádzajúcej revízie. Version control is the management of changes to documents, computer programs, large web sites, and other collections of information in a logical and persistent manner, allowing for both track changes and the ability to revert a piece of information to a previous revision.
 
-## Additional Resources
+## Ďalšie zdroje
 
-* [Open Research Glossary](http://www.righttoresearch.org/resources/OpenResearchGlossary/index.shtml), hosted by the R2RC.
+* [Open Research Glossary](http://www.righttoresearch.org/resources/OpenResearchGlossary/index.shtml), hosťovaný alianciou R2RC.
 
 * [FOSTER Taxonomy](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)
 
