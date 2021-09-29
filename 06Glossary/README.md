@@ -79,69 +79,69 @@
 
 **Licencia**
 
-* A license allows a third party to perform certain actions with a work or data. The license informs about the usage rights of a resource (e.g. text, data, source code).
+* Licencia umožňuje tretej strane použiť prácu alebo dáta určitým spôsobom. Licencia informuje o užívateľských právach na zdroj (napr. text, dáta, zdorjový kód).    license allows a third party to perform certain actions with a work or data. The license informs about the usage rights of a resource (e.g. text, data, source code).
 
-**Metadata**
+**Metadáta**
 
-* Metadata provide a basic description of the data, often including authorship, dates, title, abstract, keywords, and license information. They serve first and foremost the findability of data (e.g. creator, time period, geographic location).
+* Metadáta poskytujú zákaldný opis dáta, vrátane autorstva, dátumov, názvu, abstraktu, kľúčových slov a informácií o licencii. Slúžia v prvom rade na na to, aby sa dali dáta nájsť (napr. tvorca, časové obdobie, zmepeisná poloha).   Metadata provide a basic description of the data, often including authorship, dates, title, abstract, keywords, and license information. They serve first and foremost the findability of data (e.g. creator, time period, geographic location).
 
-**Open Access**
+**Otvorený prístup**
 
-* Open Access refers to online, free of cost access to peer reviewed scientific content with free reusability regarding copyright restrictions.
+* Otvorený prístup znamená bezplatný online prístup k recenzovanému vedeckému obsahu s možnosťou voľného opätovného použitia z hľadiska obmedzení autorského práva.  Open Access refers to online, free of cost access to peer reviewed scientific content with free reusability regarding copyright restrictions.
 
-**Open Data**
+**Otvorené dáta**
 
-* Open Data are online, free of cost, accessible data that can be used, reused and distributed provided that the data source is attributed.
+* Otvorené dáta sú údaje dostupné bezplatne a online a ktoré sa dajú použiť, použiť opätovne a distribuovať pod podmienkou, že sa uvedie zdroj dát.  Open Data are online, free of cost, accessible data that can be used, reused and distributed provided that the data source is attributed.
 
-**Open Evaluation**
+**Otvorené hodnotenie**
 
-* The development of a fair evaluation system or protocol for research proposals, based on transparency of the process and those involved.
+* Vývoj spravodlivého systému alebo protokolu hodnotenia vyskýmných návrhov?návrhov na výskum, založený na transparentnosti procesu a zainteresovaných osôsb.   The development of a fair evaluation system or protocol for research proposals, based on transparency of the process and those involved.
 
-**Open Lab Notebooks**
+**Otvorené laboratórne denníky OK? Open Lab Notebooks**
 
-* A concept of writing about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained.
+* Koncepcia pravidelného zapisovania informácií o výskume tak, že výskumné záznamy?denníky?poznámyk sa akumulujú a publikujú online okamžite po ich prijatí. A concept of writing about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained.
 
-**Open Materials**
+**Otvorený nateriál**
 
-* Sharing of research materials, for example, biological and geological samples, is another Open Science practice.
+* Zdieľanie výskumného materiálu, napríklad biologických a geologických vzoriek, je ďalšia súčasť praxe otvorenej vedy. Sharing of research materials, for example, biological and geological samples, is another Open Science practice.
 
-**Open Peer Review**
+**Otvorené recenzné konanie**
 
-* An umbrella term for a number of overlapping ways that peer review models can be adapted in line with the aims of Open Science, including making reviewer and author identities open, publishing review reports and enabling greater participation in the peer review process.
+* Termín zastrešujúci mnoho prekrývajúcich sa spôsobov, ktorými je možné upraviť modely recenzného procesu tak, aby boli v súlade s cieľmi otvorenej vedy, vrátane otvorenia identity recenzenta a autora, publikovania recenzií a umožnenia väčšej participácie na recenznom procese.   An umbrella term for a number of overlapping ways that peer review models can be adapted in line with the aims of Open Science, including making reviewer and author identities open, publishing review reports and enabling greater participation in the peer review process.
 
-**Open Science**
+**Otvorená veda**
 
-* Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society.
+* Otvorená veda je hnutie, ktoré je zamerané na sprístupnenie vedeckého výskumu, dát a šírenia na všetkých úrovniach zvedavej?skúmajúcej?pýtajucej sa spoločnosti.  Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society.
 
-**Open Source**
+**Otvorený zdrojový kód**
 
-* Availability of source code for a piece of software, along with an open source license permitting reuse, adaptation, and further distribution.
+* Dostupnosť zdrojoého kódu pre časť softvéru, spolu s licenciou na otvorený zdrojový kód, ktorá umožňuje jeho opätovné použitie, prispôsobenie a ďalšie šírenie.  Availability of source code for a piece of software, along with an open source license permitting reuse, adaptation, and further distribution.
 
-**Peer Review**
+**Recenzné konanie**
 
-* A process by which a research article is vetted by experts from the community before publication.
+* Proces, v rácmi ktorého je výskumný článok preverný odborníkmi z komunity pred jeho publikovaním. A process by which a research article is vetted by experts from the community before publication.
 
-**Persistent Identifier (PID)**
+**Trvalý/perzistentný identifikátor (PID)**
 
-* A persistent identifier (also PID) is a unique and stable denomination (reference) of a digital resource (e.g. research data) through allocation of a code that can be persistently and explicitly referenced on the internet.
+* Trvalý identifikátor (tiež PID) je jedinečné a stabilné označenie (odkaz) digitálneho zdroja (napr. výskumných dát) prostredníctvom pridelenia kódu, na ktorý slúži ako trvalý a konzistentný odkaz na internete.   A persistent identifier (also PID) is a unique and stable denomination (reference) of a digital resource (e.g. research data) through allocation of a code that can be persistently and explicitly referenced on the internet.
 
-**Persistent/Preferred File Formats**
+**Trvalé/preferovné formáty súborov**
 
-* Non-proprietary formats that follow documented international standards, are commonly used by the research community, use standard character encoding (e.g. ASCII, UTF-8), and were compression, if used at all, is lossless.
+* Neproprietárne?Nechránené formáty, ktoré sa riadia dokumentovanými medzinárodnými štandardmi, bežne používané v rámci vedeckej komunity, používajú štandarndé kódovanie znakov (napr. ASCII, UTF-8) a pri ktorých pri kompresi, ak sa vôbec použije, nedochádza k strate.    Non-proprietary formats that follow documented international standards, are commonly used by the research community, use standard character encoding (e.g. ASCII, UTF-8), and were compression, if used at all, is lossless.
 
 **Preprint**
 
-* A manuscript draft that has not yet been subject to formal peer review, distributed to receive early feedback on research from peers.
+* Rukopis, ktorý zatiaľ neprešiel recenným konaním, šírený so zámerom získať včasnú spätnú väzbu na výskum od kolegov?ďalších vedcov.  A manuscript draft that has not yet been subject to formal peer review, distributed to receive early feedback on research from peers.
 
-**Preregistration**
+**Predregistráci?Preregistrácia  Preregistration**
 
-* Researchers have the option or are required to submit important information about their study (for example: research rationale, hypotheses, design and analytic strategy) to a public registry before beginning the study. Preregistration can help counter reporting bias.
+* Výskmuníci majú možnosť alebo sa od nich vyžaduje odovzdať dôležité informácie o svojom výskume (napríklad: odôvodnenie výskumu, hypotézy, dizajn a analytická stratégia) do verejného registra pred začatím výskumu. Preregistrácie môže pomôcť predchádzať?zabrániť nesprávnemu?zaujatému? reportovaniu?informovaniu o výskume.   Researchers have the option or are required to submit important information about their study (for example: research rationale, hypotheses, design and analytic strategy) to a public registry before beginning the study. Preregistration can help counter reporting bias.
 
-**README file**
+**README súbor**
 
-* File where you document your research data. The documentation should be sufficient to enable other researchers to understand, replicate or reproduce the data or reuse them in any other way.
+* Súbor, v ktorom dokumentujete svoje výskumné dáta. Dokumentácia by mala byť tak dostatočná, že umožní iným vedcom porozumieť dátam, replikovať alebo reprodukovať dáta či ich opätovne použiť akýmkoľvek spôsobom.   File where you document your research data. The documentation should be sufficient to enable other researchers to understand, replicate or reproduce the data or reuse them in any other way.
 
-**Reporting Bias**
+**Reporting Bias opravím**
 
 * Reporting bias occurs when certain aspects of a study are systematically not reported transparently, creating wastage and redundancy through selective reporting or non-publishing.
 
