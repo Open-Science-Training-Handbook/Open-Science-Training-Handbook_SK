@@ -1,9 +1,9 @@
 ## <img src="/Images/Icons/idea.png" width="200" height="200" />
 ## Glosár
 
-**Altmetriky?Alternatívne metriky Altmetrics**
+**Altmetriky (Altmetrics)**
 
-* Altmetriky sú alternatívne spôsoby zaznamenávania a merania používania a dopadu vedy. Namiesto výhradného sledovania počtu citácií diela vo vedeckej literatúre sa alternatívne metriky zameriavajú skôr na meranie a analýzu sociálnych médií (napr. Facebook, Twitter, blogy, wikipédie a pod.), stiahnutí dokumentu, odkazy na publikovaný a nepublikovaný výskum a iné použitia vedecko-výskumnej literatúry, aby sa získalo komplexné meranie dosahu a dopadu.
+* Altmetriky sú alternatívne spôsoby ako zaznamenávať a merať použitie výsledkov výskumnej činnosti a jej dosah. Namiesto výhradného sledovania počtu citácií diela vo vedeckej literatúre sa altmetriky zameriavajú skôr na meranie a analýzu sociálnych médií (napr. Facebook, Twitter, blogy, wikipédie a pod.), počtov stiahnutí dokumentu, odkazov na publikovaný a nepublikovaný výskum a iných druhov použitia vedecko-výskumnej literatúry, s cieľom získať komplexnejšie meranie dosahu a dopadu.
 
 **Publikum**
 
@@ -15,7 +15,7 @@
 
 **Kognitivizmus**
 
-* Kognitivizmus je založený na interakcii medzi vonkajším svetom a a tým, čo reflektujúci mozog?myseľ/človek dokáže pochopiť z vnímaných informácií v kombinácii s poznatkami, ktoré už má uložené v pamäti. Kognitivizmus sa preto zameriava na riešenie problému.     Cognitivism is based on the interaction between the outer world and what the reflecting brain makes out of the information perceived in combination with the knowledge that it has already stored.
+* Kognitivizmus je založený na interakcii medzi vonkajším svetom a tým, čo reflektujúci mozog dokáže pochopiť z vnímaných informácií v kombinácii s poznatkami, ktoré už má uložené v pamäti. Kognitivizmus sa preto zameriava na riešenie problémov.
 
 **Konektivizmus**
 
@@ -23,11 +23,11 @@
 
 **Konštruktivizmus**
 
-* Konštruktivizmus v užšom slova zmysle znamená, že svet nie je taký, aký sa javí. Namiesto toho je svet hlavne produktom našich individuálnych zážitkov a mysle. V kontexte učenia a učenia sa to znamená, že samotní učiaci sa si vytvárajú cesty, ktorými sa učia. Dôraz je preto na kreativite učiacich sa a hodnotenie pokroku sa nezakladá na odlíšení dobrého od zlého.
+* Konštruktivizmus v užšom slova zmysle znamená, že svet nie je taký, aký sa javí. Namiesto toho je svet hlavne produktom našich individuálnych zážitkov a mysle. V kontexte učenia a učenia sa to znamená, že samotní študenti si vytvárajú cesty, ktorými sa učia. Dôraz je preto na kreativite učiacich sa a hodnotenie pokroku sa nezakladá na odlíšení správneho od nesprávneho.
 
 **Autorské právo (Copyright)**
 
-* Aspekt duševného vlastníctva, ktorý dáva tvorcom právo udeliť (alebo neudeliť) povolenie na reprodukovanie svojho diela. Líši sa od práv súvisiacich s ochrannými známkami a morálnym právom.
+* Aspekt duševného vlastníctva, ktorý dáva tvorcom právo udeliť (alebo neudeliť) povolenie na reprodukovanie svojho diela. Líši sa od práv priemyselného vlastníctva (patenty, ochranné známky). Copyright v anglo-americkej tradícii sa zameriava na majetkové práva, nie morálne práva. Slovenský autorský zákon pozná majetkové aj morálne práva autora.
 
 **Creative Commons**
 
