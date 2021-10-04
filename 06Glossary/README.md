@@ -55,7 +55,7 @@
 
 **FAIR dáta**
 
-* FAIR dáta (podľa [FORCE11 princípov](https://www.force11.org/group/fairgroup/fairprinciples) a publikované v [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) sú vyhľadateľné, dostupné, interoperabilné a opätovne použiteľné, aby sa uľahčilo nájdenie poznatkov, a to tak, že sa ľuďom a strojom pomôže násjť, získať, integrovať a analyzovať také vedecké údaje a súvisiace algoritmy a pracovné postupy, ktoré zodpovedajú prislušnej?zadanej úlohe.     FAIR Data are Findable, Accessible, Interoperable, and Re-usable, in order to facilitate knowledge discovery by assisting humans and machines in their discovery of, access to, integration and analysis of, task-appropriate scientific data and their associated algorithms and workflows.
+* FAIR dáta (podľa [FORCE11 princípov](https://www.force11.org/group/fairgroup/fairprinciples) a publikované v [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) sú vyhľadateľné, dostupné, interoperabilné a opätovne použiteľné, s cieľom uľahčiť ľuďom aj strojom vyhľadať poznatky spôsobom, ktorý im pomôže násjť, získať, integrovať a analyzovať také vedecké údaje a súvisiace algoritmy a pracovné postupy, ktoré zodpovedajú prislušnej?zadanej úlohe.     FAIR Data are Findable, Accessible, Interoperable, and Re-usable, in order to facilitate knowledge discovery by assisting humans and machines in their discovery of, access to, integration and analysis of, task-appropriate scientific data and their associated algorithms and workflows.
 
 **Gamifikácia**
 
@@ -63,7 +63,7 @@
 
 **GDPR**
 
-* (Všeobecné nariadenie o ochrane údajov) snaží sa vytvoriť harmonizovaný právny rámec ochrany údajov v celej EÚ. Cieľom je vrátiť občanom kontrolu na osobnými údajmi, a zároveň uložiť prísne pravidlá tým, ktorí takéto údaje hosťujú a "spracúvajú" kdekoľvek na svete. Nariadenie tiež zavádza pravidlá týkajúce sa voľného pohybu osobných údajov vo vnútri EÚ a mimo nej.    
+* (Všeobecné nariadenie o ochrane údajov) snaží sa vytvoriť harmonizovaný právny rámec ochrany údajov v celej EÚ. Cieľom je vrátiť občanom kontrolu na osobnými údajmi a zároveň uložiť prísne pravidlá tým, ktorí takéto údaje hosťujú a "spracúvajú" kdekoľvek na svete. Nariadenie tiež zavádza pravidlá týkajúce sa voľného pohybu osobných údajov vo vnútri EÚ a mimo nej.    
 
 **Impakt faktor**
 
@@ -87,7 +87,7 @@
 
 **Otvorený prístup**
 
-* Otvorený prístup znamená online bezplatný prístup k recenzovanému vedeckému obsahu s možnosťou voľného opätovného použitia z hľadiska obmedzení vyplývajúcich z autorského práva.  Open Access refers to online, free of cost access to peer reviewed scientific content with free reusability regarding copyright restrictions.
+* Otvorený prístup znamená online bezplatný prístup k recenzovanému vedeckému obsahu s možnosťou jeho voľného opätovného použitia z hľadiska obmedzení vyplývajúcich z autorského práva.  Open Access refers to online, free of cost access to peer reviewed scientific content with free reusability regarding copyright restrictions.
 
 **Otvorené dáta**
 
@@ -95,11 +95,11 @@
 
 **Otvorené hodnotenie**
 
-* Vývoj spravodlivého systému alebo protokolu hodnotenia výskumných návrhov?návrhov na výskum, založený na transparentnosti procesu a zainteresovaných osôb.   The development of a fair evaluation system or protocol for research proposals, based on transparency of the process and those involved.
+* Vývoj spravodlivého systému alebo protokolu posudzovania výskumných návrhov?návrhov na výskum, založený na transparentnosti procesu a zainteresovaných osôb.   The development of a fair evaluation system or protocol for research proposals, based on transparency of the process and those involved.
 
 **Otvorené laboratórne denníky OK? Open Lab Notebooks**
 
-* Koncepcia pravidelného zapisovania informácií o výskume tak, že sa výskumné záznamy?denníky?poznámky akumulujú a publikujú online okamžite po ich prijatí. A concept of writing about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained.
+* Koncepcia pravidelného zapisovania informácií o výskume tak, že sa výskumné záznamy?denníky?poznámky zhromažďujú a publikujú online okamžite po ich prijatí. A concept of writing about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained.
 
 **Otvorený materiál**
 
@@ -107,7 +107,7 @@
 
 **Otvorené recenzné konanie**
 
-* Termín zastrešujúci mnoho prekrývajúcich sa spôsobov, ktorými je možné upraviť modely recenzného procesu tak, aby boli v súlade s cieľmi otvorenej vedy, vrátane otvorenia identity recenzenta a autora, publikovania recenzií a umožnenia väčšej participácie na recenznom procese.   An umbrella term for a number of overlapping ways that peer review models can be adapted in line with the aims of Open Science, including making reviewer and author identities open, publishing review reports and enabling greater participation in the peer review process.
+* Termín zastrešujúci mnoho spôsobov, ktorá sa prekrývajú a ktorými je možné upraviť modely recenzného procesu tak, aby boli v súlade s cieľmi otvorenej vedy, vrátane otvorenia identity recenzenta a autora, publikovania recenzií a umožnenia väčšej participácie na recenznom procese.   An umbrella term for a number of overlapping ways that peer review models can be adapted in line with the aims of Open Science, including making reviewer and author identities open, publishing review reports and enabling greater participation in the peer review process.
 
 **Otvorená veda**
 
@@ -119,7 +119,7 @@
 
 **Recenzné konanie**
 
-* Proces, v rámci ktorého je výskumný článok pred publikovaním preverný odborníkmi z komunity. A process by which a research article is vetted by experts from the community before publication.
+* Proces, v rámci ktorého je výskumný článok pred publikovaním preverený odborníkmi z komunity. A process by which a research article is vetted by experts from the community before publication.
 
 **Trvalý identifikátor (PID)**
 
@@ -135,15 +135,15 @@
 
 **Predregistráci?Preregistrácia  Preregistration**
 
-* Výskumníci majú možnosť alebo povinnosť odovzdať dôležité informácie o svojom výskume (napríklad: odôvodnenie výskumu, hypotézy, dizajn a analytická stratégia) do verejného registra pred začatím výskumu. Preregistrácie môže pomôcť predchádzať nesprávnemu?zaujatému? reportovaniu?informovaniu o výskume.   Researchers have the option or are required to submit important information about their study (for example: research rationale, hypotheses, design and analytic strategy) to a public registry before beginning the study. Preregistration can help counter reporting bias.
+* Vedci majú možnosť alebo povinnosť odovzdať dôležité informácie o svojom výskume (napríklad: odôvodnenie výskumu, hypotézy, dizajn a analytická stratégia) do verejného registra pred začatím výskumu. Preregistrácie môže pomôcť predchádzať nesprávnemu?zaujatému? podávaniu správ o výskume.   Researchers have the option or are required to submit important information about their study (for example: research rationale, hypotheses, design and analytic strategy) to a public registry before beginning the study. Preregistration can help counter reporting bias.
 
 **README súbor**
 
 * Súbor, v ktorom dokumentujete svoje výskumné dáta. Dokumentácia by mala byť taká dostatočná, aby umožnila iným vedcom porozumieť dátam, replikovať alebo reprodukovať dáta či ich opätovne použiť akýmkoľvek spôsobom.   File where you document your research data. The documentation should be sufficient to enable other researchers to understand, replicate or reproduce the data or reuse them in any other way.
 
-**Reporting Bias**
+**Nesprávne?Zaujaté podávanie správ Reporting Bias**
 
-* Reporting bias nastáva, keď systematicky dochádza k tomu, že sa určité aspekty výskumu nereportujú transparentne, pričom pri selektívnom reportovaní a nepublikovaní dochádza k plytvaniu a redundancii.     Reporting bias occurs when certain aspects of a study are systematically not reported transparently, creating wastage and redundancy through selective reporting or non-publishing.
+* Reporting bias nastáva, keď systematicky dochádza k tomu, že sa o určitých aspektoch výskumu nepodávajú transparentné správy, pričom pri selektívnom reportovaní a nepublikovaní dochádza k plytvaniu a redundancii.     Reporting bias occurs when certain aspects of a study are systematically not reported transparently, creating wastage and redundancy through selective reporting or non-publishing.
 
 **Repozitár**
 
@@ -161,7 +161,7 @@
 
 * Inštitúcia, korporácia alebo vládny orgán, ktoré poskytujú výskumu finančnú podporu. An institute, corporation or government body that provides financial assistance for research.
 
-**Vedecká komunikácia ok? Scholarly Communication**
+**Vedecká komunikácia OK? Scholarly Communication**
 
 * Tvorba, transformácia, šírenie a uchovávanie poznatkov súvisiacich s učením, výskumom a vedeckým úsilím. Je to proces, v rámci ktorého akademici, vedci a výskumníci zdieľajú a publikujú výsledky svojho výskumu tak, aby boli dostupné širšej akademickej komunite.      The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community.
 
