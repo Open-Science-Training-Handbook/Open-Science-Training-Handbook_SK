@@ -3,7 +3,7 @@
 
 **Altmetriky (Altmetrics)**
 
-* Altmetriky sú alternatívne spôsoby ako zaznamenávať a merať použitie výsledkov výskumnej činnosti a jej dosah. Namiesto výhradného sledovania počtu citácií diela vo vedeckej literatúre sa altmetriky zameriavajú skôr na meranie a analýzu sociálnych médií (napr. Facebook, Twitter, blogy, wikipédie a pod.), počtov stiahnutí dokumentu, odkazov na publikovaný a nepublikovaný výskum a iných druhov použitia vedecko-výskumnej literatúry, s cieľom získať komplexnejšie meranie dosahu a dopadu.
+* Altmetriky sú alternatívne spôsoby ako zaznamenávať a merať dosah výsledkov výskumnej činnosti. Namiesto výhradného sledovania počtu citácií diela vo vedeckej literatúre sa altmetriky zameriavajú aj na meranie a analýzu sociálnych médií (napr. Facebook, Twitter, blogy, wikipédie a pod.), počtov stiahnutí dokumentu, odkazov na publikovaný a nepublikovaný výskum a iných druhov použitia vedecko-výskumnej literatúry, s cieľom získať komplexnejšie meranie dosahu a dopadu.
 
 **Publikum**
 
@@ -35,19 +35,19 @@
 
 **Kurikulum**
 
-* Kurikulum sa vzťahuje na lekcie a iný obsah vzdelávania vyučovaný v škole alebo v konkrétnom kurze či programe so stanovenou štruktúrou.
+* Pojem Kurikulum sa vzťahuje na lekcie a iný vzdelávací obsah vyučovaný v škole alebo v konkrétnom kurze či programe a vyznačuje sa jasne definovanou štruktúrou.
 
 **Dáta**
 
-* Dáta v zmysle používanom tu?v tejto príručke sú digitálne dostupné objekty (jednoduché alebo zložité), ktoré vznikajú alebo sú výsledkom výskumného procesu.   Data in the sense used here are all digitally available objects (simple or complex) that emerge or are the result of the research process.
+* Pojmom Dáta označujeme v tejto príručke všetky digitálne dostupné objekty (jednoduché alebo komplexné), ktoré vznikajú alebo sú výsledkom výskumného procesu.
 
 **Dolovanie dát (Data Mining)**
 
-* Analytický proces určený na skúmanie dát pri hľadaní konzistentných vzorcov alebo systémových vzťahov medzi premennými, transformujúci dáta na informácie na budúce použitie.    An analytic process designed to explore data in search of consistent patterns or systematic relationships between variables, transforming data into information for future use.
+* Analytický proces určený na skúmanie dát pri hľadaní konzistentných vzorcov alebo systémových vzťahov medzi premennými, ktorý transformuje dáta na využiteľné informácie.
 
-**Digitálny identifikátor objektov ? Identifikátor digitálnych objektov Digit Object Identifier (DOI) - pozri Readme v Gabi Fišová**
+**Identifikátor digitálneho objektu (Digital Object Identifier, DOI)**
 
-* Jedinečný textový reťazec, ktorý sa používa na identifikovanie digitálnych objektov, ako sú články v časopisoch, dátové súbory a vydaný softvér s otvoreným zdrojovým kódom. DOI je typom trvalého identifikátor (PID, z angl. persistent identifier).
+* Jedinečný textový reťazec, ktorý sa používa na označovanie digitálnych objektov, ako sú články v časopisoch, dátové súbory a vydaný softvér s otvoreným zdrojovým kódom. DOI je typom trvalého identifikátora (PID, z angl. persistent identifier).
 
 **Dokumentácia**
 
