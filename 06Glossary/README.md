@@ -55,39 +55,39 @@
 
 **FAIR dáta**
 
-* FAIR dáta (podľa [FORCE11 princípov](https://www.force11.org/group/fairgroup/fairprinciples) a publikované v [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) sú vyhľadateľné, dostupné, interoperabilné a opätovne použiteľné, s cieľom uľahčiť ľuďom aj strojom vyhľadať poznatky spôsobom, ktorý im pomôže násjť, získať, integrovať a analyzovať také vedecké údaje a súvisiace algoritmy a pracovné postupy, ktoré zodpovedajú prislušnej?zadanej úlohe.     FAIR Data are Findable, Accessible, Interoperable, and Re-usable, in order to facilitate knowledge discovery by assisting humans and machines in their discovery of, access to, integration and analysis of, task-appropriate scientific data and their associated algorithms and workflows.
+* FAIR dáta (podľa [princípov FORCE11](https://www.force11.org/group/fairgroup/fairprinciples), publikované v [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) sú vyhľadateľné, dostupné, interoperabilné a opätovne použiteľné, s cieľom uľahčiť ľuďom aj strojom vyhľadávanie poznatkov spôsobom, ktorý im pomôže násjť, získať, integrovať a analyzovať také vedecké údaje a súvisiace algoritmy a pracovné postupy, ktoré zodpovedajú prislušnej úlohe.
 
 **Gamifikácia**
 
-* Využívanie herných prvkov, herného dizajnu a herných mechaník v nehernom kontexte, ako je vzdelávanie, v ktorom sa môže využiť na zvýšenie zapojenia.
+* Využívanie herných prvkov, herného dizajnu a herných mechaník v nehernom kontexte, ako je vzdelávanie, v ktorom sa môže využiť na zvýšenie aktívneho zapojenia študentov.
 
-**GDPR**
+**GDPR (General Data Protection Regulation)**
 
-* (Všeobecné nariadenie o ochrane údajov) snaží sa vytvoriť harmonizovaný právny rámec ochrany údajov v celej EÚ. Cieľom je vrátiť občanom kontrolu na osobnými údajmi a zároveň uložiť prísne pravidlá tým, ktorí takéto údaje hosťujú a "spracúvajú" kdekoľvek na svete. Nariadenie tiež zavádza pravidlá týkajúce sa voľného pohybu osobných údajov vo vnútri EÚ a mimo nej.    
+* Všeobecné nariadenie na ochranu osobných údajov snaží sa vytvoriť harmonizovaný právny rámec ochrany údajov v celej EÚ. Cieľom je vrátiť občanom kontrolu nad osobnými údajmi a zároveň uložiť prísne pravidlá tým, ktorí takéto údaje ukladajú, spravujú a "spracúvajú" kdekoľvek na svete. Nariadenie tiež zavádza pravidlá týkajúce sa voľného pohybu osobných údajov vo vnútri EÚ a mimo nej.    
 
-**Impakt faktor**
+**Impakt faktor časopisu**
 
-* Číselné meradlo, ktoré uvádza priemerný počet citácií článkov publikovaných počas predchádzajúcich dvoch rokov v časopise. Často sa používa ako zástupný údaj vyjadrujúci relatívnu dôležitosť časopisu. Jeho prenos na impakt jednotlivých článkov publikovaných v časopise sa považuje za problematický.   A numerical measure that indicates the average number of citations to articles published over the previous two years in a journal. It is frequently used as a proxy for a journal's relative importance. Its transfer to the impact of individual articles published in a journal is considered to be problematic.
+* Metrika (číselný ukazovateľ), ktorá udáva priemerný počet citácií článkov publikovaných v určitom vedeckom časopise počas predchádzajúcich dvoch rokov. Často sa používa ako zástupný údaj vyjadrujúci relatívnu dôležitosť časopisu. Prenášanie impakt faktora časopisu na dosah jednotlivých článkov, ktoré v ňom boli publikované, sa považuje za problematické.
 
 **Duševné vlastníctvo**
 
 * Právny výraz, ktorý sa vzťahuje na výsledky tvorivého myslenia alebo tvorivej dušenej činnosti. Medzi príklady dušeného vlastníctva patria hudobné, literárne, maliarske, sochárske diela, video a iné umelecké diela, objavy a vynálezy, frázy, symboly a dizajny.   A legal term that refers to creations of the mind. Examples of intellectual property include music, literature, paintings, sculpturing, video and other artistic works; discoveries and inventions; and phrases, symbols, and designs.
 
-**Časopis**
+**Časopis vedecký**
 
-* Séria?Rad publikovaných výskumných článkov. Historicky rozdelený do ročníkov a čísiel.   A series of published research articles. Historically divided into volumes and issues.
+* Periodikum (seriálová publikácia) primárne určené na uverejňovanie výsledkov pôvodného výskumu. Publikuje sa pravidelne vo forme jednotlivých čísel (vydaní, zahŕňajúcich určitý počet vedeckých článkov). Čísla časopisu vydané v támci jedného roka tvoria ročník časopisu.
 
 **Licencia**
 
-* Licencia umožňuje tretej strane použiť prácu alebo dáta určitým spôsobom. Licencia informuje o užívateľských právach na zdroj (napr. text, dáta, zdrojový kód).    license allows a third party to perform certain actions with a work or data. The license informs about the usage rights of a resource (e.g. text, data, source code).
+* Licencia umožňuje tretej strane použiť prácu alebo dáta určitým spôsobom. Licencia informuje o právach na použitie zdroja (napr. textu, dát, zdrojového kódu).    
 
 **Metadáta**
 
-* Metadáta poskytujú základný opis dát, vrátane autorstva, dátumov, názvu, abstraktu, kľúčových slov a informácií o licencii. Slúžia v prvom rade na to, aby sa dali dáta nájsť (napr. tvorca, časové obdobie, zemepisná poloha).   Metadata provide a basic description of the data, often including authorship, dates, title, abstract, keywords, and license information. They serve first and foremost the findability of data (e.g. creator, time period, geographic location).
+* Metadáta poskytujú základný opis dát, vrátane autorstva, dátumov (napr. podania do časopisu, prijatia, zverejnenia), názvu, abstraktu, kľúčových slov a informácií o licencii. Slúžia v prvom rade na to, aby bolo možné dáta nájsť (napr. tvorca, časové obdobie, zemepisná poloha).
 
 **Otvorený prístup**
 
-* Otvorený prístup znamená online bezplatný prístup k recenzovanému vedeckému obsahu s možnosťou jeho voľného opätovného použitia z hľadiska obmedzení vyplývajúcich z autorského práva.  Open Access refers to online, free of cost access to peer reviewed scientific content with free reusability regarding copyright restrictions.
+* Otvorený prístup znamená online prístup, bezplatný pre čitateľa, k recenzovanému vedeckému obsahu, ktorý môže byť voľne opätovne používaný (v hraniciach autorského práva).
 
 **Otvorené dáta**
 
