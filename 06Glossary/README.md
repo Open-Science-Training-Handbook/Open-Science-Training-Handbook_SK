@@ -45,7 +45,7 @@
 
 * Analytický proces určený na skúmanie dát pri hľadaní konzistentných vzorcov alebo systémových vzťahov medzi premennými, ktorý transformuje dáta na využiteľné informácie.
 
-**Identifikátor digitálneho objektu (Digital Object Identifier, DOI)**
+**Digitálny identifikátor objektu (Digital Object Identifier, DOI)**
 
 * Jedinečný textový reťazec, ktorý sa používa na označovanie digitálnych objektov, ako sú články v časopisoch, dátové súbory a vydaný softvér s otvoreným zdrojovým kódom. DOI je typom trvalého identifikátora (PID, z angl. persistent identifier).
 
@@ -91,27 +91,27 @@
 
 **Otvorené dáta**
 
-* Otvorené dáta sú také údaje, ktoré sú dostupné online, bezplatne a ktoré sa dajú použiť, opätovne použiť a distribuovať pod podmienkou, že sa uvedie zdroj dát.  Open Data are online, free of cost, accessible data that can be used, reused and distributed provided that the data source is attributed.
+* Otvorené dáta sú také údaje, ktoré sú dostupné online, bezplatne a ktoré sa dajú použiť, opätovne použiť a distribuovať pod podmienkou, že sa uvedie zdroj dát.
 
 **Otvorené hodnotenie**
 
-* Vývoj spravodlivého systému alebo protokolu posudzovania výskumných návrhov?návrhov na výskum, založený na transparentnosti procesu a zainteresovaných osôb.   The development of a fair evaluation system or protocol for research proposals, based on transparency of the process and those involved.
+* Vývoj spravodlivého systému alebo protokolu posudzovania výskumných návrhov, založený na transparentnosti procesu a zainteresovaných osôb.
 
-**Otvorené laboratórne denníky OK? Open Lab Notebooks**
+**Otvorené laboratórne knihy**
 
-* Koncepcia pravidelného zapisovania informácií o výskume tak, že sa výskumné záznamy?denníky?poznámky zhromažďujú a publikujú online okamžite po ich prijatí. A concept of writing about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained.
+* Koncepcia pravidelného zapisovania informácií o výskume tak, že sa výskumné záznamy (laboratórne knihy) zhromažďujú a publikujú online okamžite po ich vytvorení.
 
 **Otvorený materiál**
 
-* Zdieľanie výskumného materiálu, napríklad biologických a geologických vzoriek, je ďalšia súčasť praxe otvorenej vedy. Sharing of research materials, for example, biological and geological samples, is another Open Science practice.
+* Zdieľanie výskumného materiálu, napríklad biologických a geologických vzoriek, je ďalšia súčasť praxe otvorenej vedy.
 
 **Otvorené recenzné konanie**
 
-* Termín zastrešujúci mnoho spôsobov, ktorá sa prekrývajú a ktorými je možné upraviť modely recenzného procesu tak, aby boli v súlade s cieľmi otvorenej vedy, vrátane otvorenia identity recenzenta a autora, publikovania recenzií a umožnenia väčšej participácie na recenznom procese.   An umbrella term for a number of overlapping ways that peer review models can be adapted in line with the aims of Open Science, including making reviewer and author identities open, publishing review reports and enabling greater participation in the peer review process.
+* Termín zastrešujúci mnoho navzájom sa prekrývajúcich spôsobov, ktorými je možné upraviť modely recenzného procesu tak, aby boli v súlade s cieľmi otvorenej vedy. Patrí sem otvorenie identity recenzenta a autora, publikovanie textu posudkov a umožnenie širšej participácie na recenznom procese.
 
 **Otvorená veda**
 
-* Otvorená veda je hnutie, ktoré sa zameriava na sprístupnenie vedeckého výskumu, dát a šírenia na všetkých úrovniach zvedavej?skúmajúcej?pýtajucej sa spoločnosti.  Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society.
+* Otvorená veda je hnutie, ktoré sa zameriava na sprístupnenie vedeckého výskumu, dát a šírenia na všetkých úrovniach znalostnej spoločnosti.  Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society.
 
 **Otvorený zdrojový kód**
 
