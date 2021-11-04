@@ -63,7 +63,7 @@
 
 **GDPR (General Data Protection Regulation)**
 
-* Všeobecné nariadenie na ochranu osobných údajov snaží sa vytvoriť harmonizovaný právny rámec ochrany údajov v celej EÚ. Cieľom je vrátiť občanom kontrolu nad osobnými údajmi a zároveň uložiť prísne pravidlá tým, ktorí takéto údaje ukladajú, spravujú a "spracúvajú" kdekoľvek na svete. Nariadenie tiež zavádza pravidlá týkajúce sa voľného pohybu osobných údajov vo vnútri EÚ a mimo nej.    
+* Všeobecné nariadenie na ochranu osobných údajov, ktoré sa snaží vytvoriť harmonizovaný právny rámec ochrany údajov v celej EÚ. Cieľom je vrátiť občanom kontrolu nad osobnými údajmi a zároveň uložiť prísne pravidlá tým, ktorí takéto údaje ukladajú, spravujú a "spracúvajú" kdekoľvek na svete. Nariadenie tiež zavádza pravidlá týkajúce sa voľného pohybu osobných údajov vo vnútri EÚ a mimo nej.    
 
 **Impakt faktor časopisu**
 
@@ -111,15 +111,15 @@
 
 **Otvorená veda**
 
-* Otvorená veda je hnutie, ktoré sa zameriava na sprístupnenie vedeckého výskumu, dát a šírenia na všetkých úrovniach znalostnej spoločnosti.  Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society.
+* Otvorená veda je hnutie, ktoré sa zameriava na sprístupnenie vedeckého výskumu, dát a šírenia na všetkých úrovniach znalostnej spoločnosti.  
 
 **Otvorený zdrojový kód**
 
-* Dostupnosť zdrojového kódu pre časť softvéru, spolu s licenciou na otvorený zdrojový kód, ktorá umožňuje jeho opätovné použitie, prispôsobenie a ďalšie šírenie.  Availability of source code for a piece of software, along with an open source license permitting reuse, adaptation, and further distribution.
+* Dostupnosť zdrojového kódu pre časť softvéru, spolu s licenciou na otvorený zdrojový kód, ktorá umožňuje jeho opätovné použitie, prispôsobenie a ďalšie šírenie. 
 
 **Recenzné konanie**
 
-* Proces, v rámci ktorého je výskumný článok pred publikovaním preverený odborníkmi z komunity. A process by which a research article is vetted by experts from the community before publication.
+* Proces, v rámci ktorého je výskumný článok pred publikovaním preverený odborníkmi z komunity. 
 
 **Trvalý identifikátor (PID)**
 
