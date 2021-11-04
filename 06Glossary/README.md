@@ -43,19 +43,19 @@
 
 **Behaviorizmus (teória učenia sa)**
 
-* Behaviorizmus znamená, že učenie sa je podmienené nácvikom a praxou a najlepšie prebieha, ak sa použije podnet, na ktorý jedinec reaguje. Vo všeobecnosti to znamená, že požiadate učiaceho sa, aby spravil cvičenie, na ktoré exituje jasná odpoveď alebo zrejmá cesta, ktorú majú sledovať. Hodnotenie je jasné a dá sa ľahko realizovať pomocou jednoduchých metrík.
+* Behaviorizmus znamená, že učenie sa je podmienené nácvikom a praxou a najlepšie prebieha, ak sa použije podnet, na ktorý jedinec reaguje. Vo všeobecnosti to znamená, že požiadate učiaceho sa, aby spravil cvičenie, na ktoré exituje jasná odpoveď alebo zrejmá cesta, ktorú majú sledovať. Hodnotenie je jasné a dá sa ľahko realizovať pomocou jednoduchých metrík. <a href="#section1">[1]</a>
 
 **Kognitivizmus**
 
-* Kognitivizmus je založený na interakcii medzi vonkajším svetom a tým, čo reflektujúci mozog dokáže pochopiť z vnímaných informácií v kombinácii s poznatkami, ktoré už má uložené v pamäti. Kognitivizmus sa preto zameriava na riešenie problémov.
+* Kognitivizmus je založený na interakcii medzi vonkajším svetom a tým, čo reflektujúci mozog dokáže pochopiť z vnímaných informácií v kombinácii s poznatkami, ktoré už má uložené v pamäti. Kognitivizmus sa preto zameriava na riešenie problémov. <a href="#section1">[1]</a>
 
 **Konektivizmus**
 
-* Konektivizmus je integrácia princípov skúmaných teóriami chaosu, sietí, komplexnosti a samoorganizácie. Konektivizmus vychádza z pochopenia toho, že rozhodnutia sú založené na rýchlo sa meniacich základoch, pretože jedinec neustále získava nové informácie. 
+* Konektivizmus je integrácia princípov skúmaných teóriami chaosu, sietí, komplexnosti a samoorganizácie. Konektivizmus vychádza z pochopenia toho, že rozhodnutia sú založené na rýchlo sa meniacich základoch, pretože jedinec neustále získava nové informácie. <a href="#section1">[1]</a> 
 
 **Konštruktivizmus**
 
-* Konštruktivizmus v užšom slova zmysle znamená, že svet nie je taký, aký sa javí. Namiesto toho je svet hlavne produktom našich individuálnych zážitkov a mysle. V kontexte učenia a učenia sa to znamená, že samotní študenti si vytvárajú cesty, ktorými sa učia. Dôraz je preto na kreativite učiacich sa a hodnotenie pokroku sa nezakladá na odlíšení správneho od nesprávneho.          
+* Konštruktivizmus v užšom slova zmysle znamená, že svet nie je taký, aký sa javí. Namiesto toho je svet hlavne produktom našich individuálnych zážitkov a mysle. V kontexte učenia a učenia sa to znamená, že samotní študenti si vytvárajú cesty, ktorými sa učia. Dôraz je preto na kreativite učiacich sa a hodnotenie pokroku sa nezakladá na odlíšení správneho od nesprávneho. <a href="#section1">[1]</a>          
 
 **Kurikulum**
 
@@ -189,7 +189,8 @@
 
 * Správa verzií je manažment zmien dokumentov, počítačových programov, veľkých webových stránok a iných súborov informácií logickým a perzistentným spôsobom. Umožňuje sledovať zmeny, ako aj obnoviť informácie z predchádzajúcej revízie. Version control is the management of changes to documents, computer programs, large web sites, and other collections of information in a logical and persistent manner, allowing for both track changes and the ability to revert a piece of information to a previous revision.
 
-## Ďalšie zdroje
+## Poznámky a ďalšie zdroje
+<p>[1] Definície teórií učenia (behaviorizmus, kognitivizmus, konektivizmus, konštruktivizmus) boli autormi pre potreby tejto príručky silne zjednodušené. Presnejšie tieto teórie charakterizuje napr. Palmarová 2008. (https://pdf.truni.sk/e-ucebnice/iktv/data/media/iktvv/Palmarova.pdf)</p> 
 
 * [Open Research Glossary](http://www.righttoresearch.org/resources/OpenResearchGlossary/index.shtml), hosťovaný alianciou R2RC.
 
