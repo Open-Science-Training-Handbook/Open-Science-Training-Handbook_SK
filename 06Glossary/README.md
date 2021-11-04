@@ -115,79 +115,79 @@
 
 **Otvorený zdrojový kód**
 
-* Dostupnosť zdrojového kódu pre časť softvéru, spolu s licenciou na otvorený zdrojový kód, ktorá umožňuje jeho opätovné použitie, prispôsobenie a ďalšie šírenie. 
+* Dostupnosť zdrojového kódu pre softvér, spolu s licenciou na otvorený zdrojový kód, ktorá umožňuje jeho opätovné použitie, prispôsobenie a ďalšie šírenie. 
 
 **Recenzné konanie**
 
-* Proces, v rámci ktorého je výskumný článok pred publikovaním preverený odborníkmi z komunity. 
+* Proces, v rámci ktorého je výskumný článok pred publikovaním preverený odborníkmi z vedeckej komunity. 
 
 **Trvalý identifikátor (PID)**
 
-* Trvalý identifikátor (tiež PID) je jedinečné a stabilné označenie (odkaz) digitálneho zdroja (napr. výskumných dát) prostredníctvom pridelenia kódu, ktorý slúži ako trvalý a konzistentný odkaz na internete.   A persistent identifier (also PID) is a unique and stable denomination (reference) of a digital resource (e.g. research data) through allocation of a code that can be persistently and explicitly referenced on the internet.
+* Trvalý identifikátor (tiež PID) je jedinečné a stabilné označenie digitálneho zdroja (napr. výskumných dát) prostredníctvom pridelenia kódu, ktorý slúži ako trvalý a konzistentný odkaz na internete.
 
 **Trvalé/preferovné formáty súborov**
 
-* Neproprietárne?Nechránené formáty, ktoré sa riadia dokumentovanými medzinárodnými štandardmi, bežne sa používajú vo vedeckej komunite, používajú štandarndé kódovanie znakov (napr. ASCII, UTF-8) a pri kompresi, ak sa vôbec použije, nedochádza k strate.    Non-proprietary formats that follow documented international standards, are commonly used by the research community, use standard character encoding (e.g. ASCII, UTF-8), and were compression, if used at all, is lossless.
+* Neproprietárne formáty súborov, ktoré rešpektujú dokumentované medzinárodné štandardy, bežne sa používajú vo vedeckej komunite, používajú štandarndé kódovanie znakov (napr. ASCII, UTF-8) a pri kompresi, ak sa vôbec použije, nedochádza k strate.
 
 **Preprint**
 
-* Rukopis, ktorý zatiaľ neprešiel recenzným konaním, šírený so zámerom získať od kolegov?ďalších vedcov včasnú spätnú väzbu na výskum.  A manuscript draft that has not yet been subject to formal peer review, distributed to receive early feedback on research from peers.
+* Rukopis, ktorý zatiaľ neprešiel recenzným konaním, šírený so zámerom získať od ďalších vedcov včasnú spätnú väzbu na výskum.
 
-**Predregistráci?Preregistrácia  Preregistration**
+**Predregistrácia (Preregistration)**
 
-* Vedci majú možnosť alebo povinnosť odovzdať dôležité informácie o svojom výskume (napríklad: odôvodnenie výskumu, hypotézy, dizajn a analytická stratégia) do verejného registra pred začatím výskumu. Preregistrácie môže pomôcť predchádzať nesprávnemu?zaujatému? podávaniu správ o výskume.   Researchers have the option or are required to submit important information about their study (for example: research rationale, hypotheses, design and analytic strategy) to a public registry before beginning the study. Preregistration can help counter reporting bias.
+* Vedci majú možnosť alebo povinnosť zadať dôležité informácie o svojom výskume (napríklad: odôvodnenie výskumu, hypotézy, dizajn a analytická stratégia) do verejného registra pred začatím výskumu. Predregistrácia môže pomôcť predchádzať skresleniam pri informovaní o výskume (reporting bias - napr. nekorektné preformulovanie hypotéz na základe výsledkov).
 
 **README súbor**
 
-* Súbor, v ktorom dokumentujete svoje výskumné dáta. Dokumentácia by mala byť taká dostatočná, aby umožnila iným vedcom porozumieť dátam, replikovať alebo reprodukovať dáta či ich opätovne použiť akýmkoľvek spôsobom.   File where you document your research data. The documentation should be sufficient to enable other researchers to understand, replicate or reproduce the data or reuse them in any other way.
+* Súbor, v ktorom dokumentujete svoje výskumné dáta. Dokumentácia by mala poskytovať dosť informácií, aby umožnila iným vedcom porozumieť dátam, replikovať alebo reprodukovať dáta či ich opätovne použiť akýmkoľvek spôsobom.
 
-**Nesprávne?Zaujaté podávanie správ Reporting Bias**
+**Skreslené informovanie o výskume (Reporting Bias)**
 
-* Reporting bias nastáva, keď systematicky dochádza k tomu, že sa o určitých aspektoch výskumu nepodávajú transparentné správy, pričom pri selektívnom reportovaní a nepublikovaní dochádza k plytvaniu a redundancii.     Reporting bias occurs when certain aspects of a study are systematically not reported transparently, creating wastage and redundancy through selective reporting or non-publishing.
+* Pojmem reporting bias označuje situáciu, keď sa o niektorých aspektoch výskumu systematicky informuje netransparentne, čo vedie k plytvaniu prostriedkami a redundancii v dôsledku selektívneho informovania alebo nepublikovania.
 
 **Repozitár**
 
-* Repozitár je definovaný ako infraštruktúra a príslušné služby, ktoré umožňujú trvalé, efektívne a udržateľné uloženie digitálnych objektov (ako sú dokumenty, dáta a kódy). 
+* Repozitár je definovaný ako infraštruktúra a príslušné služby, ktoré umožňujú trvalé, efektívne a udržateľné uloženie digitálnych objektov (ako sú dokumenty, dáta a softvér). 
 
 **Reprodukovateľný výskum**
 
-* Reprodukovateľnosť zahŕňa celé spektrum definícií a školitelia by mali vybrať definíciu, ktorú ich publikum najviac používa. Vo všeobecnosti môžeme povedať, že reprodukovateľný výskum umožňuje získať podobné výsledky z výskumu alebo experimentu a nezávislé výsledky získané tými istými metódami ale v iných podmienkach (t.j., týka sa výsledkov). Niekedy sa definícia ďalej člení na úrovne reprodukovateľnosti, vrátane výpočtovo reprodukovateľných (tiež nazývané "reprodukovateľné"), kedy sa kód a dáta môžu analyzovať podobným spôsobom ako v pôvodnom výskume so zámerom dosiahnuť tie isté výsledky, a empiricky reprodukovateľných (tiež nazývané "replikovateľné"), kedy nezávislí výskumníci môžu zopakovať výskum, pričom použijú rovnaké metódy ale vytvoria nové dáta.       Reproducibility is a spectrum and instructors should choose the definition most used by their audience. Generally speaking, reproducible research makes it possible to obtain similar results of a study or experiment and independent results obtained with the same methods but under different conditions (i.e., pertains to results). Some break the definition into levels of reproducibility, including computationally reproducible (also called "reproducible"): where code and data can be analyzed in a similar manner as in the original research to achieve the same results, and empirically reproducible (also called “replicable”): where an independent researcher can repeat a study using the same methods but creating new data.
+* Reprodukovateľnosť má celé spektrum definícií a školitelia by mali vybrať definíciu, ktorú ich publikum najviac používa. Vo všeobecnosti možno povedať, že reprodukovateľný výskum umožňuje získať podobné výsledky z výskumu alebo experimentu a nezávislé výsledky získané tými istými metódami ale v iných podmienkach (t.j., týka sa výsledkov). Niektorí autori členia definíciu ďalej úrovne reprodukovateľnosti, vrátane výpočtovej reprodukovateľnosti, ktorá umožňuje analyzovať kód a dáta  podobným spôsobom ako v pôvodnom výskume a dosiahnuť rovnaké výsledky, a empirickej reprodukovateľnosti (tiež nazývanej "replikovateľnosť"), kedy nezávislí výskumníci môžu zopakovať výskum, pričom použijú rovnaké metódy, ale vytvoria nové dáta.
 
-**Dopad?Impakt výskumu Research Impact**
+**Dopad výskumu (Research Impact)**
 
-* Zahŕňa akademické, ekonomické a spoločenské aspekty alebo ich kombináciu. Dopad je preukázateľný prínos výskumu k zmene pochopenia vedy a rozvíjaniu vedeckých metód, teórie a aplikácie naprieč disciplínami a v rámci nich, pričom zohráva aj širšiu rolu mimo vedecko-výskumného systému.   Involve academic, economic and societal aspects, or some combination of all three. Impact is the demonstrable contribution that research makes in shifting understanding and advancing scientific, method, theory and application across and within disciplines, and the broader role that this plays outside of the research system.
+* Zahŕňa akademické, ekonomické a spoločenské aspekty alebo ich kombináciu. Dopad je preukázateľný prínos výskumu k zmene pochopenia vedy a rozvíjaniu vedeckých metód, teórie a aplikácie naprieč disciplínami a v rámci nich, pričom zohráva aj širšiu úlohu mimo vedecko-výskumného systému.
 
 **Financovateľ výskumu**
 
-* Inštitúcia, korporácia alebo vládny orgán, ktoré poskytujú výskumu finančnú podporu. An institute, corporation or government body that provides financial assistance for research.
+* Inštitúcia, korporácia alebo vládny orgán, ktoré poskytujú výskumu finančnú podporu.
 
-**Vedecká komunikácia OK? Scholarly Communication**
+**Vedecká komunikácia (Scholarly Communication)**
 
-* Tvorba, transformácia, šírenie a uchovávanie poznatkov súvisiacich s učením, výskumom a vedeckým úsilím. Je to proces, v rámci ktorého akademici, vedci a výskumníci zdieľajú a publikujú výsledky svojho výskumu tak, aby boli dostupné širšej akademickej komunite.      The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community.
+* Tvorba, transformácia, šírenie a uchovávanie poznatkov súvisiacich s učením, výskumom a vedeckým úsilím. Je to proces, v rámci ktorého akademici, vedci a výskumníci zdieľajú a publikujú výsledky svojho výskumu tak, aby boli dostupné širšej akademickej komunite.
 
 **Zdieľanie**
 
-* Spoločné využívanie priestoru. Základný aspekt kolaboratívneho výskumu. Keďže sa väčšina výskumu vytvára a publikuje digitálne, výsledný digitálny obsah nie je konkurenčný a môže sa zdieľať bez akejkoľvek ujmy, ktorú by utrpel pôvodný tvorca.   The joint use of a resource or space. A fundamental aspect of collaborative research. As most research is digitally-authored & digitally-published, the resulting digital content is non-rivalrous and can be shared without any loss to the original creator.
+* Spoločné využívanie zdroja alebo priestoru. Základný aspekt kolaboratívneho výskumu. Keďže sa väčšina výskumu vytvára a publikuje digitálne, výsledný digitálny obsah podlieha nerivalitnej spotrebe, môže sa zdieľať bez toho, že by pôvodný tvorca utrpel stratu.
 
 **Predplatné**
 
-* Obchodný model, v rámci ktorého sa platí poplatok za získanie prístupu k produktu alebo službe, v tomto prípade, výstupom vedeckého výskumu. A form of business model whereby a fee is paid in order to gain access to a product or service - in this case, the outputs of scholarly research.
+* Obchodný model, v rámci ktorého sa platí poplatok za získanie prístupu k produktu alebo službe, v tomto prípade, výstupom vedeckého výskumu.
 
 **Školiteľ**
 
-* Moderátori a inštruktori vzdelávania, ktorých úlohou je zaistiť, že sa dosiahnu ciele vzdelávania, viesť praktické cvičenia a zabezpečiť, že nikto nebude vynechaný.  The moderator and instructor of a training, whose role is to ensure the training objectives are met, run the practice, and ensure no one is left out.
+* Moderátor a inštruktor vzdelávania, ktorého úlohou je zaistiť, že sa dosiahnu ciele vzdelávania, viesť praktické cvičenia a zabezpečiť, že nikto nebude vynechaný.
 
-**Vzdelávacie poujatie?Školenie Training**
+**Vzdelávacie poujatie**
 
-* Vzdelávacie podujatie je organizovaná činnosť, v rámci ktorej sa učí, informuje alebo sa prenášajú zručnosti či vedomosti súvisiace s konkrétnymi užitočnými kompetenciami, a to prostredníctvom aktívneho, zaujímavého učenia.  Training is any organised activity that teaches, informs, or transfers skills or knowledge on specific useful competencies through active, engaged learning. 
+* Vzdelávacie podujatie je organizovaná činnosť, v rámci ktorej sa učí, informuje alebo sa prenášajú zručnosti či vedomosti súvisiace s konkrétnymi užitočnými kompetenciami, a to prostredníctvom aktívneho zapojenia sa do výuky.
 
-**Formát vzdelávacieho podujatia?školenia  Training Format**
+**Formát vzdelávacieho podujatia**
 
-* Tradične pomenovaná, štandardizovaná metóda, ktorá sa používa a ktorá zahŕňa akýkoľvek počet potrebných pedagogických nástrojov (t.j., motivácia/demotivácia, praktické prístupy (hands-on) a pod.).   A conventionally named, standardised delivery method that is applied by a trainer and includes any number of the pedagogical tools necessary (i.e. motivation/demotivation, hands-on approaches, etc).
+* Tradične pomenovaná, štandardizovaná metóda, ktorá sa používa a ktorá zahŕňa akýkoľvek počet potrebných pedagogických nástrojov (t.j. motivácia/demotivácia, praktické prístupy (hands-on) a pod.).
 
 **Správa verzií**
 
-* Správa verzií je manažment zmien dokumentov, počítačových programov, veľkých webových stránok a iných súborov informácií logickým a perzistentným spôsobom. Umožňuje sledovať zmeny, ako aj obnoviť informácie z predchádzajúcej revízie. Version control is the management of changes to documents, computer programs, large web sites, and other collections of information in a logical and persistent manner, allowing for both track changes and the ability to revert a piece of information to a previous revision.
+* Správa verzií je manažment zmien dokumentov, počítačových programov, veľkých webových stránok a iných súborov informácií logickým a perzistentným spôsobom. Umožňuje sledovať zmeny, ako aj obnoviť informácie z predchádzajúcej revízie.
 
 ## Poznámky a ďalšie zdroje
 <p>[1] Definície teórií učenia (behaviorizmus, kognitivizmus, konektivizmus, konštruktivizmus) boli autormi pre potreby tejto príručky silne zjednodušené. Presnejšie tieto teórie charakterizuje napr. Palmarová 2008. (https://pdf.truni.sk/e-ucebnice/iktv/data/media/iktvv/Palmarova.pdf)</p> 
