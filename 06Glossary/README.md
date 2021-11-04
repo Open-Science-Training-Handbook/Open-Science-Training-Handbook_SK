@@ -5,6 +5,38 @@
 
 * Altmetriky sú alternatívne spôsoby ako zaznamenávať a merať dosah výsledkov výskumnej činnosti. Namiesto výhradného sledovania počtu citácií diela vo vedeckej literatúre sa altmetriky zameriavajú aj na meranie a analýzu sociálnych médií (napr. Facebook, Twitter, blogy, wikipédie a pod.), počtov stiahnutí dokumentu, odkazov na publikovaný a nepublikovaný výskum a iných druhov použitia vedecko-výskumnej literatúry, s cieľom získať komplexnejšie meranie dosahu a dopadu.
 
+**Autorské právo (Copyright)**
+
+* Aspekt duševného vlastníctva, ktorý dáva tvorcom právo udeliť (alebo neudeliť) povolenie na reprodukovanie svojho diela. Líši sa od práv priemyselného vlastníctva (patenty, ochranné známky). Copyright v anglo-americkej tradícii sa zameriava na majetkové práva, nie morálne práva. Slovenský autorský zákon pozná majetkové aj morálne práva autora.
+
+**Creative Commons**
+
+* Rad štandardizovaných licencií, ktoré umožňujú nositeľovi práv automaticky udeliť používateľom niektoré práva. CC licencie sa široko používajú, ich použitie je jednoduché, sú strojovo čitateľné a vytvorili ich právni experti. Existuje množstvo CC licencií, pričom každá obsahuje jednu alebo viac podmienok. Niektoré licencie sú kompatibilné s otvoreným prístupom v zmysle budapeštianskej deklarácie (CC0 alebo tie, ktoré obsahujú podmienky Uvedenie Autora (BY), Rovnaké Šírenie (SA) a Žiadne Odvodené diela (ND)) a niektoré s ním kompatibilné nie sú (obsahujú podmienku Nekomerčné Použitie (NC)).
+
+**Časopis vedecký**
+
+* Periodikum (seriálová publikácia) primárne určené na uverejňovanie výsledkov pôvodného výskumu. Publikuje sa pravidelne vo forme jednotlivých čísel (vydaní, zahŕňajúcich určitý počet vedeckých článkov). Čísla časopisu vydané v támci jedného roka tvoria ročník časopisu.
+
+**Dáta**
+
+* Pojmom Dáta označujeme v tejto príručke všetky digitálne dostupné objekty (jednoduché alebo komplexné), ktoré vznikajú alebo sú výsledkom výskumného procesu.
+
+**Digitálny identifikátor objektu (Digital Object Identifier, DOI)**
+
+* Jedinečný textový reťazec, ktorý sa používa na označovanie digitálnych objektov, ako sú články v časopisoch, dátové súbory a vydaný softvér s otvoreným zdrojovým kódom. DOI je typom trvalého identifikátora (PID, z angl. persistent identifier).
+
+**Dokumentácia**
+
+* Dokumentácia obsahuje podrobné informácie o dátach alebo kóde, ako aj pozadie a metodologický prístup k dátam alebo kódu (napr. opis projektu, premenné a nástroje merania).
+
+**Dolovanie dát (Data Mining)**
+
+* Analytický proces určený na skúmanie dát pri hľadaní konzistentných vzorcov alebo systémových vzťahov medzi premennými, ktorý transformuje dáta na využiteľné informácie.
+
+**Duševné vlastníctvo**
+
+* Právny výraz, ktorý sa vzťahuje na výsledky tvorivého myslenia alebo tvorivej dušenej činnosti. Medzi príklady dušeného vlastníctva patria hudobné, literárne, maliarske, sochárske diela, video a iné umelecké diela, objavy a vynálezy, frázy, symboly a dizajny.   A legal term that refers to creations of the mind. Examples of intellectual property include music, literature, paintings, sculpturing, video and other artistic works; discoveries and inventions; and phrases, symbols, and designs.
+
 **Publikum**
 
 * Skupina, ktorej je určená komunikácia (napr. účastníci vzdelávacieho podujatia o otvorenej vede). Cieľová skupina je skupina jednotlivých osôb, ktorým je vzdelávanie určené alebo sa ich dotýka. 
@@ -23,35 +55,11 @@
 
 **Konštruktivizmus**
 
-* Konštruktivizmus v užšom slova zmysle znamená, že svet nie je taký, aký sa javí. Namiesto toho je svet hlavne produktom našich individuálnych zážitkov a mysle. V kontexte učenia a učenia sa to znamená, že samotní študenti si vytvárajú cesty, ktorými sa učia. Dôraz je preto na kreativite učiacich sa a hodnotenie pokroku sa nezakladá na odlíšení správneho od nesprávneho.
-
-**Autorské právo (Copyright)**
-
-* Aspekt duševného vlastníctva, ktorý dáva tvorcom právo udeliť (alebo neudeliť) povolenie na reprodukovanie svojho diela. Líši sa od práv priemyselného vlastníctva (patenty, ochranné známky). Copyright v anglo-americkej tradícii sa zameriava na majetkové práva, nie morálne práva. Slovenský autorský zákon pozná majetkové aj morálne práva autora.
-
-**Creative Commons**
-
-* Rad štandardizovaných licencií, ktoré umožňujú nositeľovi práv automaticky udeliť používateľom niektoré práva. CC licencie sa široko používajú, ich použitie je jednoduché, sú strojovo čitateľné a vytvorili ich právni experti. Existuje množstvo CC licencií, pričom každá obsahuje jednu alebo viac podmienok. Niektoré licencie sú kompatibilné s otvoreným prístupom v zmysle budapeštianskej deklarácie (CC0 alebo tie, ktoré obsahujú podmienky Uvedenie Autora (BY), Rovnaké Šírenie (SA) a Žiadne Odvodené diela (ND)) a niektoré s ním kompatibilné nie sú (obsahujú podmienku Nekomerčné Použitie (NC)).          
+* Konštruktivizmus v užšom slova zmysle znamená, že svet nie je taký, aký sa javí. Namiesto toho je svet hlavne produktom našich individuálnych zážitkov a mysle. V kontexte učenia a učenia sa to znamená, že samotní študenti si vytvárajú cesty, ktorými sa učia. Dôraz je preto na kreativite učiacich sa a hodnotenie pokroku sa nezakladá na odlíšení správneho od nesprávneho.          
 
 **Kurikulum**
 
-* Pojem Kurikulum sa vzťahuje na lekcie a iný vzdelávací obsah vyučovaný v škole alebo v konkrétnom kurze či programe a vyznačuje sa jasne definovanou štruktúrou.
-
-**Dáta**
-
-* Pojmom Dáta označujeme v tejto príručke všetky digitálne dostupné objekty (jednoduché alebo komplexné), ktoré vznikajú alebo sú výsledkom výskumného procesu.
-
-**Dolovanie dát (Data Mining)**
-
-* Analytický proces určený na skúmanie dát pri hľadaní konzistentných vzorcov alebo systémových vzťahov medzi premennými, ktorý transformuje dáta na využiteľné informácie.
-
-**Digitálny identifikátor objektu (Digital Object Identifier, DOI)**
-
-* Jedinečný textový reťazec, ktorý sa používa na označovanie digitálnych objektov, ako sú články v časopisoch, dátové súbory a vydaný softvér s otvoreným zdrojovým kódom. DOI je typom trvalého identifikátora (PID, z angl. persistent identifier).
-
-**Dokumentácia**
-
-* Dokumentácia obsahuje podrobné informácie o dátach alebo kóde, ako aj pozadie a metodologický prístup k dátam alebo kódu (napr. opis projektu, premenné a nástroje merania). 
+* Pojem Kurikulum sa vzťahuje na lekcie a iný vzdelávací obsah vyučovaný v škole alebo v konkrétnom kurze či programe a vyznačuje sa jasne definovanou štruktúrou. 
 
 **FAIR dáta**
 
@@ -68,14 +76,6 @@
 **Impakt faktor časopisu**
 
 * Metrika (číselný ukazovateľ), ktorá udáva priemerný počet citácií článkov publikovaných v určitom vedeckom časopise počas predchádzajúcich dvoch rokov. Často sa používa ako zástupný údaj vyjadrujúci relatívnu dôležitosť časopisu. Prenášanie impakt faktora časopisu na dosah jednotlivých článkov, ktoré v ňom boli publikované, sa považuje za problematické.
-
-**Duševné vlastníctvo**
-
-* Právny výraz, ktorý sa vzťahuje na výsledky tvorivého myslenia alebo tvorivej dušenej činnosti. Medzi príklady dušeného vlastníctva patria hudobné, literárne, maliarske, sochárske diela, video a iné umelecké diela, objavy a vynálezy, frázy, symboly a dizajny.   A legal term that refers to creations of the mind. Examples of intellectual property include music, literature, paintings, sculpturing, video and other artistic works; discoveries and inventions; and phrases, symbols, and designs.
-
-**Časopis vedecký**
-
-* Periodikum (seriálová publikácia) primárne určené na uverejňovanie výsledkov pôvodného výskumu. Publikuje sa pravidelne vo forme jednotlivých čísel (vydaní, zahŕňajúcich určitý počet vedeckých článkov). Čísla časopisu vydané v támci jedného roka tvoria ročník časopisu.
 
 **Licencia**
 
