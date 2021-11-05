@@ -82,7 +82,7 @@ Odpoveď: Otvorená veda znamená robiť tradičnú vedu na rôznych úrovniach 
 
 Otázka: "Vylučuje "otvorená veda" humanitné a spoločenské vedy?"
 
-Odpoveď: Nie, termín otvorená veda je inkluzívny. Otvorená veda sa niekedy označuje aj v širšom zmysle ako "otvorený výskum" (Open Research) alebo "otvorená učenosť" (Open Scholarship), aby zahŕňala aj iné disciplíny, princípy a praktiky. Termín otvorená veda sa však bežne používa na viacerých úrovniach, preto má zmysel prijať ho na účely komunikácie, za predpokladu, že zahŕňa všetky výskumné disciplíny.    
+Odpoveď: Nie, termín otvorená veda je inkluzívny. Otvorená veda sa niekedy označuje aj v širšom zmysle ako "otvorený výskum (Open Research)" alebo "otvorené vedecké poznanie (Open Scholarship)", aby zahŕňala aj iné disciplíny, princípy a praktiky. Termín otvorená veda sa však bežne používa na viacerých úrovniach, preto má zmysel prijať ho na účely komunikácie, za predpokladu, že zahŕňa všetky výskumné disciplíny.    
 
 Otázka: "Vedie otvorená veda k zneužitiu alebo nepochopeniu výskumu?"
 
