@@ -134,6 +134,10 @@ Open-Source Scientific Software from Seven Years of the Dedalus Project’.
 arXiv:1801.08200 [astro-ph.IM], 24 January 2018.
 [arxiv.org/abs/1801.08200](http://arxiv.org/abs/1801.08200)
 
+Palmárová, V. 2008. Teórie učenia a ich aplikácia v e-podpore vyučovania. 
+In : Zborník príspevkov z informatického seminára KI. ISKI 2008. UKF Nitra, 2008. 
+[online] Dostupné na: https://pdf.truni.sk/e-ucebnice/iktv/data/media/iktvv/Palmarova.pdf
+
 Pavelin, Katrina, Sangya Pundir, and Jennifer A. Cham. ‘Ten Simple Rules for
 Running Interactive Workshops’. *PLOS Computational Biology* 10, no. 2 (27
 February 2014): e1003485.  [doi.org/10/gc5sjq](https://doi.org/10/gc5sjq)
