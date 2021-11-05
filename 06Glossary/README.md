@@ -191,7 +191,7 @@
 
 
 ## Poznámky a ďalšie zdroje
-<p>[1] Definície teórií učenia (behaviorizmus, kognitivizmus, konektivizmus, konštruktivizmus) boli autormi pre potreby tejto príručky silne zjednodušené. Presnejšie tieto teórie charakterizuje napr. [Palmarová 2008.](https://pdf.truni.sk/e-ucebnice/iktv/data/media/iktvv/Palmarova.pdf)</p> 
+<p>[1] Definície teórií učenia (behaviorizmus, kognitivizmus, konektivizmus, konštruktivizmus) boli autormi pre potreby tejto príručky silne zjednodušené. Presnejšie tieto teórie charakterizuje napr. <a href="https://pdf.truni.sk/e-ucebnice/iktv/data/media/iktvv/Palmarova.pdf">Palmarová 2008.</a></p> 
 
 * [Open Research Glossary](http://www.righttoresearch.org/resources/OpenResearchGlossary/index.shtml), hosťovaný alianciou R2RC.
 
