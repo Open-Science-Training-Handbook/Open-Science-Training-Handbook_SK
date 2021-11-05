@@ -3,24 +3,24 @@
 
 ### Čo je to?
 
-Otvorené výskumné dáta sú dáta, ktoré sú voľne prístupné, kotré je možné opätovne používať, remixovať a opätovne šíriť na účely akademického výskumu a výučby, ako aj mimo nich. V ideálnom prípade otvorené dáta nemajú žiadne obmedzenia opätovného používania alebo šírenia a ako také majú vhodné licencie. Vo výnimočných prípadoch, napríklad na ochranu identity ľudských subjektov, sú stanovené špeciálne alebo ohraničené obmedzenia prístupu k dátam. Otvorené zdieľanie dát dáva možnosť dáta preskúmať, čím sa vytvára základ na overenie a reprodukovateľnosť výskumu a otvára cestu širšej spolupráci. Na otvorené dáta sa môže nanajvýš vzťahovať požiadavka uviesť autora a rovnakého šírenia (attribute and sharealike) \(pozri [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\).
+Otvorené výskumné dáta sú voľne prístupné dáta, ktoré je možné opätovne použiť, remixovať a opätovne šíriť na účely akademického výskumu a výučby ako aj mimo nich. V ideálnom prípade nie je opätovné použitie alebo šírenie otvorených dát nijako obmedzené a dáta majú vhodné licencie. Vo výnimočných prípadoch, napríklad na ochranu identity ľudských subjektov, sú stanovené špeciálne alebo ohraničené obmedzenia prístupu k dátam. Otvorené zdieľanie dát umožňuje dáta preskúmať, čím sa vytvára základ overenia a reprodukovateľnosti výskumu a otvára sa cesta širšej spolupráci. Na otvorené dáta sa môže vzťahovať nanajvýš požiadavka uviesť autora a podmienka rovnakého šírenia (attribute and sharealike) \(pozri [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\).
 
 
 ## <img src="/Images/Icons/data2.png" width="150" height="150" />
 ### Odôvodnenie
 
-Výskumné dáta sú často najcennejším výstupom mnohých výskumných projektov. Slúžia ako primárne zdroje, ktoré umožňujú podporiť vedecký výskum a odvodiť teoretické alebo aplikované zistenia?poznatky?...derivation of theoretical or applied findings. Aby sa zistenia/štúdie dali replikovať alebo aspoň reprodukovať či opätovne používať \(pozri [Reprodukovateľný výskum a analýza dát](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)\) akýmkoľvek iným spôsobom, ako najlepšia prax sa odporúča, aby boli výskumné dáta také otvorené a [FAIR](https://www.force11.org/fairprinciples) ako je možné, pričom sa berú do úvahy etické, komerčné obmedzenia a obmedzenia súvisace s ochranou súkromia, citlivých a proprietárnych dát.
+Výskumné dáta sú často najcennejším výstupom mnohých výskumných projektov. Slúžia ako primárne zdroje, ktoré umožňujú podporiť vedecký výskum a odvodiť teoretické alebo aplikované zistenia?poznatky?...derivation of theoretical or applied findings. Aby sa zistenia/štúdie dali replikovať alebo aspoň reprodukovať či opätovne použiť \(pozri [Reprodukovateľný výskum a analýza dát](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)\) akýmkoľvek iným spôsobom, ako najlepšia prax sa odporúča, aby boli výskumné dáta také otvorené a [FAIR](https://www.force11.org/fairprinciples) ako je možné, pričom sa berú do úvahy etické, komerčné obmedzenia a obmedzenia súvisiace s ochranou súkromia, citlivých a proprietárnych dát.
 
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 
 ### Ciele vzdelávania
 
-1. Pochopiť základné charakteristiky a princípy otvorených a FAIR výskumných dát, vrátane primeraného spracovania a dokumentácie, ktoré umožnia ďalším ľuďom porozumieť, reprodukovať a opätovne používať dáta iným spôsobom.    Gain an understanding of the basic characteristics and principles of open and FAIR research data, including appropriate packaging and documentation, to enable others to understand, reproduce, and re-use in alternative ways.
+1. Pochopiť základné charakteristiky a princípy otvorených a FAIR výskumných dát, vrátane primeraného spracovania a dokumentácie, ktoré umožnia ďalším ľuďom porozumieť, reprodukovať a opätovne použiť dáta iným spôsobom.    Gain an understanding of the basic characteristics and principles of open and FAIR research data, including appropriate packaging and documentation, to enable others to understand, reproduce, and re-use in alternative ways.
 
-2. Oboznámič sa s druhmi dát, ktoré sa môžu považovať za citlivé, a s obmedzeniami, ktoré bránia takéto dáta otvorene zdieľať. Familiarity with the sorts of data that might be considered sensitive, and the restrictions or constraints on openly sharing them.
+2. Oboznámiť sa s druhmi dát, ktoré sa môžu považovať za citlivé, a s obmedzeniami, ktoré bránia takéto dáta otvorene zdieľať. Familiarity with the sorts of data that might be considered sensitive, and the restrictions or constraints on openly sharing them.
 
-3. Vedieť konvertovať "zatvorený" súbor dát na "otvorený" implentáciou potrebných opatrení do plánu manažmentu dát, správnym spravovaním dát a metadátami.   Be able to convert a ‘closed’ dataset into one which is ‘open’ by implementing the necessary measures in a data management plan, with appropriate data stewardship and metadata.
+3. Vedieť konvertovať "zatvorený" súbor dát na "otvorený" implementáciou potrebných opatrení do plánu manažmentu dát, primeranou správou dát a metadátami.   Be able to convert a ‘closed’ dataset into one which is ‘open’ by implementing the necessary measures in a data management plan, with appropriate data stewardship and metadata.
 
 4. Vedieť využiť plán manažmentu dát a zabezpečiť prístup k dátam a ich vyhľadateľnosť, dokonca aj v prípade, ak obsahujú citlivé údaje.  Be able to use research data management plan and to make your research results findable and accessible, even if it contains sensitive data.
 
@@ -35,21 +35,21 @@ Výskumné dáta sú často najcennejším výstupom mnohých výskumných proje
 #### Pozntaky a zručnosti
 ##### Princípy FAIR
 
-V roku 2014 boli navrhnuté základné princípy na optimalizáciu opätného používania výskumných dát pod názvom [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples). Predstavujú súbor princípov a najlepších postupov vypracovaných komunitou s cieľom zabezpečiť, aby boli dáta alebo akékoľvek digitálne objekty **F**indable (vyhľadateľné), **A**ccessible (prístupné), **I**nteroperable (interoperabilné a **R**e-usable (opätovne použiteľné):    
+V roku 2014 boli navrhnuté základné princípy na optimalizáciu opätovného použitia výskumných dát pod názvom [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples). Predstavujú súbor princípov a najlepších postupov vypracovaných komunitou s cieľom zabezpečiť, aby boli dáta alebo akékoľvek digitálne objekty **F**indable (vyhľadateľné), **A**ccessible (prístupné), **I**nteroperable (interoperabilné a **R**e-usable (opätovne použiteľné):    
 
-**Findable (vyhľadateľné):** The first thing to be in place to make data reusable is the possibility to find them. It should be easy to find the data and the metadata for both humans and computers. Automatic and reliable discovery of datasets and services depends on machine-readable persistent identifiers \(PIDs\) and metadata.
+**Findable (vyhľadateľné):** Prvá vec, ktorú treba zabezpečiť, aby sa dali dáta opätovne použiť, je ich vyhľadateľnosť. Ľudia aj počítače by mali dokázať nájsť dáta ľahko a jednoducho. Automatické a spoľahlivé vyhľadanie súborov dát a služieb závisí od strojovo čitateľných trvalých identifikátorov \(PID\) a metadát.
 
-**Accessible(prístupné):** The \(meta\)data should be retrievable by their identifier using a standardized and open communications protocol, possibly including authentication and authorisation. Also, metadata should be available even when the data are no longer available.
+**Accessible(prístupné):** \(Meta\)dáta by sa mali dať vyhľadať podľa identifikátora pomocou štandardizovaného a otvoreného komunikačného protokolu, s možnosťou autentifikácie autorizácie. Metadáta by mali byť dostupné aj v prípade, ak samotné dáta už nie sú viac dostupné.
 
-**Interoperable(interoperabilné):** The data should be able to be combined with and used with other data or tools. The format of the data should therefore be open and interpretable for various tools, including other data records. The concept of interoperability applies both at the data and metadata level. For instance, the \(meta\)data should use vocabularies that follow FAIR principles.
+**Interoperable(interoperabilné):** Dáta by sa mali dať kombinovať a používať s inými dátami alebo nástrojmi. Formát dát by preto mal byť otvorený a interpretovateľný rôznymi nástrojmi, vrátane iných záznamov dát. Interoperabilita sa vzťahuje na dáta, ako aj metadáta. \(Meta\)dáta by mali používať slovníky, ktoré sa riadia princípmi FAIR.     The data should be able to be combined with and used with other data or tools. The format of the data should therefore be open and interpretable for various tools, including other data records. The concept of interoperability applies both at the data and metadata level. For instance, the \(meta\)data should use vocabularies that follow FAIR principles.
 
-**Re-usable(opätovne použiteľné):** Ultimately, FAIR aims at optimizing the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings. Also, the reuse of the \(meta\)data should be stated with \(a\) clear and accessible license\(s\).
+**Re-usable(opätovne použiteľné):** V konečnom dôsledku je cieľom princípov FAIR optimalizácia opätovného použitia dát. Na dosiahnutie tohto cieľa musia byť metadáta a dáta opísané tak dobre, aby sa dali replikovať a/alebo kombinovať v rôznych kontextoch. Opätovné použitie \(meta\)dát tiež musí byť stanovené v jasnej a prístupne licencii/licenciách.
 
-Distinct from peer initiatives that focus on the human scholar, the FAIR principles put a specific emphasis on enhancing the ability of machines to automatically find and use data or any digital object, in addition to supporting its reuse by individuals. The FAIR principles are guiding principles, not standards. FAIR describes qualities or behaviours that are required to make data maximally reusable \(e.g., description, citation\). Those qualities can be achieved by different standards.
+Na rozdiel od partnerských iniciatív zameraných na vedca - človeka kladú princípy FAIR osobitný dôraz na zlepšenie schopnosti strojov automaticky nájsť a použiť dáta alebo akékoľvek digitálne objekty, ako aj na podporu ich opätovného použitia jednotlivcami. Princípy FAIR sú usmerňujúce zásady, nie normy. Pojem FAIR opisuje vlastnosti alebo správanie, ktoré je potrebné na to, aby sa dáta dali čo najviac opätovne použiť \(napr., opis, citovanie\). Tieto vlastnosti je možné dosiahnuť pomocou rôznych štandardov.
 
 ![](/Images/02%20Open%20Science%20Basics/02_open_research_data_material.png)
 
-##### Data publishing
+##### Publikovanie dát
 
 Most researchers are more or less familiar with Open Access publishing of research articles and books \(see chapter 5\). More recently, and for the reasons mentioned above, data publishing has gained increasing attention. More and more funders expect the data produced in research projects they finance to be findable, accessible and as open as possible.
 
@@ -89,14 +89,14 @@ Since there are several routes to publish your data, you should note that for a 
 * Citable in articles.
 
 ## <img src="/Images/Icons/metadata.png" width="150" height="150" />
-##### Data citation
+##### Citovanie dát
 
 Data citation services help research communities discover, identify, and cite research data \(and often other research objects\) with confidence. This typically involves the creation and allocation of Digital Object Identifiers \(DOIs\) and accompanying metadata through services such as [DataCite](https://www.datacite.org), and can be integrated with research workflows and standards. This is an emerging field, and involves aspects such as conveying to journal publishers the importance of appropriate data citation in articles, as well as enabling research articles themselves to be linked to any underlying data. Through this, citable data become legitimate contributions to the process of scholarly communication, and can help pave the way for new metrics and publication models that recognize and reward data sharing.
 
 As an initial step towards good practice for data citation, the Data Citation Synthesis Group of FORCE11 has put forward the [Joint Declaration of Data Citation Principles](https://doi.org/10.25490/a97f-egyk), targeted at both researchers and data service providers. Adhering to these principles, data repositories usually provide researchers with a reference they can use when referring to a given dataset.
 
 ## <img src="/Images/Icons/database.png" width="150" height="150" />
-##### Data packaging
+##### SPracovanie dát (Data packaging)
 
 Data packages are containers for describing and sharing accompanying data files, and typically comprise a metadata file describing the features and context of a dataset. This can include aspects such as creation information, provenance, size, format type, field definitions, as well as any relevant contextual files, such as data creation scripts or textual documentation. From the [Data Packaging Guide](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md):
 
@@ -107,7 +107,7 @@ Data packages are containers for describing and sharing accompanying data files,
 * Structuring metadata about datasets in a standard, machine-readable way encourages the promotion, shareability, and reuse of data.
 
 ## <img src="/Images/Icons/privacy.png" width="150" height="150" />
-##### Sharing sensitive and proprietary data
+##### Zdieľanie citlivých a proprietárnych dát
 
 With appropriate data management planning much sensitive and proprietary data can be shared, reused, and FAIR. The metadata can almost always be shared. Guidance and best practices for sharing sensitive data are necessarily region-specific because of differing regulations \(see for example UKDS’[Companion material for Managing and Sharing Research Data handbook](https://www.ukdataservice.ac.uk/manage-data/handbook)\). [International Association for Social Science Information Services and Technology](http://www.iassistdata.org/resources/data-management/best-practices) keeps a list of international guidance in data management that is a good starting point. There are several approaches and initiatives to help researchers achieve this. [DCC’s DMPonline tool](http://www.dcc.ac.uk/dmponline) includes a number of templates for funders. [The CESSDA Expert Tour Guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Ethics-and-data-protection) provides information and practical examples on how to share personal data and on copyright and database issues across the European countries. The Tour Guide also gives an overview on the impact of the GDPR which will harmonize personal data legislation in Europe \(May 2018\), and provides an updated overview on [EU diversity on data protection](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Processing-personal-data/Diversity-in-data-protection).[ ](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Processing-personal-data/Diversity-in-data-protection)
 
