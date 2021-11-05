@@ -1,49 +1,49 @@
 ## <img src="/Images/Icons/open_data.png" width="200" height="200" />
-## 2. Open Research Data and Materials
+## 2. Otvorené výskumné dáta a materiály
 
-### What is it?
+### Čo je to?
 
-Open research data is data that can be freely accessed, reused, remixed and redistributed, for academic research and teaching purposes and beyond. Ideally, open data have no restrictions on reuse or redistribution, and are appropriately licensed as such. In exceptional cases, e.g. to protect the identity of human subjects, special or limited restrictions of access are set. Openly sharing data exposes it to inspection, forming the basis for research verification and reproducibility, and opens up a pathway to wider collaboration. At most, open data may be subject to the requirement to attribute and sharealike \(see the [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\).
+Otvorené výskumné dáta sú dáta, ktoré sú voľne prístupné, kotré je možné opätovne používať, remixovať a opätovne šíriť na účely akademického výskumu a výučby, ako aj mimo nich. V ideálnom prípade otvorené dáta nemajú žiadne obmedzenia opätovného používania alebo šírenia a ako také majú vhodné licencie. Vo výnimočných prípadoch, napríklad na ochranu identity ľudských subjektov, sú stanovené špeciálne alebo ohraničené obmedzenia prístupu k dátam. Otvorené zdieľanie dát dáva možnosť dáta preskúmať, čím sa vytvára základ na overenie a reprodukovateľnosť výskumu a otvára cestu širšej spolupráci. Na otvorené dáta sa môže nanajvýš vzťahovať požiadavka uviesť autora a rovnakého šírenia (attribute and sharealike) \(pozri [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\).
 
 
 ## <img src="/Images/Icons/data2.png" width="150" height="150" />
-### Rationale
+### Odôvodnenie
 
-Research data are often the most valuable output of many research projects, they are used as primary sources that underpin scientific research and enable derivation of theoretical or applied findings. In order to make findings/studies replicable, or at least reproducible or reusable \(see [Reproducible Research And Data Analysis](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)\) in any other way, the best practice recommendation for research data is to be as open and [FAIR](https://www.force11.org/fairprinciples) as possible, while accounting for ethical, commercial and privacy constraints with sensitive data or proprietary data.
+Výskumné dáta sú často najcennejším výstupom mnohých výskumných projektov. Slúžia ako primárne zdroje, ktoré umožňujú podporiť vedecký výskum a odvodiť teoretické alebo aplikované zistenia?poznatky?...derivation of theoretical or applied findings. Aby sa zistenia/štúdie dali replikovať alebo aspoň reprodukovať či opätovne používať \(pozri [Reprodukovateľný výskum a analýza dát](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)\) akýmkoľvek iným spôsobom, ako najlepšia prax sa odporúča, aby boli výskumné dáta také otvorené a [FAIR](https://www.force11.org/fairprinciples) ako je možné, pričom sa berú do úvahy etické, komerčné obmedzenia a obmedzenia súvisace s ochranou súkromia, citlivých a proprietárnych dát.
 
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 
-### Learning objectives
+### Ciele vzdelávania
 
-1. Gain an understanding of the basic characteristics and principles of open and FAIR research data, including appropriate packaging and documentation, to enable others to understand, reproduce, and re-use in alternative ways.
+1. Pochopiť základné charakteristiky a princípy otvorených a FAIR výskumných dát, vrátane primeraného spracovania a dokumentácie, ktoré umožnia ďalším ľuďom porozumieť, reprodukovať a opätovne používať dáta iným spôsobom.    Gain an understanding of the basic characteristics and principles of open and FAIR research data, including appropriate packaging and documentation, to enable others to understand, reproduce, and re-use in alternative ways.
 
-2. Familiarity with the sorts of data that might be considered sensitive, and the restrictions or constraints on openly sharing them.
+2. Oboznámič sa s druhmi dát, ktoré sa môžu považovať za citlivé, a s obmedzeniami, ktoré bránia takéto dáta otvorene zdieľať. Familiarity with the sorts of data that might be considered sensitive, and the restrictions or constraints on openly sharing them.
 
-3. Be able to convert a ‘closed’ dataset into one which is ‘open’ by implementing the necessary measures in a data management plan, with appropriate data stewardship and metadata.
+3. Vedieť konvertovať "zatvorený" súbor dát na "otvorený" implentáciou potrebných opatrení do plánu manažmentu dát, správnym spravovaním dát a metadátami.   Be able to convert a ‘closed’ dataset into one which is ‘open’ by implementing the necessary measures in a data management plan, with appropriate data stewardship and metadata.
 
-4. Be able to use research data management plan and to make your research results findable and accessible, even if it contains sensitive data.
+4. Vedieť využiť plán manažmentu dát a zabezpečiť prístup k dátam a ich vyhľadateľnosť, dokonca aj v prípade, ak obsahujú citlivé údaje.  Be able to use research data management plan and to make your research results findable and accessible, even if it contains sensitive data.
 
-5. Understand the pros and cons of openly sharing different types of data \(e.g., privacy, sensitivity, de-identification, mediated access\).
+5. Pochopiť plusy a mínusy otvoreného zdieľania rôznych typov dát \(napr., súkromie, citlivosť, anonymizácia dát/deidentifikácia, sprostredkovaný prístup\).
 
-6. Understand the importance of appropriate metadata for sustainable archiving of research data.
+6. Pochopiť dôležitosť primeraných metadát na udržateľné archivovanie výskumných dát. Understand the importance of appropriate metadata for sustainable archiving of research data.
 
-7. Understand the basic workflows and tools for sharing research data.
+7. Pochopiť základné pracovné postupy a nástroje na zdieľanie výskumných dát.  Understand the basic workflows and tools for sharing research data.
 
-### Key components
+### Kľúčové prvky
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Knowledge & Skills
-##### FAIR principles
+#### Pozntaky a zručnosti
+##### Princípy FAIR
 
-In 2014, a core set of principles were drafted in order to optimize the reusability of research data, named the [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples). They represent a community-developed set of guidelines and best practices to ensure that data or any digital object are **F**indable, **A**ccessible, **I**nteroperable and **R**e-usable:
+V roku 2014 boli navrhnuté základné princípy na optimalizáciu opätného používania výskumných dát pod názvom [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples). Predstavujú súbor princípov a najlepších postupov vypracovaných komunitou s cieľom zabezpečiť, aby boli dáta alebo akékoľvek digitálne objekty **F**indable (vyhľadateľné), **A**ccessible (prístupné), **I**nteroperable (interoperabilné a **R**e-usable (opätovne použiteľné):    
 
-**Findable:** The first thing to be in place to make data reusable is the possibility to find them. It should be easy to find the data and the metadata for both humans and computers. Automatic and reliable discovery of datasets and services depends on machine-readable persistent identifiers \(PIDs\) and metadata.
+**Findable (vyhľadateľné):** The first thing to be in place to make data reusable is the possibility to find them. It should be easy to find the data and the metadata for both humans and computers. Automatic and reliable discovery of datasets and services depends on machine-readable persistent identifiers \(PIDs\) and metadata.
 
-**Accessible:** The \(meta\)data should be retrievable by their identifier using a standardized and open communications protocol, possibly including authentication and authorisation. Also, metadata should be available even when the data are no longer available.
+**Accessible(prístupné):** The \(meta\)data should be retrievable by their identifier using a standardized and open communications protocol, possibly including authentication and authorisation. Also, metadata should be available even when the data are no longer available.
 
-**Interoperable:** The data should be able to be combined with and used with other data or tools. The format of the data should therefore be open and interpretable for various tools, including other data records. The concept of interoperability applies both at the data and metadata level. For instance, the \(meta\)data should use vocabularies that follow FAIR principles.
+**Interoperable(interoperabilné):** The data should be able to be combined with and used with other data or tools. The format of the data should therefore be open and interpretable for various tools, including other data records. The concept of interoperability applies both at the data and metadata level. For instance, the \(meta\)data should use vocabularies that follow FAIR principles.
 
-**Re-usable:** Ultimately, FAIR aims at optimizing the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings. Also, the reuse of the \(meta\)data should be stated with \(a\) clear and accessible license\(s\).
+**Re-usable(opätovne použiteľné):** Ultimately, FAIR aims at optimizing the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings. Also, the reuse of the \(meta\)data should be stated with \(a\) clear and accessible license\(s\).
 
 Distinct from peer initiatives that focus on the human scholar, the FAIR principles put a specific emphasis on enhancing the ability of machines to automatically find and use data or any digital object, in addition to supporting its reuse by individuals. The FAIR principles are guiding principles, not standards. FAIR describes qualities or behaviours that are required to make data maximally reusable \(e.g., description, citation\). Those qualities can be achieved by different standards.
 
