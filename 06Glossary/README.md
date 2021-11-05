@@ -19,7 +19,7 @@
 
 **Časopis vedecký**
 
-* Periodikum (seriálová publikácia) primárne určené na uverejňovanie výsledkov pôvodného výskumu. Publikuje sa pravidelne vo forme jednotlivých čísel (vydaní, zahŕňajúcich určitý počet vedeckých článkov). Čísla časopisu vydané v támci jedného roka tvoria ročník časopisu.
+* Periodikum (seriálová publikácia) primárne určené na uverejňovanie výsledkov pôvodného výskumu. Publikuje sa pravidelne vo forme jednotlivých čísel (vydaní, zahŕňajúcich určitý počet vedeckých článkov). Čísla časopisu vydané v rámci jedného roka tvoria ročník časopisu.
 
 **Dáta**
 
@@ -43,11 +43,11 @@
 
 **Duševné vlastníctvo**
 
-* Právny výraz, ktorý sa vzťahuje na výsledky tvorivého myslenia alebo tvorivej dušenej činnosti. Medzi príklady dušeného vlastníctva patria hudobné, literárne, maliarske, sochárske diela, video a iné umelecké diela, objavy a vynálezy, frázy, symboly a dizajny.   A legal term that refers to creations of the mind. Examples of intellectual property include music, literature, paintings, sculpturing, video and other artistic works; discoveries and inventions; and phrases, symbols, and designs. 
+* Právny výraz, ktorý sa vzťahuje na výsledky tvorivého myslenia alebo tvorivej dušenej činnosti. Medzi príklady dušeného vlastníctva patria hudobné, literárne, maliarske, sochárske diela, video a iné umelecké diela, objavy a vynálezy, frázy, symboly a dizajny. 
 
 **FAIR dáta**
 
-* FAIR dáta (podľa [princípov FORCE11](https://www.force11.org/group/fairgroup/fairprinciples), publikované v [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) sú vyhľadateľné, dostupné, interoperabilné a opätovne použiteľné, s cieľom uľahčiť ľuďom aj strojom vyhľadávanie poznatkov spôsobom, ktorý im pomôže násjť, získať, integrovať a analyzovať také vedecké údaje a súvisiace algoritmy a pracovné postupy, ktoré zodpovedajú prislušnej úlohe.
+* FAIR dáta (podľa [princípov FORCE11](https://www.force11.org/group/fairgroup/fairprinciples), publikované v [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) sú vyhľadateľné, dostupné, interoperabilné a opätovne použiteľné, s cieľom uľahčiť ľuďom aj strojom vyhľadávanie poznatkov spôsobom, ktorý im pomôže nájsť, získať, integrovať a analyzovať také vedecké údaje a súvisiace algoritmy a pracovné postupy, ktoré zodpovedajú príslušnej úlohe.
 
 **Financovateľ výskumu**
 
@@ -55,7 +55,7 @@
 
 **Formát vzdelávacieho podujatia**
 
-* Tradične pomenovaná, štandardizovaná metóda, ktorá sa používa a ktorá zahŕňa akýkoľvek počet potrebných pedagogických nástrojov (t.j. motivácia/demotivácia, praktické prístupy (hands-on) a pod.).
+* Tradične pomenovaná, štandardizovaná metóda, ktorá sa používa a ktorá zahŕňa akýkoľvek počet potrebných pedagogických nástrojov (t.j., motivácia/demotivácia, praktické prístupy (hands-on) a pod.).
 
 **Gamifikácia**
 
@@ -169,9 +169,9 @@
 
 * Moderátor a inštruktor vzdelávania, ktorého úlohou je zaistiť, že sa dosiahnu ciele vzdelávania, viesť praktické cvičenia a zabezpečiť, že nikto nebude vynechaný.
 
-**Trvalé/preferovné formáty súborov**
+**Trvalé/preferované formáty súborov**
 
-* Neproprietárne formáty súborov, ktoré rešpektujú dokumentované medzinárodné štandardy, bežne sa používajú vo vedeckej komunite, používajú štandarndé kódovanie znakov (napr. ASCII, UTF-8) a pri kompresi, ak sa vôbec použije, nedochádza k strate.
+* Neproprietárne formáty súborov, ktoré rešpektujú dokumentované medzinárodné štandardy, bežne sa používajú vo vedeckej komunite, používajú štandardné kódovanie znakov (napr. ASCII, UTF-8) a pri kompresii, ak sa vôbec použije, nedochádza k strate.
 
 **Trvalý identifikátor (PID)**
 
@@ -181,7 +181,7 @@
 
 * Tvorba, transformácia, šírenie a uchovávanie poznatkov súvisiacich s učením, výskumom a vedeckým úsilím. Je to proces, v rámci ktorého akademici, vedci a výskumníci zdieľajú a publikujú výsledky svojho výskumu tak, aby boli dostupné širšej akademickej komunite.
 
-**Vzdelávacie poujatie**
+**Vzdelávacie podujatie**
 
 * Vzdelávacie podujatie je organizovaná činnosť, v rámci ktorej sa učí, informuje alebo sa prenášajú zručnosti či vedomosti súvisiace s konkrétnymi užitočnými kompetenciami, a to prostredníctvom aktívneho zapojenia sa do výučby.
 
