@@ -103,7 +103,7 @@ Odpoveď: Je lepšie mať príliš veľa informácií a zaoberať sa tým, ako i
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 
-### Doplnkové čítanie
+### Ďalšie odporúčané čítanie
 
 * European Commission's Directorate-General for Research & Innovation (RTD) (2016). Open innovation, Open Science, open to the world - a vision for Europe. [ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe](https://ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe)
 
