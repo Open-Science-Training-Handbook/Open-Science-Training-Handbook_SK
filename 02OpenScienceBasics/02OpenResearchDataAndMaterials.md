@@ -51,29 +51,29 @@ Na rozdiel od partnerských iniciatív zameraných na vedca - človeka kladú pr
 
 ##### Publikovanie dát
 
-Most researchers are more or less familiar with Open Access publishing of research articles and books \(see chapter 5\). More recently, and for the reasons mentioned above, data publishing has gained increasing attention. More and more funders expect the data produced in research projects they finance to be findable, accessible and as open as possible.
+Väčina výskumníkov je už viac alebo menej informovaná o publikovaní článkov a kníh v režime otvoreného prístupu \(see chapter 5\). V poslednej dobe, aj z dôvodov uvedených vyššie, si získava čoraz väčšiu pozornosť publikovanie dát. Stále viac finacovateľov očakáva, že dáta vyprodukované v rámci výskumných projektov, ktoré finacujú, budú vyhľadateľné, prístupné a také otvorené, ako je možné.    
 
-There are several distinct ways to make research data accessible, including \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\):
+Dáta sa dajú sprístupniť niekľokými spôsobmi, vrátane \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\):
 
-* Publishing data as supplemental material associated with a [research article](https://en.wikipedia.org/wiki/Research_article), typically with the data files hosted by the publisher of the article.
+* Zverejniť dáta ako doplňujúci materiál súvisiaci s [výskumný článok](https://en.wikipedia.org/wiki/Research_article), súbory dát sú zvyčajne uložené u vydavateľa článku.
 
-* Hosting data on a publicly-available website, with files available for download.
+* Uložiť dáta na verejne dostupne webovej stránke, odkiaľ  sa súbory dajú stiahnuť. 
 
-* Depositing data in a repository that has been developed to support data publication, e.g., [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://en.wikipedia.org/wiki/Dryad_(repository)), [figshare](https://en.wikipedia.org/wiki/Figshare), [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
+* Uložiť dáta v repozitári, ktorý bol založený na podporu zverejňovania dát, napr., [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://en.wikipedia.org/wiki/Dryad_(repository)), [figshare](https://en.wikipedia.org/wiki/Figshare), [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
 
-* A large number of general and domain or subject specific data repositories exist which can provide additional support to researchers when depositing their data.
+* Na uloženie svojich dát majú výskumníci tiež k dispozícii veľké množstvo všeobecných, odborových a predmetových (tematických) repozitárov.
 
-* Publishing a data paper about the dataset, which may be published as a preprint, in a journal, or in a data journal that is dedicated to supporting data papers. The data may be hosted by the journal or hosted separately in a data repository. Examples of data journals include [Scientific Data](https://www.nature.com/sdata/) \(by SpringerNature\) and the [Data Science Journal](http://www.codata.org/publications/data-science-journal) \(by CODATA\). For a comprehensive review of data journals, see [Candela et al](https://doi.org/10.1002%2Fasi.23358).
+* Publikovať dátový článok (data paper) o súbore dát, ktorý môže byť zverejnený ako preprint, v časopise alebo dátovom časopise (data journal) zameranom na podporu dátových článkov. Dáta môže mať uložené časopis alebo môžu byť uložené osobitne v dátovom repozitári. Medzi príklady dátových časopisov patrí [Scientific Data](https://www.nature.com/sdata/) \(by SpringerNature\) and the [Data Science Journal](http://www.codata.org/publications/data-science-journal) \(by CODATA\). Komplexnú recenziu dátových časopisov nádjtete v článku [Candela et al](https://doi.org/10.1002%2Fasi.23358).
 
-The CESSDA ERIC [Expert tour guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Data-publishing-routes) provides an overview of pros and cons of different data publication routes. Sometimes, your funder or another external party requires you to use a specific repository. If you are free to choose, you may consider the order of preference in the [recommendations by OpenAIRE](https://www.openaire.eu/opendatapilot-repository-guide):
+Príručka konzorcia CESSDA ERIC, Sprievodca manažmentom dát [Expert tour guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Data-publishing-routes), poskytuje prehľad plusov a mínusov rôznych ciest publikovania dát. Finacovateľ alebo iná tretia strana môže od vás niekedy vyžadovať, aby ste použili konkrétny repozitár. Ak je voľba na vás, mohli by ste zvážiť výber podľa odporúčaní organizácie OpenAIRE [recommendations by OpenAIRE](https://www.openaire.eu/opendatapilot-repository-guide):
 
-1. Use an external data archive or repository already established for your research domain to preserve the data according to recognised standards in your discipline.
+1. Na uchovanie dát v súlade s uznávanými štandardami vo svojej disciplíne použite externý dátový archív alebo repozitár, ktorý vo vašom odbore výskumu už existuje.
 
-2. If available, use an institutional research data repository, or your research group’s established data management facilities.
+2. Ak je dostupný, použite inštitucionálny repozitár výskumných dát alebo existujúcu infraštruktúcu na manažment dát, ktorú má vaša výskumná skupina k dispozícii.
 
-3. Use a cost-free data repository such as [Dataverse](https://dataverse.org/), [Dryad](https://datadryad.org/pages/faq#depositing-cost), [figshare](https://figshare.com/) or [Zenodo](https://zenodo.org/).
+3. Použite bezplatný dátový repozitár ako napríklad [Dataverse](https://dataverse.org/), [Dryad](https://datadryad.org/pages/faq#depositing-cost), [figshare](https://figshare.com/) alebo [Zenodo](https://zenodo.org/).
 
-4. Search for other data repositories in [re3data](https://www.re3data.org/). There is no single filter option in re3data covering the FAIR principles, but considering the following filter options will help you to find FAIR-compatible repositories: access categories, data usage licenses, trustworthy data repositories \(with a certificate or explicitly adhering to archival standards\) and whether a repository gives the data a persistent identifier \(PID\). Another aspect to consider is whether the repository supports versioning.
+4. Vyhľadajte repozitár v Registri dátových repozitárov [re3data](https://www.re3data.org/). V registri re3data nie je samostatná možnosť filtrovať výsledky vhľadávania podľa princípov FAIR, ale tieto možnosti filtrovania vám pomôžunájsť repozitáre kompatibilné s princípmi FAIR: katégórie prístupu, licencie na používanie dát, dôveryhodné dátové repozitáre \(s certifikátom alebo explicitne dodržiavajúce štandardy archivovania\) a to, či repozitár prideľuje dátam trvalý identifikátor \(PID\). Ďalší asppekt, ktorý treba zobrať do úvahy, je to, či repozitár podporuje verziovanie.
 
 ## <img src="/Images/Icons/archive.png" width="150" height="150" />
 You should consider where to deposit and publish your data already in your research data management plan. CESSDA offers some practical questions, which are recommended to be considered. For example: Which data and associated metadata, documentation and code will be deposited? How long does the data need to be retained? For how long should the data remain reusable? How will the data be made available? What access category will you choose? For more questions check [Adapt your DMP: part 6](https://www.cessda.eu/Research-Infrastructure/Training/Expert-Tour-Guide-on-Data-Management/6.-Archive-Publish/Adapt-your-DMP-part-6). On the other hand don’t forget to check if a chosen repository meets requirements of your research and of your funder. Some repositories have already gained certification, like CoreTrustSeal, which certifies them to be trustworthy and to be able to meet Core Trustworthy Data Repositories Requirements. It is worth mentioning that some domain specific repositories may accept only high-quality data with a potential for reuse and that can be publicly shared.
@@ -111,12 +111,12 @@ Data packages are containers for describing and sharing accompanying data files,
 
 With appropriate data management planning much sensitive and proprietary data can be shared, reused, and FAIR. The metadata can almost always be shared. Guidance and best practices for sharing sensitive data are necessarily region-specific because of differing regulations \(see for example UKDS’[Companion material for Managing and Sharing Research Data handbook](https://www.ukdataservice.ac.uk/manage-data/handbook)\). [International Association for Social Science Information Services and Technology](http://www.iassistdata.org/resources/data-management/best-practices) keeps a list of international guidance in data management that is a good starting point. There are several approaches and initiatives to help researchers achieve this. [DCC’s DMPonline tool](http://www.dcc.ac.uk/dmponline) includes a number of templates for funders. [The CESSDA Expert Tour Guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Ethics-and-data-protection) provides information and practical examples on how to share personal data and on copyright and database issues across the European countries. The Tour Guide also gives an overview on the impact of the GDPR which will harmonize personal data legislation in Europe \(May 2018\), and provides an updated overview on [EU diversity on data protection](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Processing-personal-data/Diversity-in-data-protection).[ ](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Processing-personal-data/Diversity-in-data-protection)
 
-###### Data brokers
+###### Dátoví sprostredkovatelia (Data brokers
 
 Data brokers are knowledgeable, independent parties who act as data stewards for sensitive data. Researchers can transfer their sensitive data and jurisdiction over access to that data to the broker. This is especially common with patient-level data from clinical studies. Brokers provide a level of independence in the evaluation of whose data requests are scientifically valid and will not violate the privacy of research participants. Examples of data brokers include [The YODA Project](http://yoda.yale.edu/), [ClinicalStudyDataRequest.com](https://www.clinicalstudydatarequest.com/), [National Sleep Research Resource](https://sleepdata.org/) and [Supporting Open Access for Researchers \(SOAR\)](https://dcri.org/our-approach/data-sharing/).
 
 ## <img src="/Images/Icons/data.png" width="150" height="150" />
-##### Analysis portals
+##### Analytické portály 
 
 Analysis portals are platforms that allow approved analysis of data without allowing full access \(viewing or downloading\) or controlling where and who gets access. Some data brokers also use analysis portals. Analysis portals control what additional datasets can be pooled with the sensitive data as well as what analyses can be run to ensure that personal information is not revealed during reanalysis. Examples of virtual analysis portals include [Project Data Sphere](https://www.projectdatasphere.org/projectdatasphere/html/home), [Vivli](http://vivli.org/), [RAIRD](http://raird.no/), [Corpuscle](http://clarino.uib.no/korpuskel/page), and [INESS](http://clarino.uib.no/iness/page).
 
@@ -225,7 +225,7 @@ A: "You should talk to experts in domain specific repositories on how to provide
 * Wilkinson et al. (2918). A design framework and exemplar metrics for FAIRness. [doi.org/10.1038/sdata.2018.118](https://doi.org/10.1038/sdata.2018.118)
 
 
-#### Initiatives and projects
+#### Iniciatívy a projekty
 
 * DANS GDPR DataTags. [zingtree.com](https://zingtree.com/host.php?style=buttons&tree_id=442670046&persist_names=Restart&persist_node_ids=58#58)
 
