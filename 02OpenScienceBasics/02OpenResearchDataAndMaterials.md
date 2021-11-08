@@ -51,11 +51,11 @@ Na rozdiel od partnerských iniciatív zameraných na vedca - človeka kladú pr
 
 ##### Publikovanie dát
 
-Väčina výskumníkov je už viac alebo menej informovaná o publikovaní článkov a kníh v režime otvoreného prístupu \(see chapter 5\). V poslednej dobe, aj z dôvodov uvedených vyššie, si získava čoraz väčšiu pozornosť publikovanie dát. Stále viac finacovateľov očakáva, že dáta vyprodukované v rámci výskumných projektov, ktoré finacujú, budú vyhľadateľné, prístupné a také otvorené, ako je možné.    
+Väčšina výskumníkov je už viac alebo menej informovaná o uverejňovaní článkov a kníh v režime otvoreného prístupu \(pozri kapitola 5\). V poslednej dobe, aj z dôvodov uvedených vyššie, si získava čoraz väčšiu pozornosť publikovanie dát. Stále viac financovateľov očakáva, že dáta vyprodukované v rámci výskumných projektov, ktoré financujú, budú vyhľadateľné, prístupné a také otvorené, ako je možné.    
 
-Dáta sa dajú sprístupniť niekľokými spôsobmi, vrátane \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\):
+Dáta sa dajú sprístupniť niekoľkými spôsobmi, vrátane \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\):
 
-* Zverejniť dáta ako doplňujúci materiál súvisiaci s [výskumný článok](https://en.wikipedia.org/wiki/Research_article), súbory dát sú zvyčajne uložené u vydavateľa článku.
+* Zverejniť dáta ako doplňujúci materiál súvisiaci s výskumným článkom [research article](https://en.wikipedia.org/wiki/Research_article), súbory dát sú zvyčajne uložené u vydavateľa článku.
 
 * Uložiť dáta na verejne dostupne webovej stránke, odkiaľ  sa súbory dajú stiahnuť. 
 
@@ -63,48 +63,48 @@ Dáta sa dajú sprístupniť niekľokými spôsobmi, vrátane \([Wikipedia](http
 
 * Na uloženie svojich dát majú výskumníci tiež k dispozícii veľké množstvo všeobecných, odborových a predmetových (tematických) repozitárov.
 
-* Publikovať dátový článok (data paper) o súbore dát, ktorý môže byť zverejnený ako preprint, v časopise alebo dátovom časopise (data journal) zameranom na podporu dátových článkov. Dáta môže mať uložené časopis alebo môžu byť uložené osobitne v dátovom repozitári. Medzi príklady dátových časopisov patrí [Scientific Data](https://www.nature.com/sdata/) \(by SpringerNature\) and the [Data Science Journal](http://www.codata.org/publications/data-science-journal) \(by CODATA\). Komplexnú recenziu dátových časopisov nádjtete v článku [Candela et al](https://doi.org/10.1002%2Fasi.23358).
+* Publikovať dátový článok (data paper) o súbore dát, môže byť zverejnený ako preprint v časopise alebo dátovom časopise (data journal) zameranom na podporu dátových článkov. Dáta môže mať uložené časopis alebo môžu byť uložené osobitne v dátovom repozitári. Medzi príklady dátových časopisov patrí [Scientific Data](https://www.nature.com/sdata/) \(od SpringerNature\) a [Data Science Journal](http://www.codata.org/publications/data-science-journal) \(od CODATA\). Komplexnú recenziu dátových časopisov nájdete v článku [Candela et al](https://doi.org/10.1002%2Fasi.23358).
 
-Príručka konzorcia CESSDA ERIC, Sprievodca manažmentom dát [Expert tour guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Data-publishing-routes), poskytuje prehľad plusov a mínusov rôznych ciest publikovania dát. Finacovateľ alebo iná tretia strana môže od vás niekedy vyžadovať, aby ste použili konkrétny repozitár. Ak je voľba na vás, mohli by ste zvážiť výber podľa odporúčaní organizácie OpenAIRE [recommendations by OpenAIRE](https://www.openaire.eu/opendatapilot-repository-guide):
+Príručka konzorcia CESSDA ERIC, Sprievodca manažmentom dát [Expert tour guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Data-publishing-routes), poskytuje prehľad plusov a mínusov rôznych ciest publikovania dát. Financovateľ alebo iná tretia strana môže od vás niekedy vyžadovať, aby ste použili konkrétny repozitár. Ak je voľba na vás, mohli by ste zvážiť výber podľa odporúčaní organizácie OpenAIRE [recommendations by OpenAIRE](https://www.openaire.eu/opendatapilot-repository-guide):
 
-1. Na uchovanie dát v súlade s uznávanými štandardami vo svojej disciplíne použite externý dátový archív alebo repozitár, ktorý vo vašom odbore výskumu už existuje.
+1. Na uchovanie dát v súlade s uznávanými štandardami vo svojej disciplíne použite externý dátový archív alebo repozitár, ktorý už máte vo svojom odbore výskumu k dispozícii.
 
-2. Ak je dostupný, použite inštitucionálny repozitár výskumných dát alebo existujúcu infraštruktúcu na manažment dát, ktorú má vaša výskumná skupina k dispozícii.
+2. Ak je dostupný, použite inštitucionálny repozitár výskumných dát alebo existujúcu infraštruktúru manažmentu dát, ktorú má vaša výskumná skupina k dispozícii.
 
-3. Použite bezplatný dátový repozitár ako napríklad [Dataverse](https://dataverse.org/), [Dryad](https://datadryad.org/pages/faq#depositing-cost), [figshare](https://figshare.com/) alebo [Zenodo](https://zenodo.org/).
+3. Použite bezplatný dátový repozitár, ako napríklad [Dataverse](https://dataverse.org/), [Dryad](https://datadryad.org/pages/faq#depositing-cost), [figshare](https://figshare.com/) alebo [Zenodo](https://zenodo.org/).
 
-4. Vyhľadajte repozitár v Registri dátových repozitárov [re3data](https://www.re3data.org/). V registri re3data nie je samostatná možnosť filtrovať výsledky vhľadávania podľa princípov FAIR, ale tieto možnosti filtrovania vám pomôžunájsť repozitáre kompatibilné s princípmi FAIR: katégórie prístupu, licencie na používanie dát, dôveryhodné dátové repozitáre \(s certifikátom alebo explicitne dodržiavajúce štandardy archivovania\) a to, či repozitár prideľuje dátam trvalý identifikátor \(PID\). Ďalší asppekt, ktorý treba zobrať do úvahy, je to, či repozitár podporuje verziovanie.
+4. Vyhľadajte repozitár v Registri dátových repozitárov [re3data](https://www.re3data.org/). V registri re3data nie je samostatná možnosť filtrovať výsledky vyhľadávania podľa princípov FAIR, ale nájsť repozitáre kompatibilné s princípmi FAIR vám pomôžu aj tieto možnosti filtrovania: kategórie prístupu, licencie na používanie dát, dôveryhodné dátové repozitáre \(s certifikátom alebo explicitne dodržiavajúce štandardy archivovania\) a to, či repozitár prideľuje dátam trvalý identifikátor \(PID\). Ďalší aspekt, ktorý treba zobrať do úvahy, je to, či repozitár podporuje verziovanie.
 
 ## <img src="/Images/Icons/archive.png" width="150" height="150" />
-You should consider where to deposit and publish your data already in your research data management plan. CESSDA offers some practical questions, which are recommended to be considered. For example: Which data and associated metadata, documentation and code will be deposited? How long does the data need to be retained? For how long should the data remain reusable? How will the data be made available? What access category will you choose? For more questions check [Adapt your DMP: part 6](https://www.cessda.eu/Research-Infrastructure/Training/Expert-Tour-Guide-on-Data-Management/6.-Archive-Publish/Adapt-your-DMP-part-6). On the other hand don’t forget to check if a chosen repository meets requirements of your research and of your funder. Some repositories have already gained certification, like CoreTrustSeal, which certifies them to be trustworthy and to be able to meet Core Trustworthy Data Repositories Requirements. It is worth mentioning that some domain specific repositories may accept only high-quality data with a potential for reuse and that can be publicly shared.
+To, kde uložíte a zverejníte svoje dáta, by ste mali zvážiť už pri príprave plánu manažmentu výskumných dát (DMP, z angl. data management plan). Konzorcium CESSDA odporúča zvážiť napríklad tieto praktické otázky: Ktoré dáta a súvisiace metadáta, dokumentácia a kód sa uložia? Ako dlho treba dáta uchovávať? Ako dlho by mali dáta ostať opätovne použiteľné? Ako sa dáta sprístupnia? Akú kategóriu prístupu vyberiete? Viac otázok nájdete v príručke CESSDA, Sprievodca manažmentom dát, v 6. časti Vytvorte si svoj DMP,   [Adapt your DMP: part 6](https://www.cessda.eu/Research-Infrastructure/Training/Expert-Tour-Guide-on-Data-Management/6.-Archive-Publish/Adapt-your-DMP-part-6). Na druhej strane si nezabudnite overiť, či vybraný repozitár spĺňa požiadavky vášho výskumu a financovateľa vášho výskumu. Niektoré repozitáre už získali osvedčenie ako napríklad CoreTrustSeal, ktoré potvrdzuje, že repozitáre sú dôveryhodné a spĺňajú základné požiadavky dôveryhodného dátoveho repozitára (Core Trustworthy Data Repositories Requirements). Treba sa zmieniť aj o tom, že niektoré odborové repozitáre môžu akceptovať iba dáta vysokej kvality s potenciálom na opätovné použitie a ktoré sa môžu verejne zdieľať.
 
-Since there are several routes to publish your data, you should note that for a dataset to "count" as a publication, it should follow a similar publication process as an article \([Brase et al., 2009](https://doi.org/10.3233/ISU-2009-0595)\) and should be:
+Keďže existuje niekoľko ciest publikovania dát, mali by ste vedieť, že na to, aby sa dátový súbor "rátal" ako publikácia, mal by prejsť podobným publikačným procesom ako článok \([Brase et al., 2009](https://doi.org/10.3233/ISU-2009-0595)\) a mal by:
 
-* Properly documented with metadata;
+* mať primeranú dokumentáciu a metadáta;
 
-* Reviewed for quality, e.g. content of the study, methodology, relevance, legal consistency and documentation of materials;
+* prejsť preskúmaním kvality, napr., obsah výskumu, metodológia, relevantnosť, právna konzistentnosť a dokumentácia materiálov;
 
-* Searchable and discoverable in catalogues \(or databases\);
+* vyhľadateľný v katalógoch \(alebo databázach\);
 
-* Citable in articles.
+* citovateľný v článkoch.
 
 ## <img src="/Images/Icons/metadata.png" width="150" height="150" />
 ##### Citovanie dát
 
-Data citation services help research communities discover, identify, and cite research data \(and often other research objects\) with confidence. This typically involves the creation and allocation of Digital Object Identifiers \(DOIs\) and accompanying metadata through services such as [DataCite](https://www.datacite.org), and can be integrated with research workflows and standards. This is an emerging field, and involves aspects such as conveying to journal publishers the importance of appropriate data citation in articles, as well as enabling research articles themselves to be linked to any underlying data. Through this, citable data become legitimate contributions to the process of scholarly communication, and can help pave the way for new metrics and publication models that recognize and reward data sharing.
+Služby citovania dát pomáhajú vedecko-výskumným komunitám spoľahlivo vyhľadať, identifikovať a citovať výskumné dáta \(a často iné výskumné objekty\). Toto zvyčajne zahŕňa tvorbu a pridelenie identifikátorov digitálnych objektov \(DOI\) a sprievodných metadát prostredníctvom služieb ako [DataCite](https://www.datacite.org). DOI a metadáta je možné integrovať do pracovných postupov a štandardov. Ide o vznikajúcu oblasť, ktorá zahŕňa aspekty, ako je presvedčenie vydavateľom o dôležitosti správneho citovania dát v článkoch, alebo umožnenie prelinkovanie samotných článkov na podkladové dáta. Citovateľné dáta sa takto stanú oprávneným príspevkom k procesu vedeckej komunikácie a pomôžu pripraviť cestu novým metrikám a modelom vydávania, ktoré budú uznávať a odmeňovať zdieľanie dát.
 
-As an initial step towards good practice for data citation, the Data Citation Synthesis Group of FORCE11 has put forward the [Joint Declaration of Data Citation Principles](https://doi.org/10.25490/a97f-egyk), targeted at both researchers and data service providers. Adhering to these principles, data repositories usually provide researchers with a reference they can use when referring to a given dataset.
+Pracovná skupina (Data Citation Synthesis Group) hnutia FORCE11 predložila Spoločnú deklaráciu princípov citovania dát [Joint Declaration of Data Citation Principles](https://doi.org/10.25490/a97f-egyk) ako prvotný krok smerom k dobrej praxi citovania dát. Deklarácia sa zameriava na výskumníkov, ako aj poskytovateľov dátových služieb. Podľa týchto princípov poskytujú repozitáre výskumníkom odkaz (reference), ktorý môžu použiť, keď sa zmienia o danom súbore dát.
 
 ## <img src="/Images/Icons/database.png" width="150" height="150" />
-##### SPracovanie dát (Data packaging)
+##### Spracovanie dát (Data packaging)
 
-Data packages are containers for describing and sharing accompanying data files, and typically comprise a metadata file describing the features and context of a dataset. This can include aspects such as creation information, provenance, size, format type, field definitions, as well as any relevant contextual files, such as data creation scripts or textual documentation. From the [Data Packaging Guide](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md):
+Balíky dát (Data packages) sú súbory na opis a zdieľanie sprievodných dátových súborov, zvyčajne obsahujú súbor s metadátami opisujúci vlastnosti a kontext súboru dát. Zahŕňa to aspekty, ako sú informácie o vytvorení, pôvode, veľkosti, formátoch, definície polí, ako aj akékoľvek relevantné kontextové súbory ako skripty na vytvorenie dát či textovú dokumentáciu. Zdroj [Data Packaging Guide](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md):
 
-* Data are forever: Datasets outlive their original purpose. Limitations of data may be obvious within their original context, such as a library catalog, but may not be evident once data is divorced from the application it was created for.
+* Dáta sú navždy: súbory dát prežijú svoj pôvodný účel. Obmedzenia dát môžu byť zjavné v rámci ich pôvodného kontextu, napríklad knižničný katalóg, ale nemusia byť očividné potom, ako sa dáta oddelia od účelu na, ktorý boli vytvorené.
 
-* Data cannot stand alone: Information about the context and provenance of the data--how and why it was created, what real-world objects and concepts it represents, the constraints on values--is necessary to helping consumers interpret it responsibly.
+* Dáta nemôžu stáť samostatne: aby mohli používatelia zodpovedne interpretovať dáta, potrebujú informácie o ich kontexte a pôvode - ako a prečo vznikli, aké objekty a pojmy zo skutočného sveta predstavujú, aké sú obmedzenia hodnôt.
 
-* Structuring metadata about datasets in a standard, machine-readable way encourages the promotion, shareability, and reuse of data.
+* Štruktúrovanie metadát súborov dát je štandardným, strojovo čitateľným spôsobom, ktorý podporuje propagáciu, zdieľateľnosť a opätovné použitie dát.
 
 ## <img src="/Images/Icons/privacy.png" width="150" height="150" />
 ##### Zdieľanie citlivých a proprietárnych dát
