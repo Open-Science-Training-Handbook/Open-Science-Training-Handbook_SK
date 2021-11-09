@@ -16,19 +16,19 @@ Výskumné dáta sú často najcennejším výstupom mnohých výskumných proje
 
 ### Ciele vzdelávania
 
-1. Pochopiť základné charakteristiky a princípy otvorených a FAIR výskumných dát, vrátane primeraného spracovania a dokumentácie, ktoré umožnia ďalším ľuďom porozumieť, reprodukovať a opätovne použiť dáta iným spôsobom.    Gain an understanding of the basic characteristics and principles of open and FAIR research data, including appropriate packaging and documentation, to enable others to understand, reproduce, and re-use in alternative ways.
+1. Pochopiť základné charakteristiky a princípy otvorených a FAIR výskumných dát, vrátane primeraného spracovania a dokumentácie, ktoré umožnia ďalším ľuďom porozumieť, reprodukovať a opätovne použiť dáta iným spôsobom.
 
-2. Oboznámiť sa s druhmi dát, ktoré sa môžu považovať za citlivé, a s obmedzeniami, ktoré bránia takéto dáta otvorene zdieľať. Familiarity with the sorts of data that might be considered sensitive, and the restrictions or constraints on openly sharing them.
+2. Oboznámiť sa s druhmi dát, ktoré sa môžu považovať za citlivé, a s obmedzeniami, ktoré bránia takéto dáta otvorene zdieľať.
 
-3. Vedieť konvertovať "zatvorený" súbor dát na "otvorený" implementáciou potrebných opatrení do plánu manažmentu dát, primeranou správou dát a metadátami.   Be able to convert a ‘closed’ dataset into one which is ‘open’ by implementing the necessary measures in a data management plan, with appropriate data stewardship and metadata.
+3. Vedieť konvertovať "zatvorený" súbor dát na "otvorený" implementáciou potrebných opatrení do plánu manažmentu dát, primeranou správou dát a metadátami.
 
-4. Vedieť využiť plán manažmentu dát a zabezpečiť prístup k dátam a ich vyhľadateľnosť, dokonca aj v prípade, ak obsahujú citlivé údaje.  Be able to use research data management plan and to make your research results findable and accessible, even if it contains sensitive data.
+4. Vedieť využiť plán manažmentu dát a zabezpečiť prístup k dátam a ich vyhľadateľnosť, dokonca aj v prípade, ak obsahujú citlivé údaje.
 
 5. Pochopiť plusy a mínusy otvoreného zdieľania rôznych typov dát \(napr., súkromie, citlivosť, anonymizácia dát/deidentifikácia, sprostredkovaný prístup\).
 
-6. Pochopiť dôležitosť primeraných metadát na udržateľné archivovanie výskumných dát. Understand the importance of appropriate metadata for sustainable archiving of research data.
+6. Pochopiť dôležitosť primeraných metadát na udržateľné archivovanie výskumných dát. 
 
-7. Pochopiť základné pracovné postupy a nástroje na zdieľanie výskumných dát.  Understand the basic workflows and tools for sharing research data.
+7. Pochopiť základné pracovné postupy a nástroje na zdieľanie výskumných dát.  
 
 ### Kľúčové prvky
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
@@ -55,7 +55,7 @@ Väčšina výskumníkov je už viac alebo menej informovaná o uverejňovaní �
 
 Dáta sa dajú sprístupniť niekoľkými spôsobmi, vrátane \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\):
 
-* Zverejniť dáta ako doplňujúci materiál súvisiaci s výskumným článkom [research article](https://en.wikipedia.org/wiki/Research_article), súbory dát sú zvyčajne uložené u vydavateľa článku.
+* Zverejniť dáta ako doplňujúci materiál súvisiaci s výskumným článkom ([research article](https://en.wikipedia.org/wiki/Research_article)), súbory dát sú zvyčajne uložené u vydavateľa článku.
 
 * Uložiť dáta na verejne dostupne webovej stránke, odkiaľ  sa súbory dajú stiahnuť. 
 
@@ -91,9 +91,9 @@ Keďže existuje niekoľko ciest publikovania dát, mali by ste vedieť, že na 
 ## <img src="/Images/Icons/metadata.png" width="150" height="150" />
 ##### Citovanie dát
 
-Služby citovania dát pomáhajú vedecko-výskumným komunitám spoľahlivo vyhľadať, identifikovať a citovať výskumné dáta \(a často iné výskumné objekty\). Toto zvyčajne zahŕňa tvorbu a pridelenie identifikátorov digitálnych objektov \(DOI\) a sprievodných metadát prostredníctvom služieb ako [DataCite](https://www.datacite.org). DOI a metadáta je možné integrovať do pracovných postupov a štandardov. Ide o vznikajúcu oblasť, ktorá zahŕňa aspekty, ako je presvedčenie vydavateľom o dôležitosti správneho citovania dát v článkoch, alebo umožnenie prelinkovanie samotných článkov na podkladové dáta. Citovateľné dáta sa takto stanú oprávneným príspevkom k procesu vedeckej komunikácie a pomôžu pripraviť cestu novým metrikám a modelom vydávania, ktoré budú uznávať a odmeňovať zdieľanie dát.
+Služby citovania dát pomáhajú vedecko-výskumným komunitám spoľahlivo vyhľadať, identifikovať a citovať výskumné dáta \(a často iné výskumné objekty\). Toto zvyčajne zahŕňa tvorbu a pridelenie identifikátorov digitálnych objektov \(DOI\) a sprievodných metadát prostredníctvom služieb ako [DataCite](https://www.datacite.org). DOI a metadáta je možné integrovať do pracovných postupov a štandardov. Ide o vznikajúcu oblasť, ktorá zahŕňa aspekty, ako je presvedčenie vydavateľom o dôležitosti správneho citovania dát v článkoch alebo umožnenie prelinkovanie samotných článkov na podkladové dáta. Citovateľné dáta sa takto stanú oprávneným príspevkom k procesu vedeckej komunikácie a pomôžu pripraviť cestu novým metrikám a modelom vydávania, ktoré budú uznávať a odmeňovať zdieľanie dát.
 
-Pracovná skupina (Data Citation Synthesis Group) hnutia FORCE11 predložila Spoločnú deklaráciu princípov citovania dát [Joint Declaration of Data Citation Principles](https://doi.org/10.25490/a97f-egyk) ako prvotný krok smerom k dobrej praxi citovania dát. Deklarácia sa zameriava na výskumníkov, ako aj poskytovateľov dátových služieb. Podľa týchto princípov poskytujú repozitáre výskumníkom odkaz (reference), ktorý môžu použiť, keď sa zmienia o danom súbore dát.
+Pracovná skupina (Data Citation Synthesis Group) hnutia FORCE11 predložila Spoločnú deklaráciu princípov citovania dát, [Joint Declaration of Data Citation Principles](https://doi.org/10.25490/a97f-egyk), ako prvotný krok smerom k dobrej praxi citovania dát. Deklarácia sa zameriava na výskumníkov a aj poskytovateľov dátových služieb. Podľa týchto princípov poskytujú repozitáre výskumníkom odkaz (reference), ktorý môžu použiť, keď sa zmienia o danom súbore dát.
 
 ## <img src="/Images/Icons/database.png" width="150" height="150" />
 ##### Spracovanie dát (Data packaging)
@@ -109,20 +109,20 @@ Balíky dát (Data packages) sú súbory na opis a zdieľanie sprievodných dát
 ## <img src="/Images/Icons/privacy.png" width="150" height="150" />
 ##### Zdieľanie citlivých a proprietárnych dát
 
-With appropriate data management planning much sensitive and proprietary data can be shared, reused, and FAIR. The metadata can almost always be shared. Guidance and best practices for sharing sensitive data are necessarily region-specific because of differing regulations \(see for example UKDS’[Companion material for Managing and Sharing Research Data handbook](https://www.ukdataservice.ac.uk/manage-data/handbook)\). [International Association for Social Science Information Services and Technology](http://www.iassistdata.org/resources/data-management/best-practices) keeps a list of international guidance in data management that is a good starting point. There are several approaches and initiatives to help researchers achieve this. [DCC’s DMPonline tool](http://www.dcc.ac.uk/dmponline) includes a number of templates for funders. [The CESSDA Expert Tour Guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Ethics-and-data-protection) provides information and practical examples on how to share personal data and on copyright and database issues across the European countries. The Tour Guide also gives an overview on the impact of the GDPR which will harmonize personal data legislation in Europe \(May 2018\), and provides an updated overview on [EU diversity on data protection](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Processing-personal-data/Diversity-in-data-protection).[ ](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Processing-personal-data/Diversity-in-data-protection)
+Aj veľmi citlivé a proprietárne  dáta sa môžu zdieľať, opätovne použiť a zároveň byť FAIR, ak sa dodrží primeraný manažment dát. Metadáta sa môžu zdieľať takmer vždy. Usmernenia a najlepšie prax na zdieľanie citlivých dát sú vždy špecifické pre daný región, a to kvôli odlišným predpisom \(pozri napríklad Sprievodný materiál k Príručke manažmentu a zdieľania výskumných dát dátovej služby UK Data Service, [Companion material for Managing and Sharing Research Data handbook](https://www.ukdataservice.ac.uk/manage-data/handbook)\). Medzinárodná asociácia informačných služieb a technológií v spoločenských vedách, [International Association for Social Science Information Services and Technology](http://www.iassistdata.org/resources/data-management/best-practices), udržiava zoznam medzinárodných usmernení pre manažment dát, ktorý je dobrým východiskovým bodom. Dobrý manažment dát môžu výskumníci dosiahnuť aj pomocou niekoľkých prístupov a iniciatív. Online nástroj Centra digitálneho kurátorstva (DCC, Digital Data Curations) [DMPonline tool](http://www.dcc.ac.uk/dmponline) obsahuje mnoho šablón pre financovateľov. Príručka konzorcia CESSDA, Sprievodca manažmentom dát, časť o Ochrane a etike a ochrane dát, [The CESSDA Expert Tour Guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Ethics-and-data-protection), poskytuje informácie a praktické príklady o tom, ako zdieľať osobné údaje a otázkach súvisiacich s autorskými právami a databázami v Európskych krajinách. Sprievodca tiež obsahuje prehľad dopadov Všeobecného nariadenia na ochranu osobných údajov (GDPR), ktoré má harmonizovať legislatívu o ochrane osobných údajov v Európe \(Máj 2018\) a poskytuje aktualizovaný prehľad rôznej praxe pri ochrane dát v EÚ, [EU diversity on data protection](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Processing-personal-data/Diversity-in-data-protection).[ ](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Processing-personal-data/Diversity-in-data-protection)
 
-###### Dátoví sprostredkovatelia (Data brokers
+###### Dátoví sprostredkovatelia (Data brokers)
 
-Data brokers are knowledgeable, independent parties who act as data stewards for sensitive data. Researchers can transfer their sensitive data and jurisdiction over access to that data to the broker. This is especially common with patient-level data from clinical studies. Brokers provide a level of independence in the evaluation of whose data requests are scientifically valid and will not violate the privacy of research participants. Examples of data brokers include [The YODA Project](http://yoda.yale.edu/), [ClinicalStudyDataRequest.com](https://www.clinicalstudydatarequest.com/), [National Sleep Research Resource](https://sleepdata.org/) and [Supporting Open Access for Researchers \(SOAR\)](https://dcri.org/our-approach/data-sharing/).
+Dátoví sprostredkovatelia sú informovaní, nezávislí aktéri, ktorí pôsobia ako správcovia dát pre citlivé dáta. Výskumníci môžu preniesť citlivé dáta a kontrolu nad prístupom k nim na sprostredkovateľa. Tento postup je bežný najmä pri údajoch pacientov z klinických štúdií. Sprostredkovatelia zabezpečujú určitú mieru nezávislosti v hodnotení toho, ktoré žiadosti o dáta sú vedecky platné a neporušia súkromie účastníkov výskumu. Medzi dátových sprostredkovateľov patria [The YODA Project](http://yoda.yale.edu/), [ClinicalStudyDataRequest.com](https://www.clinicalstudydatarequest.com/), [National Sleep Research Resource](https://sleepdata.org/) a [Supporting Open Access for Researchers \(SOAR\)](https://dcri.org/our-approach/data-sharing/).
 
 ## <img src="/Images/Icons/data.png" width="150" height="150" />
 ##### Analytické portály 
 
-Analysis portals are platforms that allow approved analysis of data without allowing full access \(viewing or downloading\) or controlling where and who gets access. Some data brokers also use analysis portals. Analysis portals control what additional datasets can be pooled with the sensitive data as well as what analyses can be run to ensure that personal information is not revealed during reanalysis. Examples of virtual analysis portals include [Project Data Sphere](https://www.projectdatasphere.org/projectdatasphere/html/home), [Vivli](http://vivli.org/), [RAIRD](http://raird.no/), [Corpuscle](http://clarino.uib.no/korpuskel/page), and [INESS](http://clarino.uib.no/iness/page).
+Analytické portály sú platformy, ktoré umožňujú realizovať schválenú analýzu dát bez toho, aby bol umožnený úplný prístup \(pozretie alebo stiahnutie\) alebo kontrola toho, kde a kto dostane prístup. Niektorí dátoví sprostredkovatelia tiež využívajú analytické portály. Analytické portály rozhodujú, aké ďalšie súbory dát sa môžu spojiť s citlivými dátami, ako aj to, aké analýzy sa môžu vykonať, aby sa zaistilo, že osobné údaje sa počas opätovnej analýzy neodhalia. Medzi virtuálne analytické portály patria [Project Data Sphere](https://www.projectdatasphere.org/projectdatasphere/html/home), [Vivli](http://vivli.org/), [RAIRD](http://raird.no/), [Corpuscle](http://clarino.uib.no/korpuskel/page) a [INESS](http://clarino.uib.no/iness/page).
 
-Social science and other researchers with sensitive data use a single-site analysis portal that can be accessed only under controlled regime. Approved researchers can access the data on-site, in a safe room, for scientific purposes. However, the metadata describing the data should be openly available and adhering to the FAIR principles.
+Výskumníci z oblasti spoločenských a iných vied s citlivými dátami používajú analytické portály umiestnené na jedinom mieste (single-site analysis portal), ktoré sú prístupné len v kontrolovanom režime. Schválení výskumníci môžu získať prístup k dátam priamo na mieste, v bezpečnej miestnosti, na vedecké účely. Ale metadáta opisujúce dáta by mali byť otvorene dostupné a dodržiavať princípy FAIR.
 
-##### De-identified and synthetic data
+##### Anonymné a syntetické dáta 
 
 Many datasets containing participant-level private information can be shared once the dataset has been de-identified \(Safe Harbor method\) or a expert has determined that the dataset is not individually identifiable \(Expert Determination method\). Consult with your Research Ethics Board / Institutional Review Board to learn how to do this with your data. We also recommend [the CESSDA Expert Tour Guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Ethics-and-data-protection), which provides information and practical examples on how to share personal data. However, some datasets cannot be safely de-identified and shared. Researchers can still improve the openness of research on such data by creating and sharing synthetic data. Synthetic data is similar in structure, content, and distribution to the real data and aims to attain "analytic validity": statistical analysis will return the same results for the synthetic data as the real data. The United States Census Bureau, for example, uses [synthetic data and analysis portals](https://census.gov/content/dam/Census/programs-surveys/sipp/methodology/SSBdescribe_nontechnical.pdf) in combination to allow reuse of highly sensitive data.
 
@@ -134,25 +134,25 @@ As mentioned above, the ultimate goal of data sharing your research data is to m
 
 
 ## <img src="/Images/Icons/usb.png" width="150" height="150" />
-##### Open Materials
+##### Otvorené materiály
 
 In addition to data sharing, the openness of research relies on sharing of materials. What materials researchers use is discipline-specific and sometimes unique to a lab. Below are examples of materials you can share, although always confer with peers in your discipline to identify which repositories are used. When you have materials, data, and publications from the same research project shared in different repositories, cross-reference them with a link and a unique identifier so they can be easily located.
 
-###### Reagents
+###### Činidlá (Reagens)
 
 A reagents is a substance, compound or mixture that can be added to a system in order to create a chemical or other reaction. Reagents can be deposited with repositories like [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), and [ATCC](https://www.atcc.org/) to make them easily accessible to other researchers. License your materials so they can be reused by other researchers.
 
-###### Protocols
+###### Protokoly
 
 A protocol describes a formal or official record of scientific experimental observations in a structured format. Deposit virtual protocols for citation, adaptation, and reuse using [Protocols.](https://www.protocols.io/)[io](https://www.protocols.io/).
 
-###### Notebooks, containers, software, and hardware
+###### Notebooky, kontajnery, softvér a hardvér 
 
 Reproducible analysis is aided by the use of literate programming, container technology, and virtualization. In addition to sharing your code and data, also share your Jupyter notebooks, Docker images, or other analysis materials or software dependencies. Share notebooks with Open services such as [mybinder](http://mybinder.org) that allow for public viewing and execution of the entire notebook on shared resources. Containers and notebooks can be shared with [Rocker](https://arxiv.org/abs/1710.03675) or [Code Ocean](https://codeocean.com/). Software and hardware used in your research should be shared following best practices for documentation as outlined in [Section 3](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md). Read-only protocols should be deposited in your disciplines registry such as [ClinicalTrials.gov](https://clinicaltrials.gov/) and [SocialScienceRegistry](https://www.socialscienceregistry.org/) or a general registry like [Open Science](https://osf.io/)[ Framework](https://osf.io/). Many journals, such as [Trials](https://trialsjournal.biomedcentral.com/), [JMIR Research Protocols](https://www.researchprotocols.org/), or [Bio-Protocol](https://bio-protocol.org/), will publish your protocol. Best practices for publishing your protocol open access are the same as publishing your report open access \(see [Section 5](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)\).
 
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Otázky, prekážky a bežné mylné predstavy
 
 Q: "Is it sufficient to make my data openly available?"
 
@@ -180,7 +180,7 @@ A: "You should talk to experts in domain specific repositories on how to provide
 
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Výsledky vzdelávania
 
 1. Understand the characteristics of open data, and in particular the FAIR principles.
 
@@ -197,7 +197,7 @@ A: "You should talk to experts in domain specific repositories on how to provide
 7. Be able to write a data management plan.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Ďalšie odporúčané čítanie
 * Averkamp et al. (2018). Data packaging guide. [github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md).
 
 * Barend et al. (2017). Cloudy, increasingly FAIR; revisiting the FAIR Data guiding principles for the European Open Science Cloud. [doi.org/10.3233/ISU-170824](https://doi.org/10.3233/ISU-170824)
