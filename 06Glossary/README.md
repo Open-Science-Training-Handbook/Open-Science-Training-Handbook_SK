@@ -63,7 +63,7 @@
 
 **GDPR (General Data Protection Regulation)**
 
-* Všeobecné nariadenie na ochranu osobných údajov, ktoré sa snaží vytvoriť harmonizovaný právny rámec ochrany údajov v celej EÚ. Cieľom je vrátiť občanom kontrolu nad osobnými údajmi a zároveň uložiť prísne pravidlá tým, ktorí takéto údaje ukladajú, spravujú a "spracúvajú" kdekoľvek na svete. Nariadenie tiež zavádza pravidlá týkajúce sa voľného pohybu osobných údajov vo vnútri EÚ a mimo nej.    
+* Všeobecné nariadenie o ochrane osobných údajov, ktoré sa snaží vytvoriť harmonizovaný právny rámec ochrany údajov v celej EÚ. Cieľom je vrátiť občanom kontrolu nad osobnými údajmi a zároveň uložiť prísne pravidlá tým, ktorí takéto údaje ukladajú, spravujú a "spracúvajú" kdekoľvek na svete. Nariadenie tiež zavádza pravidlá týkajúce sa voľného pohybu osobných údajov vo vnútri EÚ a mimo nej.    
 
 **Impakt faktor časopisu**
 
