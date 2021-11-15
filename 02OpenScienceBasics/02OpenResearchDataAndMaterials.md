@@ -35,7 +35,7 @@ Výskumné dáta sú často najcennejším výstupom mnohých výskumných proje
 #### Poznatky a zručnosti
 ##### Princípy FAIR
 
-V roku 2014 boli navrhnuté základné princípy na optimalizáciu opätovného použitia výskumných dát pod názvom [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples) (Princípy FAIR dát). Predstavujú súbor princípov a najlepších postupov vypracovaných komunitou s cieľom zabezpečiť, aby boli dáta alebo akékoľvek digitálne objekty **F**indable (vyhľadateľné), **A**ccessible (prístupné), **I**nteroperable (interoperabilné a **R**e-usable (opätovne použiteľné):    
+V roku 2014 boli navrhnuté základné princípy na optimalizáciu opätovného použitia výskumných dát pod názvom Princípy FAIR dát ([FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples)). Predstavujú súbor princípov a najlepších postupov vypracovaných komunitou s cieľom zabezpečiť, aby boli dáta alebo akékoľvek digitálne objekty **F**indable (vyhľadateľné), **A**ccessible (prístupné), **I**nteroperable (interoperabilné a **R**e-usable (opätovne použiteľné):    
 
 **Findable (vyhľadateľné):** Prvá vec, ktorú treba zabezpečiť, aby sa dali dáta opätovne použiť, je ich vyhľadateľnosť. Ľudia aj počítače by mali dokázať nájsť dáta ľahko a jednoducho. Automatické a spoľahlivé vyhľadanie súborov dát a služieb závisí od strojovo čitateľných trvalých identifikátorov \(PID\) a metadát.
 
@@ -55,7 +55,7 @@ Väčšina výskumníkov je už viac alebo menej informovaná o uverejňovaní �
 
 Dáta sa dajú sprístupniť niekoľkými spôsobmi, vrátane týchto \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\):
 
-* Zverejniť dáta ako doplňujúci materiál súvisiaci s výskumným článkom ([research article](https://en.wikipedia.org/wiki/Research_article)), súbory dát sú zvyčajne uložené u vydavateľa článku.
+* Zverejniť dáta ako doplňujúci materiál súvisiaci s vedeckým článkom ([research article](https://en.wikipedia.org/wiki/Research_article)), súbory dát sú zvyčajne uložené u vydavateľa článku.
 
 * Uložiť dáta na verejne dostupne webovej stránke, odkiaľ  sa súbory dajú stiahnuť. 
 
