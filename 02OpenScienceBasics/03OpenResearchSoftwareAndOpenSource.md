@@ -3,47 +3,47 @@
 
 ### Čo je to?
 
-Otvorený výskumný softvér alebo softvér s otvoreným zdrojovým kódom sa vzťahuje na používanie a vývoj softvéru na anlýzu, simuláci, vizualizáciu a i. v prípade, keď je dostupný úplný zdrojový kód. Podľa [Open Source Definition](https://opensource.org/osd) sa softvér s otvoreným zdrojovým kódom musí tiež distribuovať vo forme zdrojového kódu a/alebo kompilovanej forme \(v druhom prípade s dostupným zdrojovým kódom\), a musí sa zdieľať pod licenciou, ktorá umožňuje modifikáciu, deriváciu a redistribúciu.
+Otvorený výskumný softvér alebo softvér s otvoreným zdrojovým kódom sa vzťahuje na používanie a vývoj softvéru na anlýzu, simuláci, vizualizáciu atď., ak je úplný zdrojový kód dostupný. Podľa definície otvoreného zdrojového kódu ([Open Source Definition](https://opensource.org/osd)) sa softvér s otvoreným zdrojovým kódom musí distribuovať vo forme zdrojového kódu a/alebo kompilovanej forme \(v druhom prípade s dostupným zdrojovým kódom\), a musí sa zdieľať pod licenciou, ktorá umožňuje modifikáciu, odvodenie a redistribúciu.
 
 ### Odôvodnenie
 
-Modern research relies on software, and building upon—or reproducing—that research requires access to the full source code behind that software \([Barnes, 2010](https://doi.org/10/cj8t6n); [Morin et al., 2012](https://doi.org/10/m5t); [Ince et al., 2012](https://doi.org/10/hqg); [Prins et al. 2015](https://doi.org/10/f3mn4p); [Lowndes et al., 2018](https://doi.org/10/gc4jb3)\). As Buckheit and Donoho put it, paraphrasing Jon Claerbout, ‘‘An article about a computational result is advertising, not scholarship. The actual scholarship is the full software environment, code and data, that produced the result’’ \([Buckheit & Donoho, 1995](https://doi.org/10.1007/978-1-4612-2544-7_5)\). Open access to the source code of research software also helps improve the impact of the research \([Vandewalle, 2012](https://doi.org/10/gc5sjp)\).
+Moderný výskum sa spolieha na softvér a ďalšie rozvíjanie alebo reprodukovanie daného výskumu si vyžaduje prístup k úplnému zdrojovému kódu daného softvéru \([Barnes, 2010](https://doi.org/10/cj8t6n); [Morin et al., 2012](https://doi.org/10/m5t); [Ince et al., 2012](https://doi.org/10/hqg); [Prins et al. 2015](https://doi.org/10/f3mn4p); [Lowndes et al., 2018](https://doi.org/10/gc4jb3)\). Ako povedali Buckheit a Donoho, parafrázujúc Jona Claerbouta, "Článok  o výpočtovom výsledku je reklama, nie veda. Skutočný vedecký článok informuje o úplnom softvérovom prostredí, óde a dátach, ktoré vyprodukovali výsledok. ? Skutočná veda znamená úplné softvérové prostredie, kód a dáta, ktoré vyprodukovali ?priniesli výsledok. " An article about a computational result is advertising, not scholarship. The actual scholarship is the full software environment, code and data, that produced the result’’ \([Buckheit & Donoho, 1995](https://doi.org/10.1007/978-1-4612-2544-7_5)\). Otvorený prístup k otvorenému zdrojovému kódu výskumného softvéru tiež zlepšuje impakt výskumu \([Vandewalle, 2012](https://doi.org/10/gc5sjp)\).
 
-Sharing software used for research \(whether computational in nature, or that relies on any software-based analysis/interpretation\) is a necessary, though not sufficient, condition for reproducibility. This is due to the unavoidable ambiguity that arises when trying to fully describe software using natural language, e.g., in a paper \([Ince et al., 2012](https://doi.org/10/hqg)\). Furthermore, many \(if not most\) software programs may contain some undetected errors \([Soergel, 2015](https://doi.org/10/gc5sjg)\), so even a "perfect" written description of software would not be able to account for all results.
+Zdieľanie softvéru, ktorý sa použil vo výskume \(či už ide výpočtový výskum alebo výskum využívajúci analýzu/interpretáciu založenú na softvéri\), je potrebná ale nie postačujúca podmienka reprodukovateľnosti. Vyplýva to z nevyhnutnej nejednoznčnosti, ktorá vzniká pri snake o úplný opis softvéru pomocou prirodzeného jazyka, napr., v článku   This is due to the unavoidable ambiguity that arises when trying to fully describe software using natural language, e.g., in a paper \([Ince et al., 2012](https://doi.org/10/hqg)\). Mnoho \(ak nie väčšina\) softvérových programov môže navyše obsahovať nejaké nezistené chyby \([Soergel, 2015](https://doi.org/10/gc5sjg)\), takže dokonca aj "dokonale" napísaný opis softvéru by nedokázal vysvetliť?objasniť?zdôvodniť?zahrnúť všetky výsledky.  so even a "perfect" written description of software would not be able to account for all results.
 
-In addition to reproducibility, sharing software openly allows developers to receive career credit for their efforts, either through direct citation \([Smith et al., 2016](https://doi.org/10/bw3g)\) or via software meta-articles published in, e.g., the [Journal of Open Research Software](http://openresearchsoftware.metajnl.com) or the [Journal of Open Source Software](http://joss.theoj.org) \([Smith et al., 2018](https://doi.org/10/gc5sjf)\). Neil Chue Hong maintains a [list of many domain-specific journals](https://www.software.ac.uk/which-journals-should-i-publish-my-software) that publish software articles.
+Otvorené zdieľanie softvéru umožňujej okrem reprodukovateľnosti aj to, aby bol tvorcom, vývojárom, priznaný kredit za ich úsilie buď prostredníctvom citovania \([Smith et al., 2016](https://doi.org/10/bw3g)\) alebo meta-článkov o softvére publikovaných napríklad v časopise [Journal of Open Research Software](http://openresearchsoftware.metajnl.com) alebo [Journal of Open Source Software](http://joss.theoj.org). Neil Chue Hong vedie zoznam mnohých odborových časopisov ([list of many domain-specific journals](https://www.software.ac.uk/which-journals-should-i-publish-my-software)), ktoré uverejňujú články o softvére.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Ciele vzdelávania
 
-1. Learn the characteristics of open software; understand the ethical, legal, economic, and research-impact arguments for and against open software, and further understand the quality requirements of open code.
+1. Naučiť sa charakteristiky ovtoreného softvéru; pochopiť etické, právne, ekonomické argumenty pre a proti otvorenému softvéru, ako aj argumenty o jeho dopade na výskum; porozumieť požiadavkám na kvalitu zótvoreného kódu.
 
-2. Learn how to use existing open software and appropriately attribute \(cite\) it.
+2. Naučiť sa, ako používaťť existujúci otvorený softvér a ako ho správne citovať alebo uviesť autora.
 
-3. Learn how to use common tools and services for sharing research codes openly.
+3. Naučiť sa, ako používať spoločné?bežne nástroje a služby na otvorené zdieľanie výskumných kódov.   Learn how to use common tools and services for sharing research codes openly.
 
-4. Be able to choose the appropriate license for their software, and understand the difference between permissive and non-permissive licenses.
+4. Vedieť vybrať vhodnú licenciu pre sofvtér a pochopiť rozdiel medzi permisívnymi a nepermisívnymi licenciami.
 
-### Key components
+### Kľúčové prvky
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
-#### Knowledge
+#### Poznatky
 
-There are several different platforms that support open sharing and collaboration on software, research or otherwise. First of all, you can use this checklist to evaluate openness of existing research software:
+K dispozícii máme niekoľko patforiem, ktoré do nejakej miery podporujú otvorené zdieľanie a spoluprácu na softvére, výskume. Najprv si overte otvorenosť existujúceho výskumného softvéru, na takéto hodnotenie môžete použiť tento kontrolný zoznam:  There are several different platforms that support open sharing and collaboration on software, research or otherwise. = nie je mi úplne jasné, na čo sa tu vzťahuje to "otherwise" First of all, you can use this checklist to evaluate openness of existing research software:
 
-* Is the software available to download and install?
+* Je softvér dostupná a dá stiahnuť a inštalovať? Is the software available to download and install?
 
-* Can the software easily be installed on different platforms?
+* Dá sa softvér jednoducho inštalovať na rôznych platformách?  sCan the software easily be installed on different platforms?
 
-* Does the software have conditions on the use?
+* Má softvér podmienky na používanie?  Does the software have conditions on the use?
 
-* Is the source code available for inspection?
+* Je zdrojový kód dostupný na kontrolu? Je môžné preskúmať zdrojový kód?  Is the source code available for inspection?
 
-* Is the full history of the source code available for inspection through a publicly available version history?
+* Je úplná história zdrojového kódu k dispozícii na preskúmanie prostredníctvom verejne dostupnej histórie verzií?  Is the full history of the source code available for inspection through a publicly available version history?
 
-* Are the dependencies of the software \(hardware and software\) described properly? Do these dependencies require only a reasonably minimal amount of effort to obtain and use?
+* Sú závislosti (dependencies) sofvéru \(hardvér a softvér\) správne opísané? Vyžaduje získanie a použitie týchto závislostí iba priemrane minimálne úsilie?  Are the dependencies of the software (hardware and software) described properly?Do these dependencies require only a reasonably minimal amount of effort to obtain and use?
 
-These qualities relate to and build on the [Open Source Definition](https://opensource.org/osd).
+Tieto vlastnosti sa vzťahujú k definícii otvoreného zdrojového kódu ([Open Source Definition](https://opensource.org/osd)) a stavajú na nej.
 
 [GitHub](www.github.com) is a popular tool that allows version control: management and overall tracking of changes in a particular piece of software. Services such as [GitHub](www.github.com), [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/), and others provide an interface to the tool as well as remote storage services that can be used to maintain, share, and collaborate on research software. As a tool it is quite widespread and, although it has an initial learning curve, it has proven invaluable to establishing an open and reproducible research workflow.
 
