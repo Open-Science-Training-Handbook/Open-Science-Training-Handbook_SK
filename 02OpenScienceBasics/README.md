@@ -14,9 +14,9 @@ Každá časť má takú štruktúru, ktorá zahŕňa krátky opis témy; vysvet
 * [5. Otvorený prístup k publikovaným výsledkom výskumu](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
 * [6. Otvorené licencie a formáty súborov](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
 * [7. Kolaboratívne platformy](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/07CollaborativePlatforms.md)
-* [8. Open Peer Review Metrics And Evaluation](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
+* [8. Otvorené recenzné konanie, metriky a hodnotenie](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
 * [9. Politiky otvorenej vedy](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/09OpenSciencePolicies.md)
 * [10. Občianska veda](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/10CitizenScience.md)
 * [11. Otvorené vzdelávacie zdroje](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/11OpenEducationalResources.md)
-* [12. Open Advocacy](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/12OpenAdvocacy.md)
+* [12. Podpora a presadzovanie otvorenej vedy/Open Advocacy](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/12OpenAdvocacy.md)
 
