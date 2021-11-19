@@ -1,32 +1,32 @@
 ## <img src="/Images/Icons/reuse.png" width="200" height="200" /> <img src="/Images/Icons/research.png" width="200" height="200" />
 
-## 4. Reproducible Research and Data Analysis
+## 4. Reprodukovateľný výskum a analýza dát
 
-### What is it?
+### Čo je to?
 
-Reproducibility means that research data and code are made available so that others are able to reach the same results as are claimed in scientific outputs. Closely related is the concept of replicability, the act of repeating a scientific methodology to reach similar conclusions. These concepts are core elements of empirical research.
+Reprodukovateľnosť znamená, že výskumné dáta a kód sú sprístupnené, aby ostatní mohli dosiahnuť rovnaké výsledky tak, ako sa uvádzajú vo vedeckých výstupoch. S reprodukvateľnosťou úzko súvisí pojem replikovateľnosti, čo znamená opätovné použitie vedeckých metód na dosiahnutie podobných záverov. Tieto pojmy sú základnými prvkami empirického výskumu.
 
-Improving reproducibility leads to increased rigour and quality of scientific outputs, and thus to greater trust in science. There has been a growing need and willingness to expose research workflows from initiation of a project and data collection right through to the interpretation and reporting of results. These developments have come with their own sets of challenges, including designing integrated research workflows that can be adopted by collaborators while maintaining high standards of integrity.
+Zlepšenie reprodukovateľnosti vedie k vyššej dôslednosti a presnosti (rigour) a kvalite vedeckých výstupov, a tak k väčšej dôvere k vede. V súčasnosti rastie potreba a ochota ukázať vedecko-výskumné pracovné postupy od začatia projektu a beru dát až po interpretáciu a informovanie o výsledkoch. Tento vývoj prináša svoje vlastné výzvy, vrátane nadizajnovania integrovaných vedecko-výskumných pracovných postupov, ktoré si môžu osvojiť spolupracovníci pri zachovaní vyského štandardu integrity.
 
-The concept of reproducibility is directly applied to the scientific method, the cornerstone of Science, and particularly to the following five steps:
+Pojem reprodukovateľnosti sa priamo aplikuje na vedeckú metódu, základný kameň vedy, a obzvlášť na týchto päť krokov:
 
-1. Formulating a hypothesis
+1. formulovanie hypotézy
 
-2. Designing the study
+2. nadizajnovanie výskumu ? štúdie    Designing the study
 
-3. Running the study and collecting the data
+3. realizácia výskumu a zber dát   Running the study and collecting the data
 
-4. Analyzing the data
+4. analyzovanie dát  
 
-5. Reporting the study
+5. informovanie o výskume       Reporting the study
 
-Each of these steps should be clearly reported by providing clear and open documentation, and thus making the study transparent and reproducible.
+O každom z týchto krokov by malo jasne informovať tým, že sa vypracuje a poskytne jasná a otvorená dokumentácia a výskum tak bude transparentný a reprodukovateľný.
 
 ![](/Images/02%20Open%20Science%20Basics/02_reproducible_research_data_analysis.png)
 
-### Rationale
+### Odôvodnenie
 
-Overarching factors can further contribute to the causes of non-reproducibility, but can also drive the implementation of specific measures to address these causes. The culture and environment in which research takes place is an important ‘top-down’ overarching factor. From a ‘bottom-up’ perspective, continuing education and training for researchers can raise awareness and disseminate good practice.
+K príčinám nereprodukovateľnosti môžu ďalej prispievať spoločné ? všeobecné ? preklenujúce ? zastrešujúce faktory, ktoré ale tiež môžu viesť   Overarching factors can further contribute to the causes of non-reproducibility, but can also drive the implementation of specific measures to address these causes. The culture and environment in which research takes place is an important ‘top-down’ overarching factor. From a ‘bottom-up’ perspective, continuing education and training for researchers can raise awareness and disseminate good practice.
 
 While understanding the full range of factors that contribute to reproducibility is important, it can also be hard to break down these factors into steps that can immediately be adopted into an existing research program and immediately improve its reproducibility. One of the first steps to take is to assess the current state of affairs, and to track improvement as steps are taken to increase reproducibility even more. Some of the common issues with research reproducibility are shown in the figure below.
 
