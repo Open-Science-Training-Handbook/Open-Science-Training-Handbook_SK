@@ -4,9 +4,9 @@
 
 ### Čo je to?
 
-Reprodukovateľnosť znamená, že výskumné dáta a kód sú sprístupnené, aby ostatní mohli dosiahnuť rovnaké výsledky tak, ako sa uvádzajú vo vedeckých výstupoch. S reprodukvateľnosťou úzko súvisí pojem replikovateľnosti, čo znamená opätovné použitie vedeckých metód na dosiahnutie podobných záverov. Tieto pojmy sú základnými prvkami empirického výskumu.
+Reprodukovateľnosť znamená, že výskumné dáta a kód sú sprístupnené, aby ostatní mohli dosiahnuť rovnaké výsledky tak, ako sa uvádzajú vo vedeckých výstupoch. S reprodukovateľnosťou úzko súvisí pojem replikovateľnosti, čo znamená opätovné použitie vedeckých metód na dosiahnutie podobných záverov. Tieto pojmy sú základnými prvkami empirického výskumu.
 
-Zlepšenie reprodukovateľnosti vedie k vyššej dôslednosti a presnosti (rigour) a kvalite vedeckých výstupov, a tak k väčšej dôvere k vede. V súčasnosti rastie potreba a ochota ukázať vedecko-výskumné pracovné postupy od začatia projektu a beru dát až po interpretáciu a informovanie o výsledkoch. Tento vývoj prináša svoje vlastné výzvy, vrátane nadizajnovania integrovaných vedecko-výskumných pracovných postupov, ktoré si môžu osvojiť spolupracovníci pri zachovaní vyského štandardu integrity.
+Zlepšenie reprodukovateľnosti vedie k vyššej dôslednosti a presnosti (rigour) a kvalite vedeckých výstupov a tak k väčšej dôvere k vede. V súčasnosti rastie potreba a ochota odhaliť vedecko-výskumné pracovné postupy od začatia projektu a zberu dát až po interpretáciu a informovanie o výsledkoch. Tento vývoj prináša svoje vlastné výzvy, vrátane nadizajnovania integrovaných vedecko-výskumných pracovných postupov, ktoré si môžu osvojiť spolupracovníci pri zachovaní vysokého štandardu integrity.
 
 Pojem reprodukovateľnosti sa priamo aplikuje na vedeckú metódu, základný kameň vedy, a obzvlášť na týchto päť krokov:
 
@@ -20,25 +20,25 @@ Pojem reprodukovateľnosti sa priamo aplikuje na vedeckú metódu, základný ka
 
 5. informovanie o výskume       Reporting the study
 
-O každom z týchto krokov by malo jasne informovať tým, že sa vypracuje a poskytne jasná a otvorená dokumentácia a výskum tak bude transparentný a reprodukovateľný.
+O každom kroku bude informovať jasná a otvorená dokumentácia, čím sa zabezpečí transparentnosť a reprodukovateľnosť výskumu.
 
 ![](/Images/02%20Open%20Science%20Basics/02_reproducible_research_data_analysis.png)
 
 ### Odôvodnenie
 
-K príčinám nereprodukovateľnosti môžu ďalej prispievať spoločné ? všeobecné ? preklenujúce ? zastrešujúce faktory, ktoré ale tiež môžu viesť   Overarching factors can further contribute to the causes of non-reproducibility, but can also drive the implementation of specific measures to address these causes. The culture and environment in which research takes place is an important ‘top-down’ overarching factor. From a ‘bottom-up’ perspective, continuing education and training for researchers can raise awareness and disseminate good practice.
+K príčinám nereprodukovateľnosti môžu ďalej prispievať spoločné ? všeobecné ? preklenujúce ? zastrešujúce faktory, ktoré ale tiež môžu viesť k implementácii špecifických opatrení zameraných na riešenie týchto príčin. Kultúra a prostredie, v ktorom výskum prebieha, predstavujú dôležitý všeobecný faktor pôsobiaci "zhora-dole" (‘top-down’ overarching factor). Z perspektívy pôsobenia zdola nahor (‘bottom-up’ perspective) je to kontinuálne vzdelávanie a školenie vedcov, ktoré dokážu zvýšiť povedomie a šíriť postupy správnej praxe.    Overarching factors can further contribute to the causes of non-reproducibility, but can also drive the implementation of specific measures to address these causes. The culture and environment in which research takes place is an important ‘top-down’ overarching factor. From a ‘bottom-up’ perspective, continuing education and training for researchers can raise awareness and disseminate good practice.
 
-While understanding the full range of factors that contribute to reproducibility is important, it can also be hard to break down these factors into steps that can immediately be adopted into an existing research program and immediately improve its reproducibility. One of the first steps to take is to assess the current state of affairs, and to track improvement as steps are taken to increase reproducibility even more. Some of the common issues with research reproducibility are shown in the figure below.
+Hoci je dôležité porozumieť celému radu faktorov, ktoré prispievajú k reprodukovateľnosti, môže byť dosť náročné rozdeliť ich na kroky, ktoré sa dajú okamžite prevziať do existujúceho výskumného programu a okamžite tak zlepšiť jeho reprodukovateľnosť. Jeden z prvých krokov, ktorý treba urobiť, je posúdiť aktuálny stav a sledovať zlepšenie v rámci procesu prijímania krokov na ešte väčšie zvýšenie reprodukovateľnosti. Niektoré problémy súvisiace s reprodukovateľnosťou výskumu sú ukázané na obrázku nižšie.         
 
 ![](/Images/image_2.png)
 
-Source: Symposium report, October 2015. Reproducibility and reliability of biomedical research: improving research practice [PDF](https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf).
+Zdroj: Symposium report, October 2015. Reproducibility and reliability of biomedical research: improving research practice [PDF](https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf).
 
-[Goodman, Fanelli, & Ioannidis \(2016\)](https://doi.org/10/gc5sjs) note that in epidemiology, computational biology, economics, and clinical trials, reproducibility is often defined as:
+[Goodman, Fanelli, & Ioannidis \(2016\)](https://doi.org/10/gc5sjs) uvádzajú, že v epidemiológii, výpočtovej biológii, ekonómii a klinických štúdiách sa reprodukovateľnosť často definuje ako:
 
-_"the ability of a researcher to duplicate the results of a prior study using the same materials as were used by the original investigator. That is, a second researcher might use the same raw data to build the same analysis files and implement the same statistical analysis in an attempt to yield the same results."_
+_"schopnosť výskumníka duplikovať výsledky predchádzajúceho výskumu za použitia rovnakých materiálov, ako použil pôvodný riešiteľ výskumu. To znamená, že druhý výskumník môže použiť rovnaké nespracované údaje (raw data) na vytvorenie rovnakých analytických súborov a použiť rovnaké štatistické analýzy v snahe dosiahnuť rovnaké výsledky.  the ability of a researcher to duplicate the results of a prior study using the same materials as were used by the original investigator. That is, a second researcher might use the same raw data to build the same analysis files and implement the same statistical analysis in an attempt to yield the same results."_
 
-This is distinct from replicability: _"which refers to the ability of a researcher to duplicate the results of a prior study if the same procedures are followed but new data are collected."_ A simpler way of thinking about this might be that reproducibility is methods-oriented, whereas replicability is results-oriented.
+Toto sa odlišuje od replikovateľnosti: _"ktorá sa vzťahuje na schopnosť výskumníka duplikovať výsledky predchádzajúceho výskumu, ak sa použijú tie isté postupy ale vytvoria nové dáta."_ Jednoduchší spôsob uvažovania o tom, môže byť, že reprodukovateľnosť sa zameriava na metódy, kým replikovateľnosť na výsledky  A simpler way of thinking about this might be that reproducibility is methods-oriented, whereas replicability is results-oriented This is distinct from replicability: _"which refers to the ability of a researcher to duplicate the results of a prior study if the same procedures are followed but new data are collected."_ A simpler way of thinking about this might be that reproducibility is methods-oriented, whereas replicability is results-oriented.
 
 Reproducibility can be assessed at several different levels: at the level of an individual project \(e.g., a paper, an experiment, a method or a dataset\), an individual researcher, a lab or research group, an institution, or even a research field. Slightly different kinds of criteria and points of assessment might apply to these different levels. For example, an institution upholds reproducibility practices if it institutes policies that reward researchers who conduct reproducible research. On the other hand, a research field might be considered to have a higher level of reproducibility if it develops community-maintained resources that promote and enable reproducible research practices, such as data repositories, or common data-sharing standards.
 
