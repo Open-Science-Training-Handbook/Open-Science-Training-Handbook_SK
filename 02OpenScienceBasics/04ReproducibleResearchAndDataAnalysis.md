@@ -6,7 +6,7 @@
 
 Reprodukovateľnosť znamená, že výskumné dáta a kód sú sprístupnené, aby ostatní mohli dosiahnuť rovnaké výsledky tak, ako sa uvádzajú vo vedeckých výstupoch. S reprodukovateľnosťou úzko súvisí pojem replikovateľnosti, čo znamená opätovné použitie vedeckých metód na dosiahnutie podobných záverov. Tieto pojmy sú základnými prvkami empirického výskumu.
 
-Zlepšenie reprodukovateľnosti vedie k vyššej dôslednosti a presnosti (rigour) a kvalite vedeckých výstupov a tak k väčšej dôvere k vede. V súčasnosti rastie potreba a ochota odhaliť vedecko-výskumné pracovné postupy od začatia projektu a zberu dát až po interpretáciu a informovanie o výsledkoch. Tento vývoj prináša svoje vlastné výzvy, vrátane nadizajnovania integrovaných vedecko-výskumných pracovných postupov, ktoré si môžu osvojiť spolupracovníci pri zachovaní vysokého štandardu integrity.
+Zlepšenie reprodukovateľnosti vedie k vyššej dôslednosti a presnosti (rigour) a kvalite vedeckých výstupov, a tak k väčšej dôvere k vede. V súčasnosti rastie potreba a ochota odhaliť vedecko-výskumné pracovné postupy od začatia projektu a zberu dát až po interpretáciu a informovanie o výsledkoch. Tento vývoj prináša svoje vlastné výzvy, vrátane nadizajnovania integrovaných vedecko-výskumných pracovných postupov, ktoré si môžu osvojiť spolupracovníci pri zachovaní vysokého štandardu integrity.
 
 Pojem reprodukovateľnosti sa priamo aplikuje na vedeckú metódu, základný kameň vedy, a obzvlášť na týchto päť krokov:
 
@@ -26,9 +26,9 @@ O každom kroku bude informovať jasná a otvorená dokumentácia, čím sa zabe
 
 ### Odôvodnenie
 
-K príčinám nereprodukovateľnosti môžu ďalej prispievať spoločné ? všeobecné ? preklenujúce ? zastrešujúce faktory, ktoré ale tiež môžu viesť k implementácii špecifických opatrení zameraných na riešenie týchto príčin. Kultúra a prostredie, v ktorom výskum prebieha, predstavujú dôležitý všeobecný faktor pôsobiaci "zhora-dole" (‘top-down’ overarching factor). Z perspektívy pôsobenia zdola nahor (‘bottom-up’ perspective) je to kontinuálne vzdelávanie a školenie vedcov, ktoré dokážu zvýšiť povedomie a šíriť postupy správnej praxe.    Overarching factors can further contribute to the causes of non-reproducibility, but can also drive the implementation of specific measures to address these causes. The culture and environment in which research takes place is an important ‘top-down’ overarching factor. From a ‘bottom-up’ perspective, continuing education and training for researchers can raise awareness and disseminate good practice.
+K príčinám nereprodukovateľnosti môžu tiež prispievať spoločné ? všeobecné ? zastrešujúce faktory, ktoré ale tiež môžu viesť k implementácii špecifických opatrení zameraných na riešenie týchto príčin. Kultúra a prostredie, v ktorom výskum prebieha, predstavujú dôležitý všeobecný faktor pôsobiaci "zhora nadol" (‘top-down’ overarching factor). Medzi faktory pôsobiace "zdola nahor" (‘bottom-up’ perspective) patrí kontinuálne vzdelávanie a školenie vedcov, ktoré dokážu zvýšiť povedomie a šíriť postupy správnej praxe.    Overarching factors can further contribute to the causes of non-reproducibility, but can also drive the implementation of specific measures to address these causes. The culture and environment in which research takes place is an important ‘top-down’ overarching factor. From a ‘bottom-up’ perspective, continuing education and training for researchers can raise awareness and disseminate good practice.
 
-Hoci je dôležité porozumieť celému radu faktorov, ktoré prispievajú k reprodukovateľnosti, môže byť dosť náročné rozdeliť ich na kroky, ktoré sa dajú okamžite prevziať do existujúceho výskumného programu a okamžite tak zlepšiť jeho reprodukovateľnosť. Jeden z prvých krokov, ktorý treba urobiť, je posúdiť aktuálny stav a sledovať zlepšenie v rámci procesu prijímania krokov na ešte väčšie zvýšenie reprodukovateľnosti. Niektoré problémy súvisiace s reprodukovateľnosťou výskumu sú ukázané na obrázku nižšie.         
+Hoci je dôležité porozumieť celému radu faktorov, ktoré prispievajú k reprodukovateľnosti, môže byť dosť náročné rozdeliť ich na kroky, ktoré sa dajú okamžite prevziať do existujúceho výskumného programu a okamžite tak zlepšiť jeho reprodukovateľnosť. Jeden z prvých krokov, ktorý treba urobiť, je posúdenie aktuálneho stavu a sledovanie zlepšenia v rámci procesu prijímania krokov, aby sa tak zvýšila reprodukovateľnosť. Niektoré problémy súvisiace s reprodukovateľnosťou výskumu sú ukázané na obrázku nižšie.         
 
 ![](/Images/image_2.png)
 
@@ -36,61 +36,61 @@ Zdroj: Symposium report, October 2015. Reproducibility and reliability of biomed
 
 [Goodman, Fanelli, & Ioannidis \(2016\)](https://doi.org/10/gc5sjs) uvádzajú, že v epidemiológii, výpočtovej biológii, ekonómii a klinických štúdiách sa reprodukovateľnosť často definuje ako:
 
-_"schopnosť výskumníka duplikovať výsledky predchádzajúceho výskumu za použitia rovnakých materiálov, ako použil pôvodný riešiteľ výskumu. To znamená, že druhý výskumník môže použiť rovnaké nespracované údaje (raw data) na vytvorenie rovnakých analytických súborov a použiť rovnaké štatistické analýzy v snahe dosiahnuť rovnaké výsledky.  the ability of a researcher to duplicate the results of a prior study using the same materials as were used by the original investigator. That is, a second researcher might use the same raw data to build the same analysis files and implement the same statistical analysis in an attempt to yield the same results."_
+_"schopnosť výskumníka duplikovať výsledky predchádzajúceho výskumu za použitia rovnakých materiálov, ako použil pôvodný riešiteľ výskumu. Znamená to, že druhý výskumník môže použiť rovnaké nespracované údaje (raw data) na vytvorenie rovnakých analytických súborov a použiť rovnaké štatistické analýzy v snahe dosiahnuť rovnaké výsledky.  the ability of a researcher to duplicate the results of a prior study using the same materials as were used by the original investigator. That is, a second researcher might use the same raw data to build the same analysis files and implement the same statistical analysis in an attempt to yield the same results."_
 
-Toto sa odlišuje od replikovateľnosti: _"ktorá sa vzťahuje na schopnosť výskumníka duplikovať výsledky predchádzajúceho výskumu, ak sa použijú tie isté postupy ale vytvoria nové dáta."_ Jednoduchší spôsob uvažovania o tom, môže byť, že reprodukovateľnosť sa zameriava na metódy, kým replikovateľnosť na výsledky  A simpler way of thinking about this might be that reproducibility is methods-oriented, whereas replicability is results-oriented This is distinct from replicability: _"which refers to the ability of a researcher to duplicate the results of a prior study if the same procedures are followed but new data are collected."_ A simpler way of thinking about this might be that reproducibility is methods-oriented, whereas replicability is results-oriented.
+Toto sa odlišuje od replikovateľnosti: _"ktorá sa vzťahuje na schopnosť výskumníka duplikovať výsledky predchádzajúceho výskumu, ak sa použijú tie isté postupy ale získajú nové dáta."_ Jednoduchší spôsob uvažovania o tom môže byť, že reprodukovateľnosť sa zameriava na metódy, kým replikovateľnosť na výsledky.         simpler way of thinking about this might be that reproducibility is methods-oriented, whereas replicability is results-oriented This is distinct from replicability: _"which refers to the ability of a researcher to duplicate the results of a prior study if the same procedures are followed but new data are collected."_ A simpler way of thinking about this might be that reproducibility is methods-oriented, whereas replicability is results-oriented.
 
-Reproducibility can be assessed at several different levels: at the level of an individual project \(e.g., a paper, an experiment, a method or a dataset\), an individual researcher, a lab or research group, an institution, or even a research field. Slightly different kinds of criteria and points of assessment might apply to these different levels. For example, an institution upholds reproducibility practices if it institutes policies that reward researchers who conduct reproducible research. On the other hand, a research field might be considered to have a higher level of reproducibility if it develops community-maintained resources that promote and enable reproducible research practices, such as data repositories, or common data-sharing standards.
+Reprodukovateľnosť sa môže posudzovať na niekoľkých rôznych úrovniach: na úrovni jednotlivého projektu \(napr. článok, experiment, metóda alebo dátový súbor\), na úrovni jednotlivého výskumníka, laboratória alebo výskumnej skupiny či dokonca výskumnej oblasti. Na rôzne úrovne sa môžu aplikovať mierne odlišné druhy kritérií a body posúdenia. Inštitúcia môže napríklad podporovať postupy reprodukovateľnosti, ak zavedie politky, ktoré odmeňujú vedcov realizujúcich reprodukovateľný výskum. Na druhej strane sa môže výskumná oblasť považovaťza oblasť s vyššou úrovňou reprodukovateľnost, ak jej komunita vytvorí a udržiava zdroje, ktoré podporujú a umožňujú používať postupy reprodukovateľného výskumu, ako sú dátové repoziráre alebo spoločné štandardy zdieľania dát.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Ciele vzdelávania
 
-There are three major objectives that need to be addressed here:
+V tejto časti sa zameriaveme na tri hlavné ciele:
 
-1. Understand the important impact of creating reproducible research.
+1. Pochopiť dôležitosť dopadu tvorby reprodukovateľného výskumu.  Understand the important impact of creating reproducible research.
 
-2. Understand the overall setup of reproducible research \(including workflow design, data management and dynamic reporting\).
+2. Pochopiť celkový systém reprodukovateľného výskumu \(vrátane nadizajnovania pracovných postupov, manažmentu dát a dynamického informovania\).  Understand the overall setup of reproducible research \(including workflow design, data management and dynamic reporting\).
 
-3. Be aware of the individual steps in the reproducibility process, as well as the corresponding resources that can be employed.
+3. Poznať jednotlivé kroky v procese reprodukovateľnosti, ako aj príslušné zdorje, ktoré sa môžu použiť.    Be aware of the individual steps in the reproducibility process, as well as the corresponding resources that can be employed.
 
-### Key components
+### Kľúčové prvky 
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
-#### Knowledge
+#### Poznatky
 
-The following is an indicative list of take-away points on reproducibility:
+Indikatívny zoznam bodov k reprodukovateľnosti, ktoré by ste si mali pamatať:  The following is an indicative list of take-away points on reproducibility:
 
-* What is the ‘reproducibility crisis’, and meta-analyses of reproducibility.
+* Čo je kríza ‘reprodukovateľnosti’ a čo sú meta-analýzy reprodukovateľnosti.   What What is the ‘reproducibility crisis’, and meta-analyses of reproducibility.
 
-* Principles of reproducibility, and integrity and ethics in research.
+* Princípy reprodukovateľnoti a integrita a etika vo výskume.   Principles of reproducibility, and integrity and ethics in research.
 
-* What are the computing options and environments that allow collaborative and reproducible set up.
+* Aké sú výpočtové možnosti a prostredia, ktoré umožňujú kolaboratívny a reprodukovateľný systém.  What are the computing options and environments that allow collaborative and reproducible set up.
 
-* Factors that affect reproducibility of research.
+* Faktory, ktoré ovplyvňujú reprodukovateľnosť výskumu. Factors that affect reproducibility of research.
 
-* Data analysis documentation and open research workflows.
+* Dokumnetácia analýzy dát a otvorené vedecko-výskumné pracovné postupy.  Data analysis documentation and open research workflows.
 
-* Reproducible analysis environments \(virtualization\).
+* Prostredia reprodukovateľnej analýzy \(virtualizácia\). Reproducible analysis environments \(virtualization\).
 
-* Addressing the "Researcher Degrees of Freedom" \([Wicherts et al., 2016](https://doi.org/10/gc5sjn)\).
+* Riešenie "Stupňov slobody vedca ("Researcher Degrees of Freedom") \([Wicherts et al., 2016](https://doi.org/10/gc5sjn)\).
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Skills
+#### Zručnosti
 
-There are several practical tips for reproducibility that one should have in mind when setting out the particular skills necessary to ensure this. Best practices in reproducibility borrow from Open Science practices more generally but their integration offers benefits to the individual researcher themselves, whether they choose to share their research or not. The reason that integrating reproducibility best practices benefits the individual researcher is that they improve the planning, organization, and documentation of research. Below we outline one example of implementing reproducibility into a research workflow with references to these practices in the handbook.
+Pri aplikácii konkrétnych zručností potrebných na zbezepečenie reprodukovateľnosti treba mať na pamati niekoľko praktických tipov, ktoré môžu pomôcť. Najlepšie postupy reprodukovateľnosti vo všeobecnosti čerpajú z postupov otvorenej vedy, ale ich integrácia je pre jednotlivých vedcov prínosom sama o sebe, bez ohľadu na to, či sa rozhodnú ich začleniť alebo nezačleniť do svojho výskumu. Dôvodom toho, že z integrácie najlepších postupov reprodukovateľnosti majú osoh jednotliví vedci, je to, že vedci dokážu zlepšiť plánovanie, organizáciu a dokumentovanie výskumu. Nižšie v texte uvádzame príklad implementácie reprodukovateľnosti do pracovných postupov výskumu s odkazom na tieto postupy v rámci príručky.
 
 ## <img src="/Images/Icons/task.png" width="150" height="150" />
-##### **1. Plan for reproducibility before you start**
+##### **1. Naplánujte si reprodukovateľnosť predtým, ako začnete Plan for reproducibility before you start**
 
-###### Create a study plan or protocol.
+###### Vytvorte plán alebo protokol výskumu. Create a study plan or protocol.  Pripadá mi ako keby hovorili o príprave farmaceutickej štúdie
 
-Begin documentation at study inception by writing a study plan or protocol that includes your proposed study design and methods. Use a reporting guideline from the [Equator Network](http://www.equator-network.org/) if applicable. Track changes to your study plan or protocol using version control \(reference to Version Control\). Calculate the power or sample size needed and report this calculation in your protocol as underpowered studies are prone to irreproducibility.
+Začnite s dokumentovaním na počiatku výskumu tým, že napíšte plán alebo protokol výskumu, ktorý bude obsahovať vami navrhovaný dizajn a metódy výskumu. Použite odporúčania na informovanie o výskume iniciatívy [Equator Network](http://www.equator-network.org/), ak je to možné. Zaznamenávajte zmeny svojho plánu alebo protokolu výskumu použitím kontroly verzií \(odkaz na Kontrolu verzií\). Vypočítajte potrebnú silu alebo veľkosť vzorky a informujte o tomto výpočte vo svojom protokole, keďže podhodnotený výskum sa stáva nereprodukovateľným ? sa ťažšie reprodukuje.    Calculate the power or sample size needed and report this calculation in your protocol as underpowered studies are prone to irreproducibility.
 
-###### Choose reproducible tools and materials
+###### Vyberte reprodukovateľné nástroje a materiály  Choose reproducible tools and materials
 
-Select antibodies that work using an antibody search engine like [CiteAb](https://www.citeab.com/). Avoid irreproducibility through misidentified cell lines by choosing ones that are authenticated by the [International Cell Line Authentication Committee](http://iclac.org/). Whenever possible, choose software and hardware tools where you retain ownership of your research and can migrate your research out of the platform for reuse \(see Open Research Software and Open Source\).
+Vyberte protilátky, ktoré fungujú, pomocou vyhľadávača protilátok ako [CiteAb](https://www.citeab.com/). Vyhnite sa nereprodukovateľnosti spôsobenej nepsrávne identifikovanými bunkovými líniami tým, že vyberiete tie, ktoré overila nezávislá skupina zaoberajúca sa overovaním bunkových línií [International Cell Line Authentication Committee](http://iclac.org/). Vždy, keď je to možné, vyberte taký softvér a hardvér, ktorý vám umožní ponechať si vlastnícke práva k výskumu a migrovať či preniesť váš výskum mimo platformy na opakované použitie \(pozri Otvorený výskumný softvér a otvorený zdrojový kód\).
 
-###### Set-up a reproducible project
+###### Vytvorte reprodukovateľnyý projekt  Set-up a reproducible project
 
 Centralize and organize your project management using an online platform, a central repository, or folder for all research files. You could use GitHub as a place to store project files together or manage everything using a electronic lab notebook such as [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/),or [SciNote](https://scinote.net/). Within your centralized project, follow best practices by separating your data from your code into different folders. Make your raw data read-only and keep separate from processed data \(reference to Data Management\).
 
