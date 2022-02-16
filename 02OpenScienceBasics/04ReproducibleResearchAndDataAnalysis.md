@@ -80,63 +80,63 @@ Indikatívny zoznam bodov k reprodukovateľnosti, ktoré by ste si mali pamatať
 Pri aplikácii konkrétnych zručností potrebných na zbezepečenie reprodukovateľnosti treba mať na pamati niekoľko praktických tipov, ktoré môžu pomôcť. Najlepšie postupy reprodukovateľnosti vo všeobecnosti čerpajú z postupov otvorenej vedy, ale ich integrácia je pre jednotlivých vedcov prínosom sama o sebe, bez ohľadu na to, či sa rozhodnú ich začleniť alebo nezačleniť do svojho výskumu. Dôvodom toho, že z integrácie najlepších postupov reprodukovateľnosti majú osoh jednotliví vedci, je to, že vedci dokážu zlepšiť plánovanie, organizáciu a dokumentovanie výskumu. Nižšie v texte uvádzame príklad implementácie reprodukovateľnosti do pracovných postupov výskumu s odkazom na tieto postupy v rámci príručky.
 
 ## <img src="/Images/Icons/task.png" width="150" height="150" />
-##### **1. Naplánujte si reprodukovateľnosť predtým, ako začnete Plan for reproducibility before you start**
+##### **1. Naplánujte si reprodukovateľnosť predtým, ako začnete    Plan for reproducibility before you start**
 
 ###### Vytvorte plán alebo protokol výskumu. Create a study plan or protocol.  Pripadá mi ako keby hovorili o príprave farmaceutickej štúdie
 
 Začnite s dokumentovaním na počiatku výskumu tým, že napíšte plán alebo protokol výskumu, ktorý bude obsahovať vami navrhovaný dizajn a metódy výskumu. Použite odporúčania na informovanie o výskume iniciatívy [Equator Network](http://www.equator-network.org/), ak je to možné. Zaznamenávajte zmeny svojho plánu alebo protokolu výskumu použitím kontroly verzií \(odkaz na Kontrolu verzií\). Vypočítajte potrebnú silu alebo veľkosť vzorky a informujte o tomto výpočte vo svojom protokole, keďže podhodnotený výskum sa stáva nereprodukovateľným ? sa ťažšie reprodukuje.    Calculate the power or sample size needed and report this calculation in your protocol as underpowered studies are prone to irreproducibility.
 
-###### Vyberte reprodukovateľné nástroje a materiály  Choose reproducible tools and materials
+###### Zvoľte si reprodukovateľné nástroje a materiály  Choose reproducible tools and materials
 
-Vyberte protilátky, ktoré fungujú, pomocou vyhľadávača protilátok ako [CiteAb](https://www.citeab.com/). Vyhnite sa nereprodukovateľnosti spôsobenej nepsrávne identifikovanými bunkovými líniami tým, že vyberiete tie, ktoré overila nezávislá skupina zaoberajúca sa overovaním bunkových línií [International Cell Line Authentication Committee](http://iclac.org/). Vždy, keď je to možné, vyberte taký softvér a hardvér, ktorý vám umožní ponechať si vlastnícke práva k výskumu a migrovať či preniesť váš výskum mimo platformy na opakované použitie \(pozri Otvorený výskumný softvér a otvorený zdrojový kód\).
+Vyberte protilátky, ktoré fungujú, pomocou vyhľadávača protilátok ako [CiteAb](https://www.citeab.com/). Vyhnite sa nereprodukovateľnosti spôsobenej nepsrávne identifikovanými bunkovými líniami tým, že vyberiete tie, ktoré overila nezávislá skupina zaoberajúca sa overovaním bunkových línií [International Cell Line Authentication Committee](http://iclac.org/). Vždy, keď je to možné, vyberte taký softvér a hardvér, ktorý vám umožní ponechať si vlastnícke práva k výskumu a migrovať či preniesť váš výskum mimo platformy na opätovné použitie \(pozri Otvorený výskumný softvér a otvorený zdrojový kód\).
 
-###### Vytvorte reprodukovateľnyý projekt  Set-up a reproducible project
+###### Vytvorte reprodukovateľný projekt  Set-up a reproducible project
 
-Centralize and organize your project management using an online platform, a central repository, or folder for all research files. You could use GitHub as a place to store project files together or manage everything using a electronic lab notebook such as [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/),or [SciNote](https://scinote.net/). Within your centralized project, follow best practices by separating your data from your code into different folders. Make your raw data read-only and keep separate from processed data \(reference to Data Management\).
+Centralizujte a manažujte svoj projekt pomocou online platformy, centrálneho repozitára alebo priečinku na všetky výskumné súbory. Môžete použiť GitHub, ako miesto na uloženie projektových súborov spolu alebo všetko manažovať pomocou elektronických laboratórnych záznamov, ako sú [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/) alebo [SciNote](https://scinote.net/). V rámci centralizovaného projektu dodržiavajte odporúčané postupy a to tak, že oddelíte dáta od kódu do rozdielnych priečinkov \(odkaz na Manažment dát\).
 
-When saving and backing up your research files, choose formats and informative file names that allow for reuse. File names should be both machine and human readable \(reference to Data Management\). In your analysis and software code, use relative paths. Avoid proprietary file formats and use open file formats \(see 6 Open Licensing and File Formats\).
+Keď ukladáte a zálohujete svoje výskumné súbory, vyberajte také formáty a informatívne názvy súborov, ktoré umožňujú opätovné použitie. Názvy súborov majú byť čitateľné strojovo a aj pre človeka \(odkaz na Manažment dát\). Vo svojej analýze a softvérovom kóde používajte relatívne cesty. Vyhnite sa proprietárnym formátom súborov a používajte otvorené formáty súborov \(pozri časť 6 Otvorené licencie a formáty súborov\).
 
 ## <img src="/Images/Icons/handson.png" width="150" height="150" />
-##### **2. Keep track of things**
+##### **2. Vytvárajte a uchovávajte záznamy o všetkom, čo robíte Keep track of things**
 
-###### Registration
+###### Registrácia
 
-Preregister important study design and analysis information to increase transparency and counter publication bias of negative results. Free tools to help you make your first registration include [AsPredicted](https://aspredicted.org/), [Open Science Framework](https://osf.io/), and [Registered Reports](https://cos.io/rr/). Clinical trials should use [Clinicaltrials.gov](https://clinicaltrials.gov/).
+Je dôležité predregistrovať dizajn výskumu a informácie o analýze ? Predregistrujte dôležitý dizajn výskumu a informácie o analýze, aby ste zvýšili transparentnosť a zabránili skresleneému publikovaniu negatívnych výsledkov. Medzi voľne dostupné nástroje, ktoré môžete použiť na prvú registráciu, patria [AsPredicted](https://aspredicted.org/), [Open Science Framework](https://osf.io/) a [Registered Reports](https://cos.io/rr/). Klinické štúdie by mali používať [Clinicaltrials.gov](https://clinicaltrials.gov/).       Preregister important study design and analysis information to increase transparency and counter publication bias of negative results. Free tools to help you make your first registration include [AsPredicted](https://aspredicted.org/), [Open Science Framework](https://osf.io/), and [Registered Reports](https://cos.io/rr/). Clinical trials should use [Clinicaltrials.gov](https://clinicaltrials.gov/).
 
-###### Version control
+###### Kontrola verzií
 
-Track changes to your files, especially your analysis code, using version control \(see Open Research Software and Open Source\).
+Sledujte zmeny svojich súborov, obzvlášť svojho analytického kódu ? kódu na analýzu (analysis code) pomocou kontroly verzií \(pozri Otvorený výskumný softvér a otvorený zdrojový kód\).   Track changes to your files, especially your analysis code, using version control \(see Open Research Software and Open Source\).
 
-###### Documentation
+###### Dokumentácia
 
-Document everything done by hand in a README file. Create a data dictionary \(also known as a codebook\) to describe important information about your data. For an easy introduction, use: [Karl Broman’s Data Organization module](http://kbroman.org/dataorg/pages/dictionary.html) and refer to Data Management.
+Dokumentujte všetko, čo sa robí ručne v súbore README. Na opis dôležitých informácií o svojich dátach si vytvorte dátový slovník (známy aj ako číselník/codebook\). Na jednoduchý úvod pouužite Modul na organizáciu dát od Karla Bromana [Karl Broman’s Data Organization module](http://kbroman.org/dataorg/pages/dictionary.html) a odkážte na Manažment dát.          Document everything done by hand in a README file. Create a data dictionary \(also known as a codebook\) to describe important information about your data. For an easy introduction, use: [Karl Broman’s Data Organization module](http://kbroman.org/dataorg/pages/dictionary.html) and refer to Data Management.
 
-###### Literate programming
+###### Dokumentované programovanie (Literate programming)
 
-Consider using [Jupyter Notebooks](http://jupyter.org/), [KnitR](https://yihui.name/knitr/), [Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr), or other approaches to literate programming to integrate your code with your narrative and documentation.
+Zvážte používanie [Jupyter Notebooks](http://jupyter.org/), [KnitR](https://yihui.name/knitr/), [Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr) alebo iných prístupov k dokumentovanému programovaniu, aby ste integrovali svoj kód do slovneého opisu ? naratívu a dokumentácie.      to integrate your code with your narrative and documentation.
 
 ## <img src="/Images/Icons/open_licenses.png" width="150" height="150" />
-##### **3. Share and license your research**
+##### **3. Prideľte svojmu výskumu licenciu a zdieľajte ho Share and license your research**
 
-###### Data
+###### Dáta
 
-Avoid supplementary files, decide on an acceptable permissive license, and share your data using a repository. Follow best practices as outlined in the Open Research Data and Materials chapter.
+Vyhnite sa doplnkovým súborom, rozhodnite sa pre permisívne licencie a zdieľajte svoje dáta prostredníctovm repozitára. Dodržiavajte odporúčané postupy tak, ako sú uvedené v časti Otvorené výskumné dáta a materiály.
 
-###### Materials
+###### Materiály
 
 Share your materials so they can be reused. Deposit reagents with repositories like [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), and [ATCC](https://www.atcc.org/) to make them easily accessible to other researchers. For more information, see the Open Materials subsection of [Open Research Data and Materials](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md).
 
-###### Software, notebooks, and containers
+###### Softvér, laboratoŕone záznamy/knihy a kontajnery 
 
 License your code to inform about how it may be \(re\)used. Share notebooks with services such as [mybinder](http://mybinder.org) that allow for public viewing and execution of the entire notebook on shared resources. Share containers or notebooks with services such as [Rocker](https://arxiv.org/abs/1710.03675) or [Code Ocean](https://codeocean.com/). Follow best practices outlined in Open Research Software and Open Source.
 
 ## <img src="/Images/Icons/open_scholarship.png" width="150" height="150" />
-##### **4. Report your research transparently**
+##### **4. Transparentne informujte o svojom výskume**
 
 Report and publish your methods and interventions explicitly and transparently and fully to allow for replication. Guidelines from the [Equator Network](http://www.equator-network.org/), tools like [Protocols.io](https://www.protocols.io/), or processes like [Registered Reports](https://cos.io/rr/) can help you report reproducibly. Remember to post your results to your public registration platform \(such as [ClinicalTrials.gov](https://www.socialscienceregistry.org/) or the [SocialScienceRegistry](https://www.socialscienceregistry.org/)\) within a year of finishing your study no matter the nature or direction of your results.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Otázky, prekážky a bežné mylné predstavy 
 
 Q: "Everything is in the paper; anyone can reproduce this from there!"
 
@@ -151,7 +151,7 @@ Q: "Terminologies describing reproducibility are challenging."
 A: See Barba \(2018\) for a discussion on terminology describing reproducibility and replicability.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Výsledky vzdelávania
 
 1. Understand the necessity of reproducible research and its reasoning.
 
@@ -160,7 +160,7 @@ A: See Barba \(2018\) for a discussion on terminology describing reproducibility
 3. Know tools that can support reproducible research.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Ďalšie odporúčané čítanie
 
 * Button et al. (2013). Power failure: why small sample size undermines the reliability of neuroscience. [doi.org/10.1038/nrn3475](https://doi.org/10.1038/nrn3475)
 
