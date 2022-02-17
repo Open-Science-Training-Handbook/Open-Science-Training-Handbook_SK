@@ -1,15 +1,15 @@
 ## <img src="/Images/Icons/open_access.png" width="200" height="200" />
-## 5. Open Access to Published Research Results
+## 5. Otvorený prístup k publikovaným výsledkom výskumu
 
-### What is it?
+### Čo je to?
 
-Open Access to publications means that research publications like articles and books can be accessed online, free of charge by any user, with no technical obstacles \(such as mandatory registration or login to specific platforms\). At the very least, such publications can be read online, downloaded and printed. Ideally, additional rights such as the right to copy, distribute, search, link, crawl and mine should also be provided. Open Access can be realised through two main non-exclusive routes:
+Otvorený prístup k publikáciám znamená, že publikácie z výzkumu ako články alebo knihy sú dostupné online, bezplatne pre čitateľa, bez akýchkoľvek technických bariér \(ako napríklad povinná registrácia alebo prihlásenie do špecifickej platformy\). Prinajmenšom sa takéto publikácie dajú čítať online, stiahnuť a vytlačiť. V ideálnom prípade by tiež mali byť poskytnuté ďalšie práva ako právo dielo kopírovať, šíriť, vyhľadávať, odkazovať naň, prehľadávať ho (crawl) a ťažiť z neho dáta (mine). Otvorený prístup je možné zabezpečiť dvomi cestami, ktoré sa navzájom nevylučujú:    
 
-* Green Open Access \(self-archiving\): The published work or the final peer-reviewed manuscript that has been accepted for publication is made freely and openly accessible by the author, or a representative, in an online repository. Some publishers request that Open Access be granted only after an embargo period has elapsed. This embargo period can last anywhere between several months and several years. For publications that have been deposited in a repository but are under embargo, usually at least the metadata are openly accessible.
+* Zelený otvorený prístup \(samo-archivovanie/self-archiving\): autor alebo zástupca v online repozitári voľne a otvorene sprístupní publikovanú prácu alebo finálny rukopis po recenznom konaní, ktorý bol prijatý na publikovanie. Niektorí vydavatelia požadujú, aby bol otvorený prístup umožnený len po uplynutí období embarga. Obdobie embarga môže trvať od niekoľkých mesiacov po niekoľko rokov. Pri publiákciách, ktoré boli uložené v repozitári ale podliehajú embargu, sú zvyčajne voľne prístupné aspoň ich metadáta.     
 
-* Gold Open Access \(Open Access publishing\): The published work is made available in Open Access mode by the publisher immediately upon publication. The most common business model is based on one-off payments by authors \(commonly called APCs – article processing charges – or BPCs – book processing charges\). Where Open Access content is combined with content that requires a subscription or purchase, in particular in the context of journals, conference proceedings and edited volumes, this is called hybrid Open Access.
+* Zlatý otvorený prístup \(Publikovanie v režime otvoreného prístupu\): publikovaná práca je dostupná v režime otvoreného prístupu ihneď po publikovaní. Najčastejší obchodný model je založený na jednorazovom poplatku \(bežne nazývaný APC - article processing charges/poplatok za spracovanie článku alebo BPC - book processing charges/poplatok za spracovanie knihy\). Ak je obsah v otvorenom režime kombinovaný s obsahom, ktorý vyžaduje predplatné alebo nákup, obzvlášť v prípade časopisov, zborníkov z konferencií alebo editovaných zväzkov (edited volumes) ide o hybridný otvorený prístup.
 
-### Rationale
+### Odôvodnenie
 
 One of the most common ways to disseminate research results is by writing a manuscript and publishing it in a journal, conference proceedings or book. For many years those publications were available to the public under a payment by means of a subscription fee or individually. However, at the turn of the 21st century a new movement appeared with a clear objective: make all the research results available to the public without any restriction. This movement took the name of Open Access and established two initial strategies to achieve its final goal. The first strategy was to provide tools and assistance to scholars to deposit their refereed journal articles in open electronic repositories. The second one was to launch a new generation of journals using copyright and other tools to ensure permanent open access to all the articles they publish. As a result of the first strategy we see self-archiving practices: researchers depositing and disseminating papers in institutional or subject based repositories. And as a result of the second strategy we have seen the creation of the open access journals that provide free access to readers and allow reuse of their contents without almost any restriction.
 
@@ -22,7 +22,7 @@ The rise of many business models around open access journals poses a lot of misu
 Regarding self archiving, researchers are confused by the different requirements established by the publishers in relation with version of a paper that they can deposit in a repository and when this version can be available to the public. This delay in allowing public access to the full text is often called embargo period and it is not uniform for all the journals. Institutions who provide a repository for its researchers should facilitate self archiving practices by digesting all those publisher requirements.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Ciele vzdelávania
 
 1. Learn about the different options a researcher has when deciding where to publish a paper, including funder requirements.
 
@@ -36,10 +36,10 @@ Regarding self archiving, researchers are confused by the different requirements
 
 6. Trainees will learn about different business models used by open-access journals, and opportunities for obtaining funds to support publishing if needed.
 
-### Key components
+### Kľúčové prvky
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
-#### Knowledge
+#### Poznatky
 
 **Repositories and self-archiving**
 
@@ -53,7 +53,7 @@ In relation to the moment to make the paper publicly available, many journals es
 
 ![](/Images/02%20Open%20Science%20Basics/02_open_access_archives.png)
 
-**Open Access publishing**
+**Publikovanie v režime otvoreného prístupu**
 
 The number of Open Access Journals has increased during the last years becoming a real option for researchers when deciding where to publish their findings. According to the Directory of Open Access Journals \([DOAJ](http://www.doaj.org)\), currently there are more than 11,000 journals. Nevertheless is important to remark that an open access journal must provide free access to its contents but it also must license them to allow reusability. No legal notice must be legally understood as "all rights reserved". Although the definition of an open access journal does not include any condition about the business model, there is a fact that those journals are commonly known as journal where you have to pay to publish. This misconception is due to the fact that the most successful journals and the ones that got the highest impact follow this model. Nevertheless, a recent study shows that the majority of journals registered in DOAJ do not charge any fee for publication \(Data available [here](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/)\).
 
@@ -64,7 +64,7 @@ Some funders, have decided to establish their own publishing platforms to provid
 Some disciplines prefer to use other formats than journals to publish results, for instance books. Initially, publishers were very reluctant to allow researchers to self archive a full book or even a book chapter. However, [some publishers](https://docs.google.com/spreadsheets/d/1-Lq_zzaGqge8SdY1DX-YXTN43JLn75jf2OhidJqXM60/edit#gid=142126524) have begun to adopt policies to facilitate it. On the other hand, some university presses have shifted their publication model to open access to increase the visibility of their contents, especially monographs. This change can be explained as an answer to the cuts in some of the expenditures in monographs due to the restrictions in library budgets. A common model for this open access university presses is to provide a free version in PDF and sell paper or epub versions \(see for instance UCL\). Moreover the creation of the [Directory of Open Access Books](https://doabooks.org/) have increased their discoverability. In a similar way than other journal initiatives, there have appeared some projects to join forces to establish a common fund to build open access monographs, for instance [Knowledge Unlatched](http://www.knowledgeunlatched.org/).
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Skills
+#### Zručnosti
 
 * Choose a suitable repository or server to post a preprint according to your discipline
 
@@ -75,7 +75,7 @@ Some disciplines prefer to use other formats than journals to publish results, f
 * Find available funds or discounts to publish in open-access journals if needed
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Otázky, prekážky a bežné mylné predstavy
 
 Q: "If I publish my work as a preprint, it won’t be acknowledged - I will only receive credit for a peer-reviewed journal article."
 
@@ -92,7 +92,7 @@ The hybrid model is very controversial and it could raise a lot of questions abo
 You may discuss the future of the scholarly communication by presenting some of the offsetting models or transition projects like [OA2020 global alliance](https://oa2020.org/) proposed by the Max Planck Society.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Výsledky vzdelávania
 
 1. Trainees will be able to choose where to publish their research paper, describing the implications and consequences of this choice.
 
@@ -103,7 +103,7 @@ You may discuss the future of the scholarly communication by presenting some of 
 4. Trainees who manage repositories will be able to describe the tools and services that allow researchers to self-archive.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Ďalšie odporúčané čítanie
 
 * Björk (2017). Growth of hybrid open access, 2009–2016. _PeerJ_ 5:e3878 [doi.org/10.7717/peerj.3878](https://doi.org/10.7717/peerj.3878)
 
