@@ -4,7 +4,7 @@
 * [Úvod](01Introduction/README.md)
 * [Základy otvorenej vedy](02OpenScienceBasics/README.md)
 	* [Pojmy a princípy otvorenosti](02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
-	* [Otvorené výskumné dáta a materiály](02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+	* [Otvorené výskumné dáta a materiál](02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 	* [Otvorený výskumný softvér a otvorený zdrojový kód](02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md)
 	* [Reprodukovateľný výskum a analýza dát](02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)
 	* [Otvorený prístup k publikovaným výsledkom výskumu](02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
