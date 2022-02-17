@@ -1,5 +1,5 @@
 ## <img src="/Images/Icons/open_data.png" width="200" height="200" />
-## 2. Otvorené výskumné dáta a materiály
+## 2. Otvorené výskumné dáta a materiál
 
 ### Čo je to?
 
@@ -134,9 +134,9 @@ Ako je uvedené vyššie, konečným cieľom zdieľania výskumných dát je dos
 
 
 ## <img src="/Images/Icons/usb.png" width="150" height="150" />
-##### Otvorené materiály
+##### Otvorený materiál
 
-Okrem zdieľania dát závisí otvorenosť výskumu aj od zdieľanie materiálov. Použitie materiálov podmieňuje vedná disciplína a niekedy samotné laboratórium. Nižšie v texte sú uvedené príklady materiálov, ktoré môžete zdieľať, ale vždy sa poraďte s kolegami v svojej disciplíne, aby ste zistili, ktoré repozitár sa používajú. Keď máte materiál, dáta a publikácie z toho istého výskumného projektu uložené v rôznych repozitároch, prepojte ich krížovými odkazmi a jedinečným identifikátorom, aby sa dali ľahko nájsť.
+Okrem zdieľania dát závisí otvorenosť výskumu aj od zdieľanie materiálu. Použitie materiálu podmieňuje vedná disciplína a niekedy samotné laboratórium. Nižšie v texte sú uvedené príklady materiálu, ktorý môžete zdieľať, ale vždy sa poraďte s kolegami v svojej disciplíne, aby ste zistili, ktoré repozitár sa používajú. Keď máte materiál, dáta a publikácie z toho istého výskumného projektu uložené v rôznych repozitároch, prepojte ich krížovými odkazmi a jedinečným identifikátorom, aby sa dali ľahko nájsť.
 
 ###### Činidlá (Reagens)
 
@@ -148,7 +148,7 @@ Protokol opisuje formálny alebo oficiálny záznam vedeckých experimentálnych
 
 ###### Záznamy/dokumenty, kontajnery, softvér a hardvér 
 
-Reprodukovateľnú analýzu podporuje použitie dokumentovaného programovania (literate programming), kontajnerovej technológie a virtualizácie. Okrem zdieľania kódu a dát, by ste tiež mali zdieľať záznamy/dokumenty (napr. z denníky z webovej aplikácie Jupyter Notebook), otvorený softvér (napr. šablóny Docker Image) alebo iné analytické materiály či softvérové závislosti (software dependancies). Zdieľajte záznamy/dokumenty prostredníctvom otvorených služieb ako [mybinder](http://mybinder.org), ktoré umožňujú verejné prezeranie alebo spustenie celého dokumentu (notebook) na zdieľaných zdrojoch. Kontajnery a záznamy/dokumenty sa môžu zdieľať prostredníctvom projektu [Rocker](https://arxiv.org/abs/1710.03675) alebo platformy [Code Ocean](https://codeocean.com/). Softvér a hardvér, ktorý používate vo svojom výskume, by sa mal zdieľať v súlade s najlepšou praxou pre dokumentáciu, ako je to navrhnuté v [Časti 3](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md). Protokoly prístupné iba na čítanie by ste mali uložiť v odborovom registri, ako je [ClinicalTrials.gov](https://clinicaltrials.gov/) a [SocialScienceRegistry](https://www.socialscienceregistry.org/) alebo vo všeobecnom registri ako [Open Science](https://osf.io/)[ Framework](https://osf.io/). Mnoho časopisov, ako napríklad [Trials](https://trialsjournal.biomedcentral.com/), [JMIR Research Protocols](https://www.researchprotocols.org/) alebo [Bio-Protocol](https://bio-protocol.org/), uverejní váš protokol. Najlepšie postupy na publikovanie protokolu v otvorenom režime sú rovnaké ako postupy na publikovanie vašej správy v otvorenom režime \(pozri [Časť 5](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)\).
+Reprodukovateľnú analýzu podporuje použitie dokumentovaného programovania (literate programming), kontajnerovej technológie a virtualizácie. Okrem zdieľania kódu a dát, by ste tiež mali zdieľať záznamy/dokumenty (napr. z denníky z webovej aplikácie Jupyter Notebook), otvorený softvér (napr. šablóny Docker Image) alebo iné analytický materiál či softvérové závislosti (software dependancies). Zdieľajte záznamy/dokumenty prostredníctvom otvorených služieb ako [mybinder](http://mybinder.org), ktoré umožňujú verejné prezeranie alebo spustenie celého dokumentu (notebook) na zdieľaných zdrojoch. Kontajnery a záznamy/dokumenty sa môžu zdieľať prostredníctvom projektu [Rocker](https://arxiv.org/abs/1710.03675) alebo platformy [Code Ocean](https://codeocean.com/). Softvér a hardvér, ktorý používate vo svojom výskume, by sa mal zdieľať v súlade s najlepšou praxou pre dokumentáciu, ako je to navrhnuté v [Časti 3](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md). Protokoly prístupné iba na čítanie by ste mali uložiť v odborovom registri, ako je [ClinicalTrials.gov](https://clinicaltrials.gov/) a [SocialScienceRegistry](https://www.socialscienceregistry.org/) alebo vo všeobecnom registri ako [Open Science](https://osf.io/)[ Framework](https://osf.io/). Mnoho časopisov, ako napríklad [Trials](https://trialsjournal.biomedcentral.com/), [JMIR Research Protocols](https://www.researchprotocols.org/) alebo [Bio-Protocol](https://bio-protocol.org/), uverejní váš protokol. Najlepšie postupy na publikovanie protokolu v otvorenom režime sú rovnaké ako postupy na publikovanie vašej správy v otvorenom režime \(pozri [Časť 5](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)\).
 
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
