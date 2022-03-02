@@ -1,45 +1,45 @@
 ## <img src="/Images/Icons/open_licenses.png" width="200" height="200" />
-## 6. Open Licensing and File Formats
+## 6. Otvorené licencie a formáty súborov
 
-### What is it?
+### Čo je to?
 
-A license is a legal document that grants specific rights to user to reuse and redistribute a material under some conditions. Any right that is not granted by default by the licensor through the license can be asked. Licenses can be applied to any material \(e.g., sound, text, image, multimedia, software\) where some exploitation or usage rights exist.
+Licencia je právny dokument, ktorý poskytuje špecifické práva pužívateľovi na opätovné použitie a redistribúciu materiálu za určtiých podmienok. Užívateľ može požiadať o akékoľvek právo, ktoré poskytovateľ licencie neposkytuje prostredníctvom licencie. Licencie sa môžu použiť na akýkoľvek materiál \(napr., zvukový, texty, obrazový, multimediálny, softvér\), pri ktorých existujú nejaké práva na využívanie a používanie.  
 
-[Free con](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[tent license](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[s](https://en.wikipedia.org/wiki/List_of_free_content_licenses) are licenses that grant permission to access, re-use, and redistribute material with few or no restrictions. Those licenses range from very open to very restrictive. The more restrictions, the more difficult it becomes to combine differently licenses content—thus potentially preventing interoperability.
+[Free con](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[tent license](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[s](https://en.wikipedia.org/wiki/List_of_free_content_licenses) (Licencie voľného ? slobodného ? otvoreného obsahu) sú licencie, ktoré poskytujú povolenie na prístup, opätovné použitie a redistribúciu materiálu s niekoľkými alebo žiadnymi obmedzeniami. Tieto licencie sa pohybujú v rozmedzí od veľmi otvorených po veľmi obmedzujúce. Čím sú licencie obmedzujúcejšie, tým je ťažšie kombinovať obsah, ktorý má rôzne licencie, čo potenciálne bráni interoperabilite.                   [Free con](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[tent license](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[s](https://en.wikipedia.org/wiki/List_of_free_content_licenses) licenses that grant permission to access, re-use, and redistribute material with few or no restrictions. Those licenses range from very open to very restrictive. The more restrictions, the more difficult it becomes to combine differently licenses content—thus potentially preventing interoperability.
 
-A file format is a standard way that information is encoded for storage in a computer file; however, not all formats have freely available specification documents, partly because some developers view their specification documents as trade secrets.
+Formát súboru je štandardný spôsob, ktorým sa informácie kódujú na uloženie v počítačovom súbore, ale nie všetky formáty majú voľne dostupnú dokumentáciu so špecifikáciami, čiastočne preto, že niektorí vývojári považujú svoju dokumentáciu so špecifikáciami za obchodné tajomstvo.       
 
 ![](/Images/02%20Open%20Science%20Basics/02_open_licensing.png)
 
-### Rationale
+### Odôvodnenie
 
-Applying an open license to a scientific work \(whether it is an article, dataset or other type of research output\) is a way for the copyright holder to express the conditions under which the work can be accessed, re-used and modified.
+Aplikovanie otvorenej licencie na vedeckú prácu \(či už je to článok, dátový súbor alebo iný druh výstupu výskumu\) je spôsob, ktorým nositeľ autorských práv vyjadrí podmienky prístupu k práci, jej použitia  a upravovania.       
 
-It is important to know that a license builds on existing copyright regulations. In other words: you can only license content if you are the rights owner, and you cannot license any forms of reuse if they do not fall under existing copyright regulations.
+Je  dôležité vedieť, že licencia stavia na existujúcich predpisoch o autorských právach. Inými slovami môžete licencovať len obsah, k ste vlastníkom autorských práv a nemôžete poskytnúť licenciu na akúkoľvek formu opätovného použitia, pokiaľ nespadá pod existujúce predpisy od autorských práv.      
 
-When sharing any open content it is not enough to attach a license you must take into account the format. A choice of a non-open file format may make impossible to reuse the content. For that reason is important to know the options available when deciding in which format you want to share your content.
+Pri zdieľaní otvoreného obsahu nestačí iba pripojiť licenciu, musíte tiež zobrať do úvahy formát. Ak zvolíte neotvorený formát súboru, môže sa stať, že znemožníte opätovné použitie obsahu. Preto je dôležité poznať dostupné možnosti, keď sa rozhodujete, v akom formáte chcete zdieľať svoj obsah.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Ciele vzdelávania
 
-1. Participants should learn about differences among licenses and how they can suit some open-science definitions, open-science requirements, or how they fit into different research outcomes.
+1. Účastníci vzdelávania by mali spoznať rozdiely medzi licenciami, a ako môžu vyhovieť niektorým definíciám otvorenej vedy, požiadavkám otvorenej vedy alebo to ako sa hodia pre rôzne výstupy výskumu.       Participants should learn about differences among licenses and how they can suit some open-science definitions, open-science requirements, or how they fit into different research outcomes.
 
-2. Learn about the different building blocks of licenses, such as attribution, \(non-\)commercial, derivatives, etc.
+2. Dozvedieť sa o rôznych prvkoch, z ktorých sa licencie skladajú, ako je uvedenie autora (attribution), \(ne-\)komerčné použitie (\(non-\)commercial), odvodené diela (derivatives) atď.  
 
-3. Learn the importance of defining who holds the copyright or related rights of research output.
+3. Uvedomiť si dôležitosť určenia toho, kto je nositeľom autorských práv (copyright) alebo súvisiacich práv k výstupu výskumu.  k Learn the importance of defining who holds the copyright or related rights of research output.
 
-4. Learn about the differences between proprietary and open file formats, and how these can prevent or facilitate reusability and interoperability.
+4. Spoznať rozdiel medzi proprietárnymi a otvorenými formátmi súborov a to ako môžu brániť alebo umožniť opätovné použitie a interoperabilitu.     Learn about the differences between proprietary and open file formats, and how these can prevent or facilitate reusability and interoperability.
 
-### Key components
+### Kľúčové prvky
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Knowledge & Skills
+#### Poznatky a zručnosti
 
-Basic concepts of copyright are needed in order to understand how the licenses work. Since copyright laws are not internationally harmonized you must refer to the applicable laws in your context.
+Na to aby sme vedeli, ako licencovať svoju prácu, treba poznať základné pojmy súvisiace s autorským právom. Keďže legislatíva súvisiaca s autorským právom nie je medzinárodne harmonizovaná, musíte sa riadiť zákonmi platnými pre vašu situáciu.   Basic concepts of copyright are needed in order to understand how the licenses work. Since copyright laws are not internationally harmonized you must refer to the applicable laws in your context.
 
-Among the range of free content licenses there are the copyleft licenses, originated in the free software community, that allow a broad reuse of materials under the condition that any new material build upon the existing one must be licensed under the same license. This fact has brought some interoperable problems that newer versions overcomed by stating that the derived materials should be licensed under the same terms of the original license.
+Široká škálá licencií voľného ? slobodného ? otvoreného obsahu obsahuje licenciu copyleft, ktorá má pôvod v komunite slobosného softvéru, umožňuje široké opätovné použitie materiálu pod podmienkou, že akýkoľvek nový materiál, ktorý vychádzajúca z existujúceho materiálu, musí byť uverejnený pod rovnakou licenciou. Táto skutočnosť spôsobovala roblémy s interoperability, ktoré novšie verzie prekonali tak, že stanovili podmienku, že odvodený materiál by sa mal licencovať za rovnakých podmienok ako pôvodná licencia.        
 
-The most used licenses for scientific content are [Creative Commons licenses](https://creativecommons.org/licenses/). In general, a CC BY license \(requiring only attribution\) is a good option for works such articles, books, working papers, and reports while a dedication to the public domain using CC Zero (CC0) is recommended for datasets and databases \(NOTE:  In the US and EU, individual facts cannot be copyrighted, although collections of facts that underwent some creative selection or organization may be copyrighted. Additionally, in the EU there is a sui generis right granted to the maker of a database for the investment made in its compilation, even when this does not involve any creativity.\). Creative Commons licenses should not be used for licensing software because they were not designed for that purpose, as the organisation states. Instead, software developers should use appropriate licenses like those collected by the [Open Source Initiative](https://opensource.org/licenses) or [Free Software Foundation](https://www.fsf.org/licensing/). You can check your options at [choosealicense](https://choosealicense.com).
+Licencie najčastejšie používané na vedecký obsah sú licencie organizácie Creative Commons [Creative Commons licenses](https://creativecommons.org/licenses/). Licencia CC BY \(vyžadujúca iba uvedenie autora\) je vo všeobecnosti dobrá voľba na diela ako články, knihy, pracovné diela a správy, zatiaľ čo venovanie diela verejnej sfére postredníctvom licencie CCZero (CC0) sa odporúča na dátové súbory a databázy \(POZNÁMKA: v USA a EU nemôžu byť jednotlivé údaje chránené autorským právom, ale zbierka údajov, ktoré prešli tvorivým výberom a usporiadaním, môže byť chránená autorským právom. Okrem toho platí v EÚ právo _sui generis_, ktoré vzniká tvorcovi databázy v súvislosti s investíciou vloženou do kompilácie databázy, dokonca aj ak sa to nespája so žiadnou tvorivou prácou.\). Licencie Creative Commons by sa nemali používať na licencovanie softvéru, pretož podľa samotnej organizácie, neboli na to určené. Namiesto toho by softvéroví vývojári mali používať vhodné licencie, ako sú licencie uvedené v zozname [Open Source Initiative](https://opensource.org/licenses) alebo [Free Software Foundation](https://www.fsf.org/licensing/). Svoje možnosti si môžete overiť prostredníctvom nástroja [choosealicense](https://choosealicense.com).
 
 CC0 was originally created as a legal tool to release scientific databases without any restriction, and especially to overcome the different treatments of legal protection when publishing a database. CC0 has been seen as a tool for dedicating works to the public domain but it is more than a simple waiver. CC0 is a three-step instrument built to allow its use in jurisdictions where a full public domain dedication is not possible \(for instance in many continental Europe countries\). First, by using CC0, the copyright holder waives any right to the maximum extent allowed by applicable law. Second, if there is any remaining unwaivable right, CC0 acts as a license to grant any of those remaining rights without any restriction or obligation. And finally, the copyright holder asserts not to enforce any right that could not been possible to waive or grant by the applicable law. The idea behind CC0 is to convince researchers to follow community norms instead of using licenses in materials as a database where, in many cases, its contents are uncopyrightable.
 
@@ -78,7 +78,7 @@ Within the context of Open Science, and for optimal long-term archiving, files s
 Some file formats cannot be converted to open formats, but are nonetheless archived. They are often device-specific, but have a broad user community. Check if the repository where you want to deposit a publication has a list of preferred formats.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Otázky, prekážky a bežné mylné predstavy
 
 Q: "Why should I use the CC-BY license for my written/creative content?"
 
@@ -93,14 +93,14 @@ Interoperability of licenses: be aware that sometimes when you mix content licen
 Suitability of licenses: for instance, CC licenses should not be used for software, there are specific licenses for databases \(Open Data Commons\), and CC licenses were not suitable for databases before version 4.0.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Výsledky vzdelávania
 
 1. Will be able to use existing resources to choose an appropriate license for written research work, based on the desired freedom/limitation for others to use/reuse.
 
 2. Will be able to use existing resources to choose an appropriate license for data, based on the desired freedom/limitation for others to use/reuse.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Ďalšie odporúčané čítanie
 
 * Creative Commons License Picker. [creativecommons.org](https://creativecommons.org/choose/)
 
