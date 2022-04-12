@@ -9,7 +9,7 @@ Otvorený výskumný softvér alebo softvér s otvoreným zdrojovým kódom znam
 
 Moderný výskum sa spolieha na softvér a ďalší rozvoj alebo reprodukovanie daného výskumu si vyžaduje prístup k úplnému zdrojovému kódu daného softvéru \([Barnes, 2010](https://doi.org/10/cj8t6n); [Morin et al., 2012](https://doi.org/10/m5t); [Ince et al., 2012](https://doi.org/10/hqg); [Prins et al. 2015](https://doi.org/10/f3mn4p); [Lowndes et al., 2018](https://doi.org/10/gc4jb3)\). Ako povedali Buckheit a Donoho, parafrázujúc Jona Claerbouta, "Článok  o výpočtovom výsledku je reklama, nie veda. Skutočný vedecký článok informuje o úplnom softvérovom prostredí, kóde a dátach, ktoré priniesli výsledok." \([Buckheit & Donoho, 1995](https://doi.org/10.1007/978-1-4612-2544-7_5)\). Otvorený prístup k otvorenému zdrojovému kódu výskumného softvéru tiež zlepšuje impakt výskumu \([Vandewalle, 2012](https://doi.org/10/gc5sjp)\).
 
-Zdieľanie softvéru, ktorý sa použil vo výskume \(či už ide výpočtový výskum alebo výskum využívajúci analýzu/interpretáciu založenú na softvéri\), je potrebná ale nie postačujúca podmienka reprodukovateľnosti. Vyplýva to z nevyhnutnej nejednoznačnosti, ktorá vzniká pri snahe o úplný opis softvéru pomocou prirodzeného jazyka, napr., v článku \([Ince et al., 2012](https://doi.org/10/hqg)\). Mnoho \(ak nie väčšina\) softvérových programov môže navyše obsahovať nejaké nezistené chyby \([Soergel, 2015](https://doi.org/10/gc5sjg)\), takže dokonca aj "dokonale" napísaný opis softvéru by nedokázal vysvetliť?objasniť?zdôvodniť?zahrnúť všetky výsledky.  so even a "perfect" written description of software would not be able to account for all results.
+Zdieľanie softvéru, ktorý sa použil vo výskume \(či už ide výpočtový výskum alebo výskum využívajúci analýzu/interpretáciu založenú na softvéri\), je potrebná ale nie postačujúca podmienka reprodukovateľnosti. Vyplýva to z nevyhnutnej nejednoznačnosti, ktorá vzniká pri snahe o úplný opis softvéru pomocou prirodzeného jazyka, napr. v článku \([Ince et al., 2012](https://doi.org/10/hqg)\). Mnoho \(ak nie väčšina\) softvérových programov môže navyše obsahovať nejaké nezistené chyby \([Soergel, 2015](https://doi.org/10/gc5sjg)\), takže dokonca aj "dokonale" napísaný opis softvéru by nedokázal vysvetliť?objasniť?zdôvodniť?zahrnúť všetky výsledky.  so even a "perfect" written description of software would not be able to account for all results.
 
 Otvorené zdieľanie softvéru umožňuje okrem reprodukovateľnosti aj to, aby bol tvorcom, vývojárom, priznaný kredit za ich úsilie buď prostredníctvom citovania \([Smith et al., 2016](https://doi.org/10/bw3g)\) alebo meta-článkov o softvére publikovaných napríklad v časopise [Journal of Open Research Software](http://openresearchsoftware.metajnl.com) alebo [Journal of Open Source Software](http://joss.theoj.org). Neil Chue Hong vedie zoznam mnohých odborových časopisov ([list of many domain-specific journals](https://www.software.ac.uk/which-journals-should-i-publish-my-software)), ktoré uverejňujú články o softvére.
 
@@ -20,7 +20,7 @@ Otvorené zdieľanie softvéru umožňuje okrem reprodukovateľnosti aj to, aby 
 
 2. Naučiť sa, ako používať existujúci otvorený softvér a ako ho správne citovať alebo uviesť autora.
 
-3. Naučiť sa, ako používať spoločné?bežné nástroje a služby na otvorené zdieľanie výskumných kódov.   Learn how to use common tools and services for sharing research codes openly.
+3. Naučiť sa, ako používať bežné nástroje a služby na otvorené zdieľanie výskumných kódov.   Learn how to use common tools and services for sharing research codes openly.
 
 4. Vedieť vybrať vhodnú licenciu pre softvér a pochopiť rozdiel medzi permisívnymi a nepermisívnymi licenciami.
 
@@ -37,9 +37,9 @@ K dispozícii máme niekoľko platforiem, ktoré do nejakej miery podporujú otv
 
 * Má softvér podmienky na používanie?  
 
-* Je zdrojový kód dostupný na kontrolu? Je možné preskúmať zdrojový kód?  Is the source code available for inspection?
+* Je možné preskúmať zdrojový kód?  Is the source code available for inspection?
 
-* Je úplná história zdrojového kódu k dispozícii na preskúmanie prostredníctvom verejne dostupnej histórie verzií?  Is the full history of the source code available for inspection through a publicly available version history?
+* Je vývoj verzií zdrojového kódu k dispozícií na preskúmanie prostredníctvom verejne dostupnej histórie verzií?  Is the full history of the source code available for inspection through a publicly available version history?
 
 * Sú závislosti (dependencies) softvéru \(hardvér a softvér\) správne opísané? Vyžaduje získanie a použitie týchto závislostí iba primerane minimálne úsilie?  Are the dependencies of the software (hardware and software) described properly?Do these dependencies require only a reasonably minimal amount of effort to obtain and use?
 
