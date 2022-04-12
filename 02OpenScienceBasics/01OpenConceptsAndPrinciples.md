@@ -15,11 +15,11 @@ Ciele a predpoklady, ktoré sú základom snahy implementovať tieto rôzne post
 
 * **Pragmatická škola (Pragmatic school):** Vychádza z princípu, že spolupráca a kritika zefektívňuje a posilňuje produkciu poznatkov. Táto oblasť sa snaží využiť sieťové efekty prepájaním vedcov a sprehľadnením vedecko-výskumných metód.
 
-* **Škola infraštruktúry (Infrastructure school):** Tento smer vychádza z predpokladu, že efektívny výskum vyžaduje ľahko dostupné platformy, nástroje a služby na šírenie a spoluprácu.
+* **Škola zameraná na infraštruktúru (Infrastructure school):** Tento smer vychádza z predpokladu, že efektívny výskum vyžaduje ľahko dostupné platformy, nástroje a služby na šírenie a spoluprácu.
 
 * **Verejná škola (Public school):** Vychádza z uznania toho, že skutočný spoločenský dopad vyžaduje zapojenie spoločnosti do výskumu a jednoducho zrozumiteľnú komunikácia vedecko-výskumných výsledkov. Táto oblasť sa snaží zapojiť verejnosť do spolupráce na výskume prostredníctvom občianskej vedy a zjednodušiť pochopenie vedy prostredníctvom súhrnov pre laickú verejnosť, blogov a iných menej formálnych spôsobov komunikácie.
 
-* **Škola merania (Measurement school):** Založená na poznaní toho, že tradičné metriky vedeckého dopadu sa ukázali ako problematické \(napríklad, prílišným zameraním na publikovanie, často len na úrovni časopisu\). Tento smer hľadá "alternatívne metriky", ktoré dokážu využiť nové možnosti digitálne zosieťovaných nástrojov na sledovanie a meranie dopadu vedy prostredníctvom aktivít predtým neviditeľných .
+* **Škola zameraná na metriky (Measurement school):** Založená na poznaní toho, že tradičné metriky vedeckého dopadu sa ukázali ako problematické \(napríklad, prílišným zameraním na publikovanie, často len na úrovni časopisu\). Tento smer hľadá "alternatívne metriky", ktoré dokážu využiť nové možnosti digitálne zosieťovaných nástrojov na sledovanie a meranie dopadu vedy prostredníctvom aktivít predtým neviditeľných .
 
 ### Odôvodnenie
 
@@ -47,13 +47,13 @@ Otvorená veda, ako je definovaná vyššie v texte, zahŕňa veľké množstvo 
   * Zahŕňa mnoho rôznych aspektov, ktoré spolu často súvisia a ktoré ovplyvňujú celý výskumný cyklus, vrátane otvoreného publikovania, otvorených dát, softvéru s otvoreným zdrojovým kódom, otvorené vedecké záznamy, otvorený recenzný proces, otvorené šírenie a otvorené materiály \(definície nájdete v glosári\).
 
 
-* História otvorenej vedy a motivácia v pozadí hnutia.
+* História otvorenej vedy a motivácia, ktorá viedla k vzniku hnutia.
 
   * Počiatky akademického publikovania siahajú do 17. storočia k prvým akademickým časopisom.
 
   * Rastúca motivácia zdieľať zdroje medzi jednotlivými vednými disciplínami, ako aj zvýšená transparentnosť s cieľom dosiahnuť väčšiu efektívnosť, presnosť, zodpovednosť, udržateľnosť pre budúce generácie a reprodukovateľnosť.
   
-  * Etické prípady?argumenty, pri ktorých zvýšená transparentnosť môže viesť k zníženiu podvodov, manipuláciu s dátami a selektívnemu informovaniu o výsledkoch výskumu. Ethical cases whereby increased transparency can reduce fraud, data manipulation, and selective reporting of results.
+  * Etické problémy, pri ktorých zvýšená transparentnosť môže viesť k zníženiu podvodov, manipuláciu s dátami a selektívnemu informovaniu o výsledkoch výskumu.
 
 * Súčasný stav je dôsledkom tlaku vedecko-výskumných akadémií a vlád na otvorenejšie zdieľanie výskumu financovaného z verejných zdrojov, často s cieľom dosiahnuť rýchlejší spoločenský a ekonomický rast a inovácie.
 
@@ -69,7 +69,7 @@ Otvorená veda, ako je definovaná vyššie v texte, zahŕňa veľké množstvo 
 
   * Otvorená veda by mohla zvýšiť dôveru vo vedu a spoľahlivosť vedeckých výsledkov.
 
-* Otvorená veda a vzťah k licenciám a otázkam autorského práva.
+* Otvorená veda a otázky licencovania a autorského práva.
 
   * Otvorené výstupy výskumu zvyčajne majú otvorené licencie, aby sa maximalizovalo opätovné použite výstupov výskumu, pričom tieto licencie umožňujú tvorcovi ponechať si vlastnícke práva a mať priznané autorstvo svojej práce.
 
@@ -82,15 +82,15 @@ Odpoveď: Otvorená veda znamená robiť tradičnú vedu na rôznych úrovniach 
 
 Otázka: "Vylučuje "otvorená veda" humanitné a spoločenské vedy?"
 
-Odpoveď: Nie, termín otvorená veda je inkluzívny. Otvorená veda sa niekedy označuje aj v širšom zmysle ako "otvorený výskum (Open Research)" alebo "otvorené vedecké poznanie (Open Scholarship)", aby zahŕňala aj iné disciplíny, princípy a praktiky. Termín otvorená veda sa však bežne používa na viacerých úrovniach, preto má zmysel prijať ho na účely komunikácie, za predpokladu, že zahŕňa všetky výskumné disciplíny.    
+Odpoveď: Nie, termín otvorená veda je inkluzívny. ? Nie, HSS sú súčasťou otvorenej vedy. No, the term Open Science is inclusive. Otvorená veda sa niekedy označuje aj v širšom zmysle ako "otvorený výskum (Open Research)" alebo "otvorené vedecké poznanie (Open Scholarship)", aby zahŕňala aj iné disciplíny, princípy a praktiky. Termín otvorená veda sa však bežne používa na viacerých úrovniach, preto má zmysel prijať ho na účely komunikácie, za predpokladu, že zahŕňa všetky výskumné disciplíny.    
 
-Otázka: "Vedie otvorená veda k zneužitiu alebo nepochopeniu výskumu?"
+Otázka: "Prispieva otvorená veda k nepsrávenmu použitiu/zneužitiu alebo nepochopeniu výskumu?"
 
-Odpoveď: Nie, v skutočnosti aplikovanie otvorenej vedy chráni pred zneužívaním či nepochopením. Transparentnosť vedie k dôvere, istote a umožňuje ostatným overiť a validovať výskumný proces.
+Odpoveď: Nie, v skutočnosti aplikovanie otvorenej vedy chráni pred neprávnym použitím/zneužitím či nepochopením. Transparentnosť vedie k dôvere, istote a umožňuje ostatným overiť a validovať výskumný proces.
 
 Otázka: "Nebude dôsledkom otvorenej vedy prílišné preťaženie informáciami?"
 
-Odpoveď: Je lepšie mať príliš veľa informácií a zaoberať sa tým, ako ich mať príliš málo a riskovať, že dôležité informácie nám budú chýbať. A máme k dispozícii technológie ako RSS informačné kanály, strojové učenie a umelá inteligencia, ktoré uľahčujú agregovanie obsahu.
+Odpoveď: Je lepšie mať príliš veľa informácií a zaoberať sa tým, ako ich mať príliš málo a riskovať, že dôležité informácie nám budú chýbať. A k dispozícii máme aj technológie ako RSS informačné kanály, strojové učenie a umelá inteligencia, ktoré uľahčujú agregovanie obsahu.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Výsledky vzdelávania
