@@ -3,7 +3,7 @@
 
 ### Čo je to?
 
-Otvorené výskumné dáta sú voľne prístupné dáta, ktoré je možné opätovne použiť, remixovať a opätovne šíriť na účely akademického výskumu a výučby ako aj mimo nich. V ideálnom prípade nie je opätovné použitie alebo šírenie otvorených dát nijako obmedzené a dáta majú vhodné licencie. Vo výnimočných prípadoch, napríklad na ochranu identity ľudských subjektov, sú stanovené špeciálne alebo ohraničené obmedzenia prístupu k dátam. Otvorené zdieľanie dát umožňuje dáta preskúmať, čím sa vytvára základ overenia a reprodukovateľnosti výskumu a otvára sa cesta širšej spolupráci. Na otvorené dáta sa môže vzťahovať nanajvýš požiadavka uviesť autora a podmienka rovnakého šírenia (attribute and sharealike) \(pozri [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\).
+Otvorené výskumné dáta sú voľne prístupné dáta, ktoré je možné opätovne použiť, remixovať a opätovne šíriť na účely akademického výskumu a výučby ako aj mimo nich. V ideálnom prípade nie je opätovné použitie alebo šírenie otvorených dát nijako obmedzené a dáta majú vhodné licencie. Vo výnimočných prípadoch, napríklad na ochranu identity ľudských subjektov, sú stanovené špeciálne alebo limitované obmedzenia prístupu k dátam. Otvorené zdieľanie dát umožňuje dáta preskúmať, čím sa vytvára základ overenia a reprodukovateľnosti výskumu a otvára sa cesta širšej spolupráci. Na otvorené dáta sa môže vzťahovať nanajvýš požiadavka uviesť autora a podmienka rovnakého šírenia (attribute and sharealike) \(pozri [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\).
 
 
 ## <img src="/Images/Icons/data2.png" width="150" height="150" />
@@ -35,15 +35,15 @@ Výskumné dáta sú často najcennejším výstupom mnohých výskumných proje
 #### Poznatky a zručnosti
 ##### Princípy FAIR
 
-V roku 2014 boli navrhnuté základné princípy na optimalizáciu opätovného použitia výskumných dát pod názvom Princípy FAIR dát ([FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples)). Predstavujú súbor princípov a najlepších postupov vypracovaných komunitou s cieľom zabezpečiť, aby boli dáta alebo akékoľvek digitálne objekty **F**indable (vyhľadateľné), **A**ccessible (prístupné), **I**nteroperable (interoperabilné a **R**e-usable (opätovne použiteľné):    
+V roku 2014 boli navrhnuté základné princípy na optimalizáciu opätovného použitia výskumných dát pod názvom Princípy FAIR dát ([FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples)). Predstavujú súbor princípov a najlepších postupov vypracovaných komunitou s cieľom zabezpečiť, aby boli dáta alebo akékoľvek digitálne objekty **F**indable (vyhľadateľné), **A**ccessible (prístupné), **I**nteroperable (interoperabilné) a **R**e-usable (opätovne použiteľné):    
 
 **Findable (vyhľadateľné):** Prvá vec, ktorú treba zabezpečiť, aby sa dali dáta opätovne použiť, je ich vyhľadateľnosť. Ľudia aj počítače by mali dokázať nájsť dáta ľahko a jednoducho. Automatické a spoľahlivé vyhľadanie súborov dát a služieb závisí od strojovo čitateľných trvalých identifikátorov \(PID\) a metadát.
 
-**Accessible(prístupné):** \(Meta\)dáta by sa mali dať vyhľadať podľa identifikátora pomocou štandardizovaného a otvoreného komunikačného protokolu, s možnosťou autentifikácie autorizácie. Metadáta by mali byť dostupné aj v prípade, ak samotné dáta už nie sú viac dostupné.
+**Accessible (prístupné):** \(Meta\)dáta by sa mali dať vyhľadať podľa identifikátora pomocou štandardizovaného a otvoreného komunikačného protokolu, s možnosťou autentifikácie autorizácie. Metadáta by mali byť dostupné aj v prípade, ak samotné dáta už nie sú viac dostupné.
 
-**Interoperable(interoperabilné):** Dáta by sa mali dať kombinovať a používať s inými dátami alebo nástrojmi. Formát dát by preto mal byť otvorený a interpretovateľný rôznymi nástrojmi, vrátane iných záznamov dát. Interoperabilita sa vzťahuje na dáta, ako aj metadáta. \(Meta\)dáta by mali používať slovníky, ktoré sa riadia princípmi FAIR.     
+**Interoperable (interoperabilné):** Dáta by sa mali dať kombinovať a používať s inými dátami alebo nástrojmi. Formát dát by preto mal byť otvorený a čitateľný pomocou rôznych nástrojov, vrátane iných záznamov dát. Interoperabilita sa vzťahuje na dáta, ako aj metadáta. \(Meta\)dáta by mali používať slovníky, ktoré sa riadia princípmi FAIR.     
 
-**Re-usable(opätovne použiteľné):** V konečnom dôsledku je cieľom princípov FAIR optimalizácia opätovného použitia dát. Na dosiahnutie tohto cieľa musia byť metadáta a dáta opísané tak dobre, aby sa dali replikovať a/alebo kombinovať v rôznych kontextoch. Opätovné použitie \(meta\)dát tiež musí byť stanovené v jasnej a prístupne licencii/licenciách.
+**Re-usable (opätovne použiteľné):** V konečnom dôsledku je cieľom princípov FAIR optimalizácia opätovného použitia dát. Na dosiahnutie tohto cieľa musia byť metadáta a dáta opísané tak dobre, aby sa dali replikovať a/alebo kombinovať v rôznych kontextoch. Opätovné použitie \(meta\)dát tiež musí byť stanovené v jasnej a prístupnej licencii/licenciách.
 
 Na rozdiel od partnerských iniciatív zameraných na vedca - človeka kladú princípy FAIR osobitný dôraz na zlepšenie schopnosti strojov automaticky nájsť a použiť dáta alebo akékoľvek digitálne objekty, ako aj na podporu ich opätovného použitia jednotlivcami. Princípy FAIR sú usmerňujúce zásady, nie normy. Pojem FAIR opisuje vlastnosti alebo správanie, ktoré je potrebné na to, aby sa dáta dali čo najviac opätovne použiť \(napr., opis, citovanie\). Tieto vlastnosti je možné dosiahnuť pomocou rôznych štandardov.
 
@@ -102,7 +102,7 @@ Balíky dát (Data packages) sú súbory na opis a zdieľanie sprievodných dát
 
 * Dáta sú navždy: súbory dát prežijú svoj pôvodný účel. Obmedzenia dát môžu byť zjavné v rámci ich pôvodného kontextu, napríklad knižničný katalóg, ale nemusia byť zrejmé potom, ako sa dáta oddelia od účelu, na ktorý boli vytvorené.
 
-* Dáta nemôžu stáť samostatne: na zodpovednú interpretáciu dát potrebujú používatelia informácie o ich kontexte a pôvode - ako a prečo vznikli, aké objekty a pojmy zo skutočného sveta predstavujú, aké sú obmedzenia hodnôt.
+* Nestačí zverejniť iba samotné dáta: na zodpovednú interpretáciu dát potrebujú používatelia informácie o ich kontexte a pôvode - ako a prečo vznikli, aké objekty a pojmy zo skutočného sveta predstavujú, aké sú obmedzenia hodnôt.
 
 * Štruktúrovanie metadát súborov dát predstavuje štandardný, strojovo čitateľný spôsob, ktorý podporuje propagáciu, zdieľateľnosť a opätovné použitie dát.
 
