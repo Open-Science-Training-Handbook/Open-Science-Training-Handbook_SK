@@ -11,7 +11,7 @@ Moderný výskum sa spolieha na softvér a ďalší rozvoj alebo reprodukovanie 
 
 Zdieľanie softvéru, ktorý sa použil vo výskume \(či už ide výpočtový výskum alebo výskum využívajúci analýzu/interpretáciu založenú na softvéri\), je potrebná ale nie postačujúca podmienka reprodukovateľnosti. Vyplýva to z nevyhnutnej nejednoznačnosti, ktorá vzniká pri snahe o úplný opis softvéru pomocou prirodzeného jazyka, napr. v článku \([Ince et al., 2012](https://doi.org/10/hqg)\). Mnoho \(ak nie väčšina\) softvérových programov môže navyše obsahovať nejaké nezistené chyby \([Soergel, 2015](https://doi.org/10/gc5sjg)\), takže dokonca aj "dokonale" napísaný opis softvéru by nedokázal vysvetliť?objasniť?zdôvodniť?zahrnúť všetky výsledky.  so even a "perfect" written description of software would not be able to account for all results.
 
-Otvorené zdieľanie softvéru umožňuje okrem reprodukovateľnosti aj to, aby bol tvorcom, vývojárom, priznaný kredit za ich úsilie buď prostredníctvom citovania \([Smith et al., 2016](https://doi.org/10/bw3g)\) alebo meta-článkov o softvére publikovaných napríklad v časopise [Journal of Open Research Software](http://openresearchsoftware.metajnl.com) alebo [Journal of Open Source Software](http://joss.theoj.org). Neil Chue Hong vedie zoznam mnohých odborových časopisov ([list of many domain-specific journals](https://www.software.ac.uk/which-journals-should-i-publish-my-software)), ktoré uverejňujú články o softvére.
+Otvorené zdieľanie softvéru umožňuje okrem reprodukovateľnosti aj to, aby bol tvorcom, vývojárom, priznaný kredit za ich úsilie buď prostredníctvom citovania \([Smith et al., 2016](https://doi.org/10/bw3g)\) alebo meta-článkov o softvéri publikovaných napríklad v časopise [Journal of Open Research Software](http://openresearchsoftware.metajnl.com) alebo [Journal of Open Source Software](http://joss.theoj.org). Neil Chue Hong vedie zoznam mnohých odborových časopisov ([list of many domain-specific journals](https://www.software.ac.uk/which-journals-should-i-publish-my-software)), ktoré uverejňujú články o softvéri.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Ciele vzdelávania
@@ -29,7 +29,7 @@ Otvorené zdieľanie softvéru umožňuje okrem reprodukovateľnosti aj to, aby 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
 #### Poznatky
 
-K dispozícii máme niekoľko platforiem, ktoré do nejakej miery podporujú otvorené zdieľanie a spoluprácu na softvére či výskume. Najprv si overte otvorenosť existujúceho výskumného softvéru, na jeho hodnotenie môžete použiť tento kontrolný zoznam:
+K dispozícii máme niekoľko platforiem, ktoré do nejakej miery podporujú otvorené zdieľanie a spoluprácu na softvéri či výskume. Najprv si overte otvorenosť existujúceho výskumného softvéru, na jeho hodnotenie môžete použiť tento kontrolný zoznam:
 
 * Je softvér dostupný a dá sa stiahnuť a inštalovať? 
 
