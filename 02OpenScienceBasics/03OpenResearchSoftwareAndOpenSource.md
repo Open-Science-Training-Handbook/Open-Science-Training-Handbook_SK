@@ -37,9 +37,9 @@ K dispozícii máme niekoľko platforiem, ktoré do nejakej miery podporujú otv
 
 * Má softvér podmienky na používanie?  
 
-* Je možné preskúmať zdrojový kód?  Is the source code available for inspection?
+* Je možné preskúmať zdrojový kód? Je možné zdrojový kód skontrolovať?  Is the source code available for inspection?
 
-* Je vývoj verzií zdrojového kódu k dispozícií na preskúmanie prostredníctvom verejne dostupnej histórie verzií?  Is the full history of the source code available for inspection through a publicly available version history?
+* Je vývoj verzií zdrojového kódu k dispozícií na preskúmanie prostredníctvom verejne dostupnej histórie verzií ? prostredníctvom verejne dostupných predchádzajúcich verzií?  Is the full history of the source code available for inspection through a publicly available version history?
 
 * Sú závislosti (dependencies) softvéru \(hardvér a softvér\) správne opísané? Vyžaduje získanie a použitie týchto závislostí iba primerane minimálne úsilie?  Are the dependencies of the software (hardware and software) described properly?Do these dependencies require only a reasonably minimal amount of effort to obtain and use?
 
@@ -80,17 +80,17 @@ Vyššie uvedené princípy otvoreného zdroja sa vzťahujú aj na hardvér. Ved
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Otázky, prekážky a bežné mylné predstavy 
 
-Otázka: "Nemôžem zdieľať svoj softvér - je príliš chaotický / nemá dobrú dokumentáciu / neurobil som dobré poznámky!"
+Otázka: "Nemôžem zdieľať svoj softvér - je príliš chaotický / nemá dobrú dokumentáciu / nemám dobré poznámky!"
 
 Odpoveď: Vývojári výskumného softvéru na celom svete tento pocit chápu - tvorcovia majú málokedy pocit, že ich kód je pripravený na verejné zdieľanie alebo že je "dokončený". Avšak ako napísal [Barnes \(2010\)](https://doi.org/10/cj8t6n), “ak je váš kód dostatočne dobrý na to, aby urobil svoju úlohu, je dosť dobrý na to, aby sa mohol vydať - a jeho vydanie pomôže vášmu výskumu, aj vašej oblasti." Inými slovami, ak ste so svojím softvérom takí spokojní, že publikujete štúdiu alebo oznámite výsledky, tak je kód dostatočne vyvinutý na to, aby ste ho mohli zdieľať so svojimi kolegami. \(Naopak, ak nemáte dobrý pocit zo zdieľania kódu, potom možno potrebuje viac času na vývoj alebo testovanie pred tým, ako ho použijete v publikácii.\). Okrem toho zdieľaním svojho kódu umožníte iným, aby ho zlepšovali a ďalej rozvíjali, čo povedie k ešte väčšiemu dopadu a inovácii \(a citáciám pre vás!\).
 
 Otázka: "Čo ak niekto použije kód, ktorý som zdieľal, na nekalé účely alebo bude tvrdiť, že ho napísal?"
 
-Odpoveď: Výberom vhodnej licencie na svoj softvér si zabezpečíte ochranu pred tým, aby iní ľudia akokoľvek použili váš softvér. Napríklad často používaná licencia MIT ([MIT License](https://choosealicense.com/licenses/mit/)) obsahuje aj obmedzenie zodpovednosti a zároveň deklaruje, že sa neposkytuje žiadna záruka. Ak sa bude niekto iný snažiť tvrdiť, že napísal softvér, ktorý ste vy sprístupnili, môžete poukázať na časové pečiatky (timestamps) vo svojom repozitári alebo archivované verzie ako na dôkaz toho, že vaša práca bola prvá.         Selecting an appropriate license for your software will help protect you from any uses of your software by others; for example, the common [MIT License](https://choosealicense.com/licenses/mit/) includes both limitations of liability and states that no warranty is provided. If someone else tries to claim that they wrote the software you made available, then you can point to the timestamps on your repository or archived versions as proof of your prior work.
+Odpoveď: Výberom vhodnej licencie na svoj softvér si zabezpečíte ochranu pred tým, aby iní ľudia akokoľvek použili váš softvér. Napríklad často používaná licencia MIT ([MIT License](https://choosealicense.com/licenses/mit/)) obsahuje aj obmedzenie zodpovednosti a zároveň deklaruje, že sa neposkytuje žiadna záruka. Ak sa bude niekto iný snažiť tvrdiť, že napísal softvér, ktorý ste vy sprístupnili, môžete poukázať na časové pečiatky (timestamps) vo svojom repozitári alebo archivované verzie, ako na dôkaz toho, že vaša práca bola prvá.         Selecting an appropriate license for your software will help protect you from any uses of your software by others; for example, the common [MIT License](https://choosealicense.com/licenses/mit/) includes both limitations of liability and states that no warranty is provided. If someone else tries to claim that they wrote the software you made available, then you can point to the timestamps on your repository or archived versions as proof of your prior work.
 
 Otázka: "Ak budem zdieľať svoj kód v online repozitári, zaplavia ma žiadosti o používateľskú podporu."
 
-Odpoveď: Hoci je možné je vás potencionálni používatelia požiadajú o pomoc, buď cez email alebo \(napr.\) podaním otázky/problému v online repozitári, nemáte žiadnu povinnosť poskytnúť odporu, ak tak nechcete alebo nemôžete urobiť. Vhodná licencia vás dokonca pred tým právne ochráni \(napr. klauzula o neposkytnutí žiadnych záruk licencie MIT ([MIT License](https://choosealicense.com/licenses/mit/)\)).
+Odpoveď: Hoci je možné, že vás potencionálni používatelia požiadajú o pomoc, buď cez email alebo \(napr.\) podaním otázky/problému v online repozitári, nemáte žiadnu povinnosť poskytnúť podporu, ak tak nechcete alebo nemôžete urobiť. Vhodná licencia vás dokonca pred tým právne ochráni \(napr. klauzula o neposkytnutí žiadnych záruk licencie MIT ([MIT License](https://choosealicense.com/licenses/mit/)\)).
 
 Bežné mylné predstavy: zverejnenie kódu online stačí na to, aby bol softvér otvorený. V skutočnosti je to tak, že pokiaľ softvér nemá licenciu, ktorá udeľuje povolenie iným používateľom na použite, kopírovanie, modifikovanie a/alebo distribúciu, znamená to, že si vývojár/vývojári ponecháva/jú výhradné autorské práva. Ku kódu musí byť pripojená open-source licencia, aby sa softvér mohol považovať za softvér s otvoreným zdrojovým kódom.
 
@@ -99,7 +99,7 @@ Bežné mylné predstavy: zverejnenie kódu online stačí na to, aby bol softv�
 
 1. Naučiť sa zdieľať softvér pod najvhodnejšou licenciou \(t.j., vedieť používať aj nástroje, aj licencie\).
 
-2. Vedieť sa nahrať (upload), vytvárať verzie a registrovať časť kódu s trvalým identifikátorom.  Be able to upload, version, and register a piece of code under a persistent identifier.
+2. Vedieť nahrať (upload), vytvárať verzie a registrovať časť kódu s trvalým identifikátorom.  Be able to upload, version, and register a piece of code under a persistent identifier.
 
 3. Vedieť citovať softvér použitý vo vedeckom článku.  Be able to cite software used for a research article.
 
