@@ -24,7 +24,7 @@ Výskumné dáta sú často najcennejším výstupom mnohých výskumných proje
 
 4. Vedieť využiť plán manažmentu dát a zabezpečiť prístup k dátam a ich vyhľadateľnosť, dokonca aj v prípade, ak obsahujú citlivé údaje.
 
-5. Pochopiť plusy a mínusy otvoreného zdieľania rôznych typov dát \(napr., súkromie, citlivosť, anonymizácia dát(de-identifikácia), sprostredkovaný prístup\).
+5. Pochopiť plusy a mínusy otvoreného zdieľania rôznych typov dát \(napr., súkromie, citlivosť, anonymizácia dát(odstránenie údajov umožňujúcich identifikáciu osoby), sprostredkovaný prístup\).
 
 6. Pochopiť dôležitosť primeraných metadát na udržateľné archivovanie výskumných dát. 
 
@@ -43,7 +43,7 @@ V roku 2014 boli navrhnuté základné princípy na optimalizáciu opätovného 
 
 **Interoperable (interoperabilné):** Dáta by sa mali dať kombinovať a používať s inými dátami alebo nástrojmi. Formát dát by preto mal byť otvorený a čitateľný pomocou rôznych nástrojov, vrátane iných záznamov dát. Interoperabilita sa vzťahuje na dáta, ako aj metadáta. \(Meta\)dáta by mali používať slovníky, ktoré sa riadia princípmi FAIR.     
 
-**Re-usable (opätovne použiteľné):** V konečnom dôsledku je cieľom princípov FAIR optimalizácia opätovného použitia dát. Na dosiahnutie tohto cieľa musia byť metadáta a dáta opísané tak dobre, aby sa dali replikovať a/alebo kombinovať v rôznych kontextoch. Opätovné použitie \(meta\)dát tiež musí byť stanovené v jasnej a prístupnej licencii/licenciách.
+**Re-usable (opätovne použiteľné):** V konečnom dôsledku je cieľom princípov FAIR optimalizácia opätovného použitia dát. Na dosiahnutie tohto cieľa musí byť popis metadát a dát taký dobrý, aby sa dali replikovať a/alebo kombinovať v rôznych kontextoch. Opätovné použitie \(meta\)dát tiež musí byť stanovené v jasnej a prístupnej licencii/licenciách.
 
 Na rozdiel od partnerských iniciatív zameraných na vedca - človeka kladú princípy FAIR osobitný dôraz na zlepšenie schopnosti strojov automaticky nájsť a použiť dáta alebo akékoľvek digitálne objekty, ako aj na podporu ich opätovného použitia jednotlivcami. Princípy FAIR sú usmerňujúce zásady, nie normy. Pojem FAIR opisuje vlastnosti alebo správanie, ktoré je potrebné na to, aby sa dáta dali čo najviac opätovne použiť \(napr., opis, citovanie\). Tieto vlastnosti je možné dosiahnuť pomocou rôznych štandardov.
 
