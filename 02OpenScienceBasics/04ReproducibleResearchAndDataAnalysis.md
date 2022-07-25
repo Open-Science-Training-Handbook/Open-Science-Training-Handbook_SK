@@ -26,7 +26,7 @@ O každom kroku bude informovať jasná a otvorená dokumentácia, čím sa zabe
 
 ### Odôvodnenie
 
-K príčinám nereprodukovateľnosti môžu prispievať spoločné ? všeobecné ? zastrešujúce faktory, ktoré ale tiež môžu viesť k implementácii špecifických opatrení zameraných na riešenie týchto príčin. Kultúra a prostredie, v ktorom výskum prebieha, predstavujú dôležitý všeobecný faktor pôsobiaci "zhora nadol" (‘top-down’ overarching factor). Medzi faktory pôsobiace "zdola nahor" (‘bottom-up’ perspective) patrí kontinuálne vzdelávanie a školenie vedcov, ktoré dokážu zvýšiť povedomie a šíriť postupy správnej praxe.    Overarching factors can further contribute to the causes of non-reproducibility, but can also drive the implementation of specific measures to address these causes. The culture and environment in which research takes place is an important ‘top-down’ overarching factor. From a ‘bottom-up’ perspective, continuing education and training for researchers can raise awareness and disseminate good practice.
+K príčinám nereprodukovateľnosti môžu prispievať všeobecné faktory, ktoré ale tiež môžu viesť k implementácii špecifických opatrení zameraných na riešenie týchto príčin. Kultúra a prostredie, v ktorom výskum prebieha, predstavujú dôležitý všeobecný faktor pôsobiaci "zhora nadol" (‘top-down’ overarching factor). Medzi faktory pôsobiace "zdola nahor" (‘bottom-up’ perspective) patrí kontinuálne vzdelávanie a školenie vedcov, ktoré dokážu zvýšiť povedomie a šíriť postupy správnej praxe.    Overarching factors can further contribute to the causes of non-reproducibility, but can also drive the implementation of specific measures to address these causes. The culture and environment in which research takes place is an important ‘top-down’ overarching factor. From a ‘bottom-up’ perspective, continuing education and training for researchers can raise awareness and disseminate good practice.
 
 Hoci je dôležité porozumieť celému radu faktorov, ktoré prispievajú k reprodukovateľnosti, môže byť dosť náročné rozdeliť ich na kroky, ktoré sa dajú okamžite prevziať do existujúceho výskumného programu a ihneď tak zlepšiť jeho reprodukovateľnosť. Jeden z prvých krokov, ktorý treba urobiť, je posúdenie aktuálneho stavu a sledovanie zlepšenia v rámci procesu prijímania krokov, aby sa tak zvýšila reprodukovateľnosť. Niektoré problémy súvisiace s reprodukovateľnosťou výskumu nájdete na obrázku nižšie.         
 
@@ -36,7 +36,7 @@ Zdroj: Symposium report, October 2015. Reproducibility and reliability of biomed
 
 [Goodman, Fanelli, & Ioannidis \(2016\)](https://doi.org/10/gc5sjs) uvádzajú, že v epidemiológii, výpočtovej biológii, ekonómii a klinických štúdiách sa reprodukovateľnosť často definuje ako:
 
-_"Schopnosť výskumníka duplikovať výsledky predchádzajúceho výskumu za použitia rovnakých materiálov, ako použil pôvodný riešiteľ výskumu. Znamená to, že druhý výskumník môže použiť rovnaké nespracované údaje (raw data) na vytvorenie rovnakých analytických súborov a použiť rovnaké štatistické analýzy v snahe dosiahnuť rovnaké výsledky.  the ability of a researcher to duplicate the results of a prior study using the same materials as were used by the original investigator. That is, a second researcher might use the same raw data to build the same analysis files and implement the same statistical analysis in an attempt to yield the same results."_
+_"Schopnosť výskumníka duplikovať výsledky predchádzajúceho výskumu za použitia rovnakých materiálov, ako použil pôvodný riešiteľ výskumu. Znamená to, že druhý výskumník môže použiť rovnaké nespracované dáta (raw data) na vytvorenie rovnakých analytických súborov a použiť rovnaké štatistické analýzy v snahe dosiahnuť rovnaké výsledky.  the ability of a researcher to duplicate the results of a prior study using the same materials as were used by the original investigator. That is, a second researcher might use the same raw data to build the same analysis files and implement the same statistical analysis in an attempt to yield the same results."_
 
 Toto sa odlišuje od replikovateľnosti: _"ktorá sa vzťahuje na schopnosť výskumníka duplikovať výsledky predchádzajúceho výskumu, ak sa použijú tie isté postupy ale získajú sa nové dáta."_ Jednoduchší spôsob uvažovania o tom môže byť, že reprodukovateľnosť sa zameriava na metódy, kým replikovateľnosť na výsledky.          This is distinct from replicability: _"which refers to the ability of a researcher to duplicate the results of a prior study if the same procedures are followed but new data are collected."_ A simpler way of thinking about this might be that reproducibility is methods-oriented, whereas replicability is results-oriented.
 
@@ -72,7 +72,7 @@ Indikatívny zoznam bodov súvisiacich s reprodukovateľnosťou, ktoré by ste s
 
 * Prostredia reprodukovateľnej analýzy \(virtualizácia\). Reproducible analysis environments \(virtualization\).
 
-* Riešenie "Stupňov slobody vedca ("Researcher Degrees of Freedom") \([Wicherts et al., 2016](https://doi.org/10/gc5sjn)\).
+* Riešenie "Stupňov slobody vedca ? "Stupov vedeckej slobody" ("Researcher Degrees of Freedom") \([Wicherts et al., 2016](https://doi.org/10/gc5sjn)\).
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Zručnosti
