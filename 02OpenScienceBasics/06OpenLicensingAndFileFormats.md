@@ -5,7 +5,7 @@
 
 Licencia je právny dokument, ktorý poskytuje používateľovi špecifické práva na opätovné použitie a redistribúciu materiálu za určitých podmienok. Používateľ môže požiadať o akékoľvek právo, ktoré poskytovateľ licencie neposkytol prostredníctvom licencie. Licencie sa môžu použiť na akýkoľvek materiál \(napr., zvukový, textový, obrazový, multimediálny, softvér\), pri ktorom existujú nejaké práva na využívanie a používanie.  
 
-[Free con](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[tent license](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[s](https://en.wikipedia.org/wiki/List_of_free_content_licenses) (Licencie slobodného otvoreného obsahu) sú licencie, ktoré poskytujú povolenie na prístup, opätovné použitie a redistribúciu materiálu s niekoľkými alebo žiadnymi obmedzeniami. Tieto licencie sa pohybujú v rozmedzí od veľmi otvorených po veľmi obmedzujúce. Čím sú licencie obmedzujúcejšie, tým je ťažšie kombinovať obsah, ktorý má rôzne licencie, čo potenciálne bráni interoperabilite.                   [Free con](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[tent license](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[s](https://en.wikipedia.org/wiki/List_of_free_content_licenses) licenses that grant permission to access, re-use, and redistribute material with few or no restrictions. Those licenses range from very open to very restrictive. The more restrictions, the more difficult it becomes to combine differently licenses content—thus potentially preventing interoperability.
+Licencie slobodného obsahu, [Free con](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[tent license](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[s](https://en.wikipedia.org/wiki/List_of_free_content_licenses), sú licencie, ktoré poskytujú povolenie na prístup, opätovné použitie a redistribúciu materiálu s niekoľkými alebo žiadnymi obmedzeniami. Tieto licencie sa pohybujú v rozmedzí od veľmi otvorených po veľmi obmedzujúce. Čím sú licencie obmedzujúcejšie, tým je ťažšie kombinovať obsah, ktorý má rôzne licencie, čo potenciálne bráni interoperabilite.                   [Free con](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[tent license](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[s](https://en.wikipedia.org/wiki/List_of_free_content_licenses) licenses that grant permission to access, re-use, and redistribute material with few or no restrictions. Those licenses range from very open to very restrictive. The more restrictions, the more difficult it becomes to combine differently licenses content—thus potentially preventing interoperability.
 
 Formát súboru je štandardný spôsob, ktorým sa informácie kódujú, aby sa dali uložiť v počítačovom súbore, ale nie všetky formáty majú voľne dostupnú dokumentáciu so špecifikáciami, a to čiastočne aj preto, že niektorí vývojári považujú svoju dokumentáciu so špecifikáciami za obchodné tajomstvo.       
 
@@ -35,7 +35,7 @@ Pri zdieľaní otvoreného obsahu nestačí iba pripojiť licenciu, musíte tie�
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Poznatky a zručnosti
 
-Na to aby sme vedeli, ako licencovať svoju prácu, treba poznať základné pojmy súvisiace s autorským právom. Keďže legislatíva súvisiaca s autorským právom nie je medzinárodne harmonizovaná, musíte sa riadiť zákonmi platnými vo vašej situácii.   Basic concepts of copyright are needed in order to understand how the licenses work. Since copyright laws are not internationally harmonized you must refer to the applicable laws in your context.
+Na to aby sme vedeli, ako licencovať svoju prácu, treba poznať základné pojmy súvisiace s autorským právom. Keďže legislatíva súvisiaca s autorským právom nie je medzinárodne harmonizovaná, musíte sa riadiť zákonmi platnými vo vašej krajine.   Basic concepts of copyright are needed in order to understand how the licenses work. Since copyright laws are not internationally harmonized you must refer to the applicable laws in your context.
 
 Široká škála licencií voľného slobodného obsahu zahŕňa licenciu copyleft, ktorá má pôvod v komunite slobodného softvéru, umožňuje široké opätovné použitie materiálu pod podmienkou, že akýkoľvek nový materiál, ktorý vychádza z existujúceho materiálu, musí byť uverejnený pod rovnakou licenciou. Táto skutočnosť spôsobovala problémy s interoperability, ktoré novšie verzie prekonali stanovením podmienky, že odvodený materiál by sa mal licencovať za rovnakých podmienok, ako stanovila pôvodná licencia.        
 
@@ -55,7 +55,7 @@ Základné body súvisiace s licenciami, ktoré treba zobrať do úvahy \(zdroj:
 
 * Informujte používateľov, kde nájdu viac informácií o tejto licencii. Let users know where they can find more information about this license.
 
-* Vysvetlite, že licencia sa vzťahuje na dáta a nie na obsah, ktorý dáta predstavujú \(otvorená licencia na metadáta nie je to isté ako samotný otvorený obsah, na ktorý sa nevzťahujú autorské práva alebo ktorý je možno voľne používať\).  _časť vety v átvorke mi moc nedáva zmysel    Explain that the license applies to the data, and not the content that the data represents \(an open license on the metadata is not the same as the content itself being open, out of copyright, or able to be used freely\).
+* Vysvetlite, že licencia sa vzťahuje na dáta a nie na obsah, ktorý dáta predstavujú \(otvorená licencia na metadáta nie je to isté ako samotný otvorený obsah, na ktorý sa nevzťahujú autorské práva alebo ktorý je možno voľne používať\).  Explain that the license applies to the data, and not the content that the data represents \(an open license on the metadata is not the same as the content itself being open, out of copyright, or able to be used freely\).
 
 * Vysvetlite, prečo bola zvolená daná licencia.
 
@@ -65,7 +65,7 @@ V rámci kontextu otvorenej vedy a v záujme optimálneho dlhodobého archivovan
 
 * Texty (Text): TXT, ODT, PDF/A, XML
 
-* Údaje v tabuľkách (Tabular data): CSV, TSV
+* Dáta v tabuľkách (Tabular data): CSV, TSV
 
 * Obrázky (Image): TIFF, PNG, JPG 2000, SVG, WebP
 
@@ -73,7 +73,7 @@ V rámci kontextu otvorenej vedy a v záujme optimálneho dlhodobého archivovan
 
 * Video: MPEG2, Theora, VP8, VP9, AV1, Motion JPG 2000 \(MJ2\),
 
-* Binárne hierarchické údaje (Binary hierarchical data): HDF5
+* Binárne hierarchické dáta (Binary hierarchical data): HDF5
 
 Niektoré formáty súborov sa nedajú konvertovať na otvorené formáty ale napriek tomu sa archivujú. Často sa viažu na špecifické zariadenie, ale majú širšiu komunitu používateľov. Overte si, či má repozitár, v ktorom chcete publikáciu uložiť, zoznam preferovaných formátov.
 
@@ -88,7 +88,7 @@ Odpoveď: Licencia CC-By je najpermisívnejšia licencia (pozn. prekl. poskytuje
 
 Prekážka: rôzne krajiny majú rôzne zákony o autorských právach, čo môže obmedziť schopnosť vybrať licenciu alebo venovať dielo verejnej sfére. Napríklad v Nemecku alebo iných európskych krajinách nie je možné vzdať sa všetkých autorských práv, a tak venovať dielo verejnej sfére úplne. Namiesto toho sa môže licencia CC0 použiť ako "efektívna" licencia verejnej sféry, ktorá umožňuje neobmedzené použitie.         ...different countries have different copyright laws, which may limit the ability to choose any license or dedicate work to the public domain. For example, in Germany and other European countries it is not possible to fully waive copyright, and thus fully dedicating work to the public domain is not legally possible. Instead, the CC0 license can be used as an "effective" public domain license that allows unrestricted use.
 
-Interoperabilita licencií: nezabúdajte, že niekedy, keď miešate obsah, ktorý má rôzne licencie, môže byť ťažké uverejniť dielo s odvodeným obsahom. Napríklad materiál šírený pod licenciou Rovnaké Šírenie (SA) sa môže kombinovať len s iným obsahom s licenciou SA.
+Interoperabilita licencií: nezabúdajte, že niekedy, keď kombinujete obsah, ktorý má rôzne licencie, môže byť ťažké uverejniť dielo s odvodeným obsahom. Napríklad materiál šírený pod licenciou Rovnaké Šírenie (SA) sa môže kombinovať len s iným obsahom s licenciou SA.
 
 Vhodnosť licencií: napríklad licencie Creative Commons sa nemajú používať na softvér, na databázy sú k dispozícii špecifické licencie \(Open Data Commons\), licencie CC neboli vhodné na databázy pred verziou 4.0.     
 
