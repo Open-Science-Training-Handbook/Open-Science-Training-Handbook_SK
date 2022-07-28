@@ -3,7 +3,7 @@
 
 ### Čo je to?
 
-Online collaborative platforms connect geographically-dispersed researchers to enable them to cooperate seamlessly on their research, sharing research objects as well and ideas and experiences. Collaborative platforms are usually online services that provide a virtual environment to which multiple people can concurrently connect and work on the same task. These can range from extensive virtual research environments \(VREs\) which encompass a host of tools to facilitate sharing and collaboration, including web forums and wikis, collaborative document hosting, and discipline-specific tools such as data analysis or visualisation, right down to single specific tools which enable researchers to work together in real time on specific aspects of research \(such as writing or analysis\).
+Online kolaboratívne platformy prepájajú výskumníkov, ktorí sa nachádzajú na rôznych vzdialených miestach, a umožňujú im bezproblémovú spoluprácu na výskume, zdieľanie výskumných objektov, ako aj nápadov a skúseností. Kolaboratívne platformy sú zvyčajne online služby, ktoré poskytujú virtuálne prostredie, ku ktorému sa môže pripojiť mnoho ľudí súčasne a pracovať na tej istej úlohe. Kolaboratívne platformy zahŕňajú rozsiahle výskumné prostredia, ktoré ponúkajú veľké množstvo nástrojov na uľahčenie zdieľanie a spolupráce, ako aj webové fóra, wiki, hosting kolaboratívnych dokumentov a nástroje špecifické pre jednotlivé disciplíny ako analýza alebo vizualizácia dát, až po samostatné špecifické nástroje, ktoré umožňujú výskumníkom pracovať spoločne v reálne čase na konkrétnych aspektoch výskumu \(ako je písanie alebo analýza\).
 
 ![](/Images/02%20Open%20Science%20Basics/02_collaborative_platforms.png)
 
