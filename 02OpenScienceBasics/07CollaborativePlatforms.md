@@ -3,55 +3,55 @@
 
 ### Čo je to?
 
-Online kolaboratívne platformy prepájajú výskumníkov, ktorí sa nachádzajú na rôznych vzdialených miestach, a umožňujú im bezproblémovú spoluprácu na výskume, zdieľanie výskumných objektov, ako aj nápadov a skúseností. Kolaboratívne platformy sú zvyčajne online služby, ktoré poskytujú virtuálne prostredie, ku ktorému sa môže pripojiť mnoho ľudí súčasne a pracovať na tej istej úlohe. Kolaboratívne platformy zahŕňajú rozsiahle výskumné prostredia, ktoré ponúkajú veľké množstvo nástrojov na uľahčenie zdieľanie a spolupráce, ako aj webové fóra, wiki, hosting kolaboratívnych dokumentov a nástroje špecifické pre jednotlivé disciplíny ako analýza alebo vizualizácia dát, až po samostatné špecifické nástroje, ktoré umožňujú výskumníkom pracovať spoločne v reálne čase na konkrétnych aspektoch výskumu \(ako je písanie alebo analýza\).
+Online kolaboratívne platformy prepájajú výskumníkov, ktorí sa nachádzajú na rôznych vzdialených miestach, a umožňujú im bezproblémovú spoluprácu na výskume, zdieľanie výskumných objektov, ako aj nápadov a skúseností. Kolaboratívne platformy sú zvyčajne online služby, ktoré poskytujú virtuálne prostredie, ku ktorému sa môže pripojiť mnoho ľudí súčasne a pracovať na tej istej úlohe. Kolaboratívne platformy zahŕňajú rozsiahle výskumné prostredia, ktoré ponúkajú veľké množstvo nástrojov na uľahčenie zdieľanie a spolupráce, ako aj webové fóra, wiki, hosting kolaboratívnych dokumentov a nástroje špecifické pre jednotlivé disciplíny ako analýza alebo vizualizácia dát, až po samostatné špecifické nástroje, ktoré umožňujú výskumníkom pracovať spoločne v reálnom čase na konkrétnych aspektoch výskumu \(ako písanie alebo analýza\).
 
 ![](/Images/02%20Open%20Science%20Basics/02_collaborative_platforms.png)
 
 ### Odôvodnenie
 
-Research collaboration is growing exponentially and teams are becoming ever more interdisciplinary as researchers increasingly work in international and cross-disciplinary consortia to enable a multitude of perspectives on specific research questions. Fostering national and international collaborative research is increasingly a funder priority. It lies, for example, at the heart of EC Research Commissioner Carlos Moedas’ strategy, i.e., ["Open Science, open innovation, open to the world"](https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world).
+Spolupráca v oblasti výskumu narastá exponenciálne a tímy sa stávajú čoraz viac interdisciplinárnejšie, keďže výskumníci viac a viac pracujú v medzinárodných a medziodoborových konzorciách, čo im umožňuje získať množstvo pohľadov na špecifické výskumné otázky. Národná a medzinárodná spolupráca v oblasti výskumu je tiež prioritou finacovateľov výskumu. Napríklad je aj základom stratégie Komisára EK pre výskum, vedu a inovácie Carlosa Moedasa ["Otvorená veda, otvorené inovácie, otvorený svetu (Open Science, open innovation, open to the world)"](https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world).
 
-Virtual Research Environments \(VRE\) and collaborative platforms enable collaboration across continents, time zones and disciplines. In this module you will develop an understanding of collaborative platforms that work today, and how they can greatly enhance your research workflows.
+Virtuálne výskumné prostredie (VRE, z angl. Virtual Research Environments) a kolaboratívne platformy umožňujú spoluprácu naprieč kontinentmi, časovými zónami a disciplínami. V tomto module sa doziete viac o kolaboratívnych platformách, ktoré v súčasnosti funujú, a o tom, ako môžu výrazne zlepšiť vaše pracovné postupy vo výskume.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Ciele vzdelávania
 
-1. Learn what major types of collaborative platforms are available and what the use cases for each might be.
+1. Poznať hlavné typy kolaboratívnych platforiem sú dostupné a v akých prípadoch sa možu použiť.
 
-2. Learn the advantages of such systems.
+2. Poznať výhody takých systémov. 
 
-3. Identify any possible shortcomings of collaborating via such platforms and how to overcome them.
+3. Vedieť identifikovať možné nedostatky spolupráce prostredníctvom takýchto platforiem a to, ako ich prekonať.
 
 ### Kľúčové prvky
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Poznatky a zručnosti
 
-**Virtual research environments \(VREs\)**
+**Virtuálne výskumné prostredia**
 
-Virtual research environments have been defined as "innovative, dynamic, and ubiquitous research supporting environments where scattered scientists can seamlessly access data, software, and processing resources managed by diverse systems in separate administration domains through their browser" \([Candela, Castelli and Pagano, 2013](https://doi.org/10.2481/dsj.GRDI-013)\).
+Virtuálne výskumné prostredie bolo definované "ako inovatívne, dynamické a všqdeprítomné prostredie podporujúce výskum, ktoré umožňuje vedcom na rôznych miestach bezproblémový prístup k dátam, softvéru a zdrojom spracovania pod správou rôznych systémov v oddelených administratívnych doménoch, a to prostredníctvom prehliadača" \([Candela, Castelli and Pagano, 2013](https://doi.org/10.2481/dsj.GRDI-013)\).
 
-An important aspect here is the disciplinary-specific nature of many of these tools. The European Commission has funded a range of community-specific VREs under its eInfrastructure funding stream to enable researchers to collaboratively perform complex tasks such as integrating heterogeneous data from multiple sources, modelling, simulation, data exploration, mining and visualisation:
+Doležitý aspekt týchto nástrojov predstavuje špecifický charakter týchto nástrojov podmienený konkrétnymi disciplínami. Európska komisia financovala vývoj celej škály virtuálnych výskumných prostredí špecifických pre určité komunity v rámci rozvoja e-infraštruktúry, aby umožnila výskumníkom spolupracovať na realizácií takých komplexných úloh ako integrácia heterogénnych dát z viacerých zdrojov, modelovanie, simulácie, prieskum dát, ich hĺbková analýza/dolovanie a vizualizácia:
 
-* [VI-SEEM](https://vi-seem.eu/) - VRE for regional Interdisciplinary communities in Southeast Europe and the Eastern Mediterranean
+* [VI-SEEM](https://vi-seem.eu/) - virtuáne výksumné prostredie pre regionálne medziodborové komunity v juhovýchodnej Európe a východnom Stredomorí   
 
-* [MuG ](https://www.multiscalegenomics.eu/)- Multi-Scale Complex Genomics
+* [MuG ](https://www.multiscalegenomics.eu/)- Multi-Scale Complex Genomics (pozn. prekl. projekt MuG reaguje na najnovšie výpočtové výzvy 3D/4D genomiky prepojením tejto komunity so svetom vysoko výkonného počítania a poskytnutím vhodnej škály súboru nástrojov a infraštruktúry) 
 
-* [OpenDreamKit](http://opendreamkit.org/) - Open Digital Research Environment Toolkit for the Advancement of Mathematics
+* [OpenDreamKit](http://opendreamkit.org/) - súbor nástrojov otvoreného digitálneho výskumného prostredia na rozvoj matematiky
 
-* [BlueBRIDGE](http://www.bluebridge-vres.eu/) - Building Research environments for fostering Innovation, Decision making, Governance and Education to support Blue growth
+* [BlueBRIDGE](http://www.bluebridge-vres.eu/) - vytváranie výskumných protredí podporujúcich inovácie, rozhodovanie, manažment a vzdelávanie s cieľom podpory _modrého_ rastu (pozn. prekl., Blue growth/modrý rast: udržateľný rast v moskom a námornom odvetví)  
 
-* [VRE4EIC](https://www.vre4eic.eu/) - A Europe-wide Interoperable Virtual Research Environment to Empower Multidisciplinary Research Communities and Accelerate Innovation and Collaboration
+* [VRE4EIC](https://www.vre4eic.eu/) - celoeurópske interoperabilné virtuálne výskumné prostredie na posilnenie multidisciplinárnych výskumných komuní a urýchlenie inovácií a spolpráce 
 
-* [West-Life](https://about.west-life.eu/network/west-life/west-life) - World-wide E-infrastructure for structural biology
+* [West-Life](https://about.west-life.eu/network/west-life/west-life) - celosvetová e-infraštruktúra pre štrukturálnu biológiu 
 
 ![](/Images/Icons/datamining.png)
 
-Some libraries already offer personalised VREs for specific projects. For example, [Leiden University library](https://www.library.universiteitleiden.nl/research-and-publishing/collaboration-tools) offers VREs for all externally-funded projects of more than five persons.
+Niektoré knižnice už ponúkajú personalizované virtuálne výskumné prostredia pre špecifické projekty. Napríklad Leidenská univerzitná knižnica ([Leiden University library](https://www.library.universiteitleiden.nl/research-and-publishing/collaboration-tools)) ponúka takéto prostredie pre všetky externe financované projekty, na ktorých pracuje viac ako päť osôb.  
 
-An especially important collaborative platform in the context of Open Science is the [Open Science Framework](https://osf.io/) \(OSF\). Based on open source technologies and created by the not-for-profit [Center for Open Science](https://cos.io/), the OSF brands itself as "a scholarly commons to connect the entire research cycle". The OSF enables researchers to work on projects privately with a limited number of collaborators and make any part or the whole of their project public. It connects directly with many other collaborative systems like dropbox, GitHub and Google Docs, and can be used to store and archive research data, protocols, and materials.
+Mimoriadne dôležitou kolaboratívnou platformou v rámci otvorenej vedy je platforma OSF, [Open Science Framework](https://osf.io/) \(OSF\). Platformu vyvinula nezisková organizácia Centrum otvorene vedy ([Center for Open Science](https://cos.io/)) na základe technológí s otvoreným zdrojovým kódom. OSF samu seba označuje za"spoločný vedecký priestor na prepájanie celého výskumného cyklu". OSF umožňuje výskumníkom pracovať na projektoch súkromne s obmedzeným počtom spolupracovníkov a sprístupňiť verejnosti ktorúkoľvek časť svojho projektu alebo celý projekt. Je priamo prepojená na mnoho iných kolaboratívnych systémov ako dropbox, GitHub a Google Docs a môže sa využívať na uloženie a archivovanie výskumných dát, protokolov a materiálov. 
 
-**Collaborative writing platforms**
+**Kolaboratívne platformy na písanie**
 
 Especially in the currently-predominant "publish or perish" culture of research, writing is a core task in the life of researchers. Several online tools and platforms now enable researchers to work together on documents in real-time, and so avoid the versioning-hell of emailing Word documents back and forth. Platforms include [Overleaf](https://www.overleaf.com/), [Authorea](https://www.authorea.com/), [Fidus Writer](https://www.fiduswriter.org/), [ShareLaTeX](https://www.sharelatex.com) and [Google Docs](https://www.google.com/docs). Note that many of these tools are based on proprietary technologies and some require payment for advanced features.
 
