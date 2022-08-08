@@ -20,51 +20,51 @@ Počiatky recenzného konania siahajú do 17. storočia k londýnskej Kráľovsk
 
 ## <img src="/Images/02 Open Science Basics/02_open_peer_review.png" />
 
-Pokiaľ ide o hodnotenie, súčasné odmeňovanie a metriky v oblasti vedy a vedeckého poznania nie sú \(zatiaľ\) v súlade s otvorenou vedou. Metriky používané na hodnotenie výskumu \(napr. impakt faktor časopisov/Journal Impact Factor, h-index\) nemerajú, a teda neodmeňujú, uplatňovanie postupov otvorenej vedy. Činnosť spojená s otvoreným recenzným konaním sa nie vždy uznáva ako "vedecká činnosť" v rámci odborného rastu a rozvoja \(napríklad v mnohých prípadoch hodnotitelia grantov nepovažujú ani prvotriedne otvorené recenzné posudky za samostatné vedecké práce\). Okrem toho nie sú mnohé hodnotiace metriky, obzvlášť niektoré druhy bibliometrík, také otvorené a transparentné, ako by komunita chcela.
+Pokiaľ ide o hodnotenie, súčasné odmeňovanie a metriky v oblasti vedy a vedeckého poznania nie sú \(zatiaľ\) v súlade s otvorenou vedou. Metriky používané na hodnotenie výskumu \(napr. impakt faktor časopisov/Journal Impact Factor, h-index\) nemerajú, a teda neodmeňujú, uplatňovanie postupov otvorenej vedy. Činnosť spojená s otvoreným recenzným konaním sa nie vždy uznáva ako "vedecká činnosť" v rámci odborného rastu a rozvoja \(napríklad v mnohých prípadoch hodnotitelia grantov nepovažujú ani prvotriedne otvorené recenzné posudky za samostatné vedecké práce\). Okrem toho nie sú mnohé hodnotiace metriky, obzvlášť niektoré druhy bibliometrík, také otvorené a transparentné, ako by si komunita želala.
 
-Under those circumstances, at best Open Science practices are seen as an additional burden without rewards. At worst, they are seen as actively damaging chances of future funding and promotion as well as tenure. A recent [report from the European Commission (2017)](https://doi.org/10.2777/75255) recognizes that there are basically two approaches to Open Science implementation and the way rewards and evaluation can support that:
+Za týchto okolností sú postupy otvorenej vedy prinajlepšom vnímané ako ďalšia záťaž bez odmeny. V tom horšom prípade sú považované za niečo, čo aktívne poškodzuje šance na získanie budúcich financií a bráni v kariérnom postupe a získaniu stáleho miesta, definitíy (tenure). [Správa Európskej komisie z roku 2017](https://doi.org/10.2777/75255) uvádza, že v podstate existujú dva prístupy k implementácii otvorenej vedy a spôsobu odmeňovania a hodnotenia, ktoré to môžu podporiť:
 
-1. Simply support the status quo by encouraging more openness, building related metrics and quantifying outputs;
+1. Podpora súčasného stavu podporovaním väčšej otvorenosti, tvorbou súvisiacich metrík a kvantifikáciou výstupov.
 
-2. Experiment with alternative research practices and assessment, open data, citizen science and open education.
+2. Experimentovanie s alternatívnymi výskumnými postupmi a hodnotením, otvorenými dátami, občianskou vedou a otvoreným vzdelávaním.
 
-More and more funders and institutions are taking steps in these directions, for example by moving away from simple counts, and including narratives and indications of societal impact in their assessment exercises. Other steps funders are taking are allowing more types of research output \(such as preprints\) in applications and funding different types of research \(such as replication studies\).
+Čoraz viac financovateľov a inštitúcií robí kroky smerom otovrenej vede, napríklad odkláňajú sa od jednoduchých výpočtov a do svojich hodnotení zahŕňajú naratívy a ukazovatele spoločenského dopadu. Iné opatrenia, ktoré finacovatelia príjímajú, umožňujú uvádzať v žiadostiach viacero typov výstupov výskumu \(ako preprinty\) a financovanie rôznych typov výskumu \(ako replikačný výskum (replication studies)\).
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Ciele vzdelávania
 
-1. Recognise the key elements of open peer review and their potential advantages and disadvantages
-2. Understand the differences between types of metrics used to assess research and researchers
-3. Engage with the debate over the way in which evaluation schema affect the ways in which scholarship is performed
+1. Poznať kľúčové prvky otvoreného recenzného konania a ich potenciálne výhody a nevýhody. 
+2. Porozumieť rozdielom medzi metrikami používanými na hodnotenie výskumu a výskumníkov.
+3. Zapojiť sa do diskusie o dopade hodnotiacich systémov na vykonávanie vedeckého výskumu.   
 
 ### Kľúčové prvky
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
 ### Poznatky
 #### Otvorené recenzné konanie
 
-Popular venues for OPR include journals from publishers like Copernicus, Frontiers, BioMed Central, eLife and F1000research.
+Medzi obľúbené miesta realizácie otvoreného recenzného konania patria časopisy vydavateľstiev ako Copernicus, Frontiers, BioMed Central, eLife a F1000research.
 
-Open peer review, in its different forms, has many potential advantages for reviewers and authors:
+Otvorené recenzné konanie vo svojich rôznych formách prináša recenzentom a autorom mnoho potenciálnych výhod:
 
-* Open identities \(non-blinded\) review fosters greater accountability amongst reviewers and reduces the opportunities for bias or undisclosed conflicts of interest.
+* Recenzné konanie s otvorenými identitami \(nezaslepené\) alebo neanonymné recenzné konanie podporuje väčšiu zodpovednosť medzi recenzentami a redukuje príležitosť na nekorektné hodnotenie (bias) alebo nezverejnenie konfliktu záujmov.
 
-* Open review reports add another layer of quality assurance, allowing the wider community to scrutinize reviews to examine decision-making processes.
+* Otvorené recenzné hodnotenia predstavujú ďalšiu vrstvu zabezpečenia kvality a umožňujú širšej komunite preskúmať hodnotenia s cieľom preveriť proces rohodovania.
 
-* In combination, open identities and open reports are theorized to lead to better reviews, as the thought of having their name publicly connected to a work or seeing their review published encourages reviewers to be more thorough.
+* Predpokladá sa, že otvorené identity a otvorené hodnotenia v kombinácii povedú ku kvalitnejším recenziám, keďže vedomie toho, že meno recenzenta bude verejne spojené s prácou alebo to, že uvidia svoju recenziu publikovanú, povzbudí recenzentov k tomu, aby boli dôkladnejší.
 
-* Open identities and open reports enable reviewers to gain public credit for their review work, thus incentivising this vital activity and allowing review work to be cited in other publications and in career development activities linked to promotion and tenure.
+* Otvorené identity a otvorené hodnotenia umôžňujú recenzentom získať verejné uznanie za svoju prácu v oblasti recenzovania, čo vedie k väčšj motiváciu vykonávať túto dôležitú činnosť a možnosti citovať recenzie v iných publikácich a prepojeniu činností profesionálneho rozvoja s kariérnym postupom a získaním stáleho miesta, definitíy (tenure).
 
-* Open participation could overcome problems associated with editorial selection of reviewers \(e.g., biases, closed-networks, elitism\). Especially for early career researchers who do not yet receive invitations to review, such open processes may also present a chance to build their research reputation and practice their review skills.
+* otvorená participácia by mohla prekonať prepblémy spojené s redakčným výberom recenzentov \(napríklad zaujatosť, uzavreté siete, elitárstvo\). Najmä pre začínajúcich vedeckých pracovníkov (early career researchers), ktorí ešte nedostávajú pozvania recenzovať, môže takýto otvorený proces môže predstavovať šancu na to, aby si vybudovali svoje výskumné renomé a zdokonaľovali recenzentské zručnosti.
 
-There are some potential pitfalls to watch out for, including:
+Existuje niekoľko potenciálnych nástrah, na ktoré si treba dávať pozor:
 
-* Open identities removes anonymity conditions for reviewers \(single-blind\) or authors and reviewers \(double-blind\) which are traditionally in place to counteract social biases \(although there is not strong-evidence that such anonymity has been effective\). It’s therefore important for reviewers to constantly question their assumptions to ensure their judgements reflect only the quality of the manuscript, and not the status, history, or affiliations of the author\(s\). Authors should do the same in receiving peer review comments.
+* Otvorené identity odstraňujú anonymitu recenzentov \(jednostranne zaslepené\) alebo anonymitu autorov a recenzentov \(dvojito zaslepené\), ktoré sa zvyčajne uplatňujú, aby sa predišlo spoločenskej predpojatosti \(hoci neexistujú presvedčivé dôkazy o tom, že taktáto anonymita je účinná\). Recenzenti preto musia neustále skúmať svoje predpoklady a domnienky, aby zaistili, že ich posudok odráža iba kvalitu rukopisu a nie postavenie, minulosť alebo afiliácie autora/autorov. Autori by mali postupovať rovnako pri prijímaní pripomienok v rámci recenzného konania. 
 
-* Giving and receiving criticism is often a process fraught with unavoidably emotional reactions - authors and reviewers may subjectively agree or disagree on how to present the results and/or what needs improvement, amendment or correction. In open identities and/or open reports, the transparency could exacerbate such difficulties. It is therefore essential that reviewers ensure that they communicate their points in a clear and civil way, in order to maximise the chances that it will be received as valuable feedback by the author\(s\).
+* Kritika a prijímanie kritiky je proces často nevyhnutne plný emocionálnych reakcií – autori a recenzenti môžu subjektívne súhlasiť alebo neúshlasiť s tým, ako sa majú prezentovať výsledky a/alebo čo treba zlepšiť, zmeniť alebo opraviť. Otvorené identity a/alebo otvorené hodnotenia by mohli tieto ťažkosti ešte vystupňovať. Recenzenti preto musia zaistiť, že komunikujú svoje pripomienky jasným a slušným spôsobom, aby maximalizovali šancu, že ich pripomineky autori prijmú ako cennú spätnú väzbu.       
 
-* Lack of anonymity for reviewers in open identities review might subvert the process by discouraging reviewers from making strong criticisms, especially against higher-status colleagues.
+* Nedostatok anonymity pre recenzetov pri recenznom procese s otvorenými identitami by mohol poškodiť proces tým, že by odradil recenzentov od vyslovenia silnej kritiky, obzlášť proti kolegom s vyšším postavením. 
 
-* Finally, given these issues, potential reviewers may be more likely to decline to review.
+* Vzhľadom na tieto problémy môže byť pravdepodobnejšie, že potenciálni recenzenti odmietnu recenzovať. 
 
 #### Otvorené metriky
 
