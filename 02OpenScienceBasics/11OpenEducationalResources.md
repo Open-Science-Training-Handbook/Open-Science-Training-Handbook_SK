@@ -1,27 +1,26 @@
 ## <img src="/Images/Icons/open_education.png" width="200" height="200" />
-## 11. Open Educational Resources
+## 11. Otvorené vzdelávacie zdroje
 
-### What is it?
+### Čo je to?
 
-Open Educational Resources (OER) are defined as "teaching, learning and research materials in any medium – digital or otherwise – that reside in the public domain or have been released under an open license that permits no-cost access, use, adaptation and redistribution by others with no or limited restrictions" ([William and Flora Hewlett Foundation definition](https://www.hewlett.org/strategy/open-educational-resources/)). Open educational resources include full courses, course materials, modules, textbooks, streaming videos, tests,  images, software, and any other tools, materials, or techniques used to support access to knowledge.
+Otvorené vzdelávacie zdroje (v zahraničí známe pod skratkou OER, z angl. Open Educational Resources) sú definované ako "výučbové, vzdelávacie a výskumné materiály na akomkoľvek médiu, digitálnom alebo inom, voľne dostupné verejnosti (public domain) alebo sprístupnené pod otvorenou licenciou, ktorá umožňuje iným bezplatný prístup, použitie, úpravu a redistribúciu bez akýchkoľek obmedzení alebo len s minimálnymi obmedzeniami" ([definícia nadácie William and Flora Hewlett Foundation](https://www.hewlett.org/strategy/open-educational-resources/)). Otvorené vdelávacie zdroje zahŕňajú kompletné kurzy, materiály ku kurzom, moduly, učebnice, videá (streamovanie), testy, obrázky, softvér a iné nástroje, materiály alebo techniky vyuzívané na podporu prístupu k poznatkom.     
 
-### Rationale
+### Odôvodnenie
 
-In many cases open educational resources are build upon research findings. If you are an Open Science practitioner it makes sense that your educational resources maintain the level of openness of your research. Moreover other instructors could use your material to elaborate new resources or adapt existing ones. In fact the creation of educational resources can be seen as a cycle similar to the research cycle: find, compose, adapt, use, and share ([wikieducator.org/OER_Handbook/educator/OER_Lifecycle](http://wikieducator.org/OER_Handbook/educator/OER_Lifecycle)).
+Otvorené vzdelávacie zdroje sa často vytvárajú na základe výskumných výsledkov. Ak sa venujete otvorenej vede, je logické, že vaše vzdelávacie zdroje zachovávajú úroveň otvorenosti vášho výskumu. Okrem toho môžu iní inštruktori využiť váš materiál na vytvorenie nového alebo prispôsobenie už existujúcich materiálov. Na tvorbu vzdelávacích materiálov sa vlastne môžeme pozerať ako na cyklus podobný výskumnému cyklu: nájsť, zostaviť, prispôsobiť, použiť a zdieľať ([wikieducator.org/OER_Handbook/educator/OER_Lifecycle](http://wikieducator.org/OER_Handbook/educator/OER_Lifecycle)).
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Ciele vzdelávania
 
-1. Participants should learn the difference between open and non-open educational resources.
-2. Licensing is an essential part and indicates how to easily use and combine OER.
-3. Participants should know where to find and place created OER resources.
+1. Účastníci vzdelávania by mali vedieť rozdiel medzi otvorenými a zatvorenými vzdelávacími zdrojmi.
+2. Účastníci by mali vedieť, že licencie sú kľúčovým prvkom a naznačujú, ako jednoducho používať a kombinovať otvorené vzdelávacie zdroje. 
+3. Účastníci by mali vedieť, kde majú vyhľadať a umiestniť vytvorené otvorené vzdelávacie zdroje.
 
-### Key components
+### Kľúčové prvky
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Knowledge and Skills
+#### Poznatky a zručnosti
 
-Open Educational Resources are only OER, if they have an open license. However, there is no clear guideline for the choice of license for your resource. So what kind of license is appropriate? In practice, Creative Commons (CC) licenses are most often used for OER. 
-Open Creative Commons licenses are [CC0 (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/), [CC BY (Attribution)](https://creativecommons.org/licenses/by/4.0/) and [CC BY-SA (Attribution-ShareAlike)](https://creativecommons.org/licenses/by-sa/4.0/), which can be used for most educational resources. For the distribution of databases under a free license, Creative Commons is not ideal. Rather, choose a specially suitable open license such as ODbl, ODC-BY or PDDL to be legally compliant.
+Otvorené vzdelávacie zdroje sa považujú za otvorené iba, ak majú otvorenú licenciu. Avšak na výber licencie na vzdelávací zdroj nie sú k dispozíci žiadne jasné usmernenia, takže aký druh licencie je vhodný? V praxi sa na otvorené vzdelávacie zdroje najčastejšie využívajú licencie Creative Commons (licencie CC). Otvorené licencie Creative Commons sú licencie [CC0 (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/), [CC BY (Attribution)](https://creativecommons.org/licenses/by/4.0/), Uvedenie Autora, a [CC BY-SA (Attribution-ShareAlike)](https://creativecommons.org/licenses/by-sa/4.0/), Uvedenie Autota-Rovnaké Šírenie, ktoré sa dajú použíť na väčšinu vzdelávacích zdrojov (viac informácií o licenciách CC v slovenčine nájdete na stránke otvorenáveda.cvtisr.sk  . Licencie Creative Commons nie sú najvhodnejšie na šírenie databáz pod slobodnou liceniou (free license). Na dodržanie súladu s právnymi predpismi zvoľte radšej špecifickú otvorenú vhodú licenciu ako napríklad ODbl, ODC-BY alebo PDDL.
 
 It is important to stress the need to define who holds copyright or any other related rights of the research output. The copyright holder is the one who can decide to lift restrictions if they are not lifted by default through the licenses. Licenses should therefore be explained in detail to properly attribute authors and to create true OER. This also includes the combination of different license types and its consequences.
 
@@ -34,14 +33,14 @@ Examples for OER platforms are:
 - [OERCommons](https://www.oercommons.org/) for educational resources
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Otázky, prekážky a bežné mylné predstavy
 
 Q: How can you ensure quality of the materials?
 
 A: This is not always a given. So far there is no quality seal for OER materials. Open user comments, peer review, and the publication of materials on platforms of established institutions like e.g. universities can provide a first indication of quality. Just as with printed text materials, quality can though not be guaranteed. This unsettles many users. The actuality and adaptability of the materials nevertheless speaks for the use of OER. At the end of the day, you only know yourself whether the selected material is suitable for the intended purpose and whether its content is correct.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Výsledky vzdelávania
 
 1. Trainees will be able to distinguish between copyrighted and free materials. 
 2. The combination of different license types and their effects will be known. 
