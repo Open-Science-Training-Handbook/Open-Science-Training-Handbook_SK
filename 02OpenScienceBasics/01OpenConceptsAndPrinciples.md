@@ -36,7 +36,7 @@ Otvorená veda, ako je definovaná vyššie v texte, zahŕňa veľké množstvo 
 
 3. Získať prehľad o vývoji v oblasti otvorenej vedy a osobnom dopade na výskumníkov, výskum a spoločnosť vo všeobecnosti.
 
-### Kľúčové komponenty
+### Kľúčové prvky
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
 
 ![](/Images/02%20Open%20Science%20Basics/02_open_concepts_and_principles.png)
