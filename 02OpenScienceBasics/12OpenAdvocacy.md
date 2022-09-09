@@ -1,26 +1,26 @@
 ## <img src="/Images/Icons/shout.png" width="200" height="200" />
-## 12. Open Advocacy
+## 12. Verejná podpora a presadzovanie otvorenej vedy
 
-### What is it?
+### Čo je to?
 
-Advocacy in all its forms seeks to ensure that people, particularly those who are most vulnerable in society, are able to:
+Verejná obhajoba či podpora (advocacy) sa vo všetkých svojich formách snaží zaistiť, aby ľudia, obzvlášť tí v spoločnosti najzraniteľnejší:
 
-* Have their voice heard on issues that are important to them. Advocacy means giving voice to a group.
+* mali právo vyjadriť sa k otázkam, ktoré sú pre nich dôležité. Verejná obhajoba či podpora (advocacy) znamená dať skupine ľudí hlas,
 
-* Defend and safeguard their rights.
+* mohli brániť a ochraňovať svoje práva,
 
-* Have their views and wishes genuinely considered when decisions are being made about their lives.
+* aby sa ich názory a želania skutočne zohľadňovali, keď sa rozhoduje o ich životoch.
 
-Advocacy include actions of defending, influencing, changing, decision-making, persuading, lobbying, attracting attention.
+Verejná obhajoba či podpora zhŕňa činnosti ako obhajovanie/chránenie, ovplyvňovanie, zmeny, rozhodovanie, presviedčanie, lobovanie či získanie pozornosti.
 
-Open Advocacy focuses on the movement to promote Open Science at various levels of stakeholders, highlighting and stressing the societal, professional and personal advantages that it entails.
+Verejná podpora a presadzovanie otvorenej vedy sa zameriava na hnutie podpory otvorenej vedy na rôznych úrovniach úrovniach zainteresovaných strán, pričom kladie dôraz na spoločenské, profesijné a osobné prínosy, ktoré otvorená veda prináša.     
 
-### Rationale
+### Odôvodnenie
 
-Trainings \(workshops, seminars, presentations\) can be used as advocacy tools. The structured approach to advocacy practices helps to address the main issues the trainer has to keep in mind if the training is connected to an Open Science advocacy program. how to use advocacy strategies as tools for effecting specific changes, and on building the basic skills necessary for employing advocacy tools \(e.g., ad campaigns, meetings with policymakers\). Training here is considered as a tool for effecting specific changes, and for building an Open Science advocate community.
+Vzdelávanie \(workshopy, semináre, prezentácie\) sa možu využiť ako nástroje verejnej podpory. Štruktúrovaný prístup k postupom verejnej podpory pomáha riešiť hlavné otázky, na ktoré musí školiteľ myslieť, ak je vzdelávanie spojené s programom verejnej podpory a presadzovania otvorenej vedy: ako používať stratégie verejnej podpory ako nástroje na dosiahnutie konkrétnych zmien a ako budovať základné zručnosti potrebné na využívanie nástrojov verejnej podpory \(napríklad reklamné kampane, stretnutia s politkmi\).Takéto vzdelávanie sa považuje za nástroj na dosiahnutie konkrétnych znien a budovanie komunity podporovateľov otvorenej vedy. The structured approach to advocacy practices helps to address the main issues the trainer has to keep in mind if the training is connected to an Open Science advocacy program. how to use advocacy strategies as tools for effecting specific changes, and on building the basic skills necessary for employing advocacy tools \(e.g., ad campaigns, meetings with policymakers\). Training here is considered as a tool for effecting specific changes, and for building an Open Science advocate community.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Ciele vzdelávania 
 
 1. Understand the context and goals of the advocacy program
 2. Be able to communicate effectively with audiences and draw community’s attention to an important issue and directing decision makers toward a resolution.
