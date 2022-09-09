@@ -22,31 +22,31 @@ Vzdelávanie \(workshopy, semináre, prezentácie\) sa možu využiť ako nástr
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Ciele vzdelávania 
 
-1. Understand the context and goals of the advocacy program
-2. Be able to communicate effectively with audiences and draw community’s attention to an important issue and directing decision makers toward a resolution.
+1. Porozumieť kontextu a cieľom programu verejnej podpory 
+2. Dokázať efektívne komunikovať s rôznymi skupinami ľudí a pritiahnuť pozornosť komunity na dôležité otázky a inšpirovať politikov a rozhodujúce orgány na prijatie riešení.  
 
-### Key components
+### Kľúčové prvky
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
-#### Knowledge
+#### Poznatky
 
-##### Objectives to achieve
+##### Ciele na dosiahnutie
 
-**SMART** is a way of reminding you that your objectives should be:
+**SMART** je spôsob, ktorý vám pripomenie, že vaše ciele majú byť (anglické slovo _smart_ znamená _bystrý, inteligentný_):
 
-**S**pecific — by this we mean that you need to set a specific objective for your programmes.
+**S**pecific/špecifický — znamená to, že je potrebné stanoviť si konkrétny ciel pre svoje programy.
 
-**M**easurable — your objective should be measurable.
+**M**easurable/merateľný — cieľ by mal byť merateľný.
 
-**A**chievable — the objective should be attainable or practicable.
+**A**chievable/dosiahnuteľný — cieľ by mal dať dosiahnuť alebo uskutočniť.
 
-**R**ealistic — which also means credible.
+**R**ealistic/realistický — čo tiež znamená dôveryhodný.
 
-**T**ime-bound — and should be accomplished and achieved within a certain amount of time.
+**T**ime-bound/termínovaný — mal by byť splnený a dosiahnutý v rámci určitého časového obobia/termínu.
 
-Objectives can be long term or short term. Long-term objectives usually focus on changing the policy or practice of institutions, whereas shorter-term objectives can focus on attitude changes, raising awareness, getting an issue on the agenda, building a constituency of support or movement for change. It may be necessary to achieve some of the short-term objectives before you can achieve the longer-term ones.
+Ciele môžu byť dlhodobé a krátkodobé. Dlhdobé ciele sa zvyčajne zamieriavajú na zmenu inštitucionálnych politík alebo postupov. Krátkodobé ciele sa môžu sústrediť na zmenu postojov, zvyšovanie povedomia, zviditeľnenie otázky, budovanie podpornej skupiny alebo hnutia za zmenu.Možno bude treba dosiahnuť niektoré krátkodobé ciele, predtým ako budete môcť dosiahnuť tie dlhodobé.  
 
-Main goals of advocacy program:
+Hlavné ciele programu verejnej podpory:
 
 * To increase awareness among influential groups and the public
 
@@ -60,7 +60,7 @@ Main goals of advocacy program:
 
 * To maintain the involvement of decision-makers and the public l by disseminating information on achievements to date and future challenges.
 
-##### Steps to good advocacy
+##### Kroky smerom k dobrej verejnej podpore
 
 1. Define your goals
    1. What needs changing?
@@ -83,7 +83,7 @@ Main goals of advocacy program:
 8. Plan next steps, identify achievable goals that set stage for larger work: advocacy strategy/plan
 9. Evaluate effectiveness regularly
 
-##### Aspects of advocacy
+##### Aspekty verejnej podpory
 
 * Advocating for your own rights as an author
 
@@ -95,7 +95,7 @@ Main goals of advocacy program:
 
 * Talking to policymakers
 
-##### Tools and methods
+##### Nástroje a metódy
 
 **Indirect**: stimulate participants to take action on their own behalf
 
@@ -122,7 +122,7 @@ Main goals of advocacy program:
 * Use of social media \(Twitter, Facebook\)
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Skills
+#### Zručnosti
 
 * Write a letter for a newsletter or forum for your scholarly society about Open Access.
 
@@ -133,19 +133,19 @@ Main goals of advocacy program:
 * Find your local advocacy group and volunteer for them!
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Otázky, prekážky a bežné mylné predstavy
 
 Lack of interest from audiences. Lack of understanding the value.
 
 The institution and/or senior management is concerned about the impact of the advocacy efforts.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Výsledky vzdelávania
 
 The trainer will be able to consider the training event in the context of a program.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Ďalšie odporúčané čítanie
 
 * A Crowdsourced Resource by OpenCon attendees. Starting Open Projects From Scratch. [CC Zero Google Doc](https://docs.google.com/document/d/1qSXBZa3-uBKdkFCkukt5lxRsYoREWNYf0_2OpOnh3mQ/edit?usp=sharing) 
 
