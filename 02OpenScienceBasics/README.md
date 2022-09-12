@@ -18,5 +18,5 @@ Každá časť má štruktúru, ktorá zahŕňa krátky opis témy; vysvetlenie 
 * [9. Politiky otvorenej vedy](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/09OpenSciencePolicies.md)
 * [10. Občianska veda](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/10CitizenScience.md)
 * [11. Otvorené vzdelávacie zdroje](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/11OpenEducationalResources.md)
-* [12. Podpora a presadzovanie otvorenej vedy/Open Advocacy](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/12OpenAdvocacy.md)
+* [12. Verejná podpora a presadzovanie otvorenej vedy/Open Advocacy](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/12OpenAdvocacy.md)
 
