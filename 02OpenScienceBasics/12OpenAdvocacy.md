@@ -1,5 +1,5 @@
 ## <img src="/Images/Icons/shout.png" width="200" height="200" />
-## 12. Verejná podpora a presadzovanie otvorenej vedy
+## 12. Verejná podpora a presadzovanie otvorenej vedy (Open Advocacy)
 
 ### Čo je to?
 
