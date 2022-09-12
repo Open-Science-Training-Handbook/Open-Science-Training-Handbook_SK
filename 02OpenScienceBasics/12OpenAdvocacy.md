@@ -13,11 +13,11 @@ Verejná obhajoba či podpora (advocacy) sa vo všetkých svojich formách snaž
 
 Verejná obhajoba či podpora zhŕňa činnosti ako obhajovanie/chránenie, ovplyvňovanie, zmeny, rozhodovanie, presviedčanie, lobovanie či získanie pozornosti.
 
-Verejná podpora a presadzovanie otvorenej vedy sa zameriava na hnutie podpory otvorenej vedy na rôznych úrovniach úrovniach zainteresovaných strán, pričom kladie dôraz na spoločenské, profesijné a osobné prínosy, ktoré otvorená veda prináša.     
+Verejná podpora a presadzovanie otvorenej vedy sa zameriava na hnutie podpory otvorenej vedy na rôznych úrovniach zainteresovaných strán, pričom kladie dôraz na spoločenské, profesijné a osobné prínosy, ktoré otvorená veda prináša.     
 
 ### Odôvodnenie
 
-Vzdelávanie \(workshopy, semináre, prezentácie\) sa možu využiť ako nástroje verejnej podpory. Štruktúrovaný prístup k postupom verejnej podpory pomáha riešiť hlavné otázky, na ktoré musí školiteľ myslieť, ak je vzdelávanie spojené s programom verejnej podpory a presadzovania otvorenej vedy: ako používať stratégie verejnej podpory ako nástroje na dosiahnutie konkrétnych zmien a ako budovať základné zručnosti potrebné na využívanie nástrojov verejnej podpory \(napríklad reklamné kampane, stretnutia s politkmi\).Takéto vzdelávanie sa považuje za nástroj na dosiahnutie konkrétnych znien a budovanie komunity podporovateľov otvorenej vedy. The structured approach to advocacy practices helps to address the main issues the trainer has to keep in mind if the training is connected to an Open Science advocacy program. how to use advocacy strategies as tools for effecting specific changes, and on building the basic skills necessary for employing advocacy tools \(e.g., ad campaigns, meetings with policymakers\). Training here is considered as a tool for effecting specific changes, and for building an Open Science advocate community.
+Vzdelávanie \(workshopy, semináre, prezentácie\) sa môžu využiť ako nástroje verejnej podpory. Štruktúrovaný prístup k postupom verejnej podpory pomáha riešiť hlavné otázky, na ktoré musí školiteľ myslieť, ak je vzdelávanie spojené s programom verejnej podpory a presadzovania otvorenej vedy: ako používať stratégie verejnej podpory ako nástroje na dosiahnutie konkrétnych zmien a ako budovať základné zručnosti potrebné na využívanie nástrojov verejnej podpory \(napríklad reklamné kampane, stretnutia s politikmi\).Takéto vzdelávanie sa považuje za nástroj na dosiahnutie konkrétnych zmien a budovanie komunity podporovateľov otvorenej vedy. _The structured approach to advocacy practices helps to address the main issues the trainer has to keep in mind if the training is connected to an Open Science advocacy program. how to use advocacy strategies as tools for effecting specific changes, and on building the basic skills necessary for employing advocacy tools \(e.g., ad campaigns, meetings with policymakers\). Training here is considered as a tool for effecting specific changes, and for building an Open Science advocate community._
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Ciele vzdelávania 
@@ -42,107 +42,107 @@ Vzdelávanie \(workshopy, semináre, prezentácie\) sa možu využiť ako nástr
 
 **R**ealistic/realistický — čo tiež znamená dôveryhodný.
 
-**T**ime-bound/termínovaný — mal by byť splnený a dosiahnutý v rámci určitého časového obobia/termínu.
+**T**ime-bound/termínovaný — mal by byť splnený a dosiahnutý v rámci určitého časového obdobia.
 
-Ciele môžu byť dlhodobé a krátkodobé. Dlhdobé ciele sa zvyčajne zamieriavajú na zmenu inštitucionálnych politík alebo postupov. Krátkodobé ciele sa môžu sústrediť na zmenu postojov, zvyšovanie povedomia, zviditeľnenie otázky, budovanie podpornej skupiny alebo hnutia za zmenu.Možno bude treba dosiahnuť niektoré krátkodobé ciele, predtým ako budete môcť dosiahnuť tie dlhodobé.  
+Ciele môžu byť dlhodobé a krátkodobé. Dlhodobé ciele sa zvyčajne zameriavajú na zmenu inštitucionálnych politík alebo postupov. Krátkodobé ciele sa môžu sústrediť na zmenu postojov, zvyšovanie povedomia, zviditeľnenie otázky, budovanie podpornej skupiny alebo hnutia za zmenu. Možno bude treba dosiahnuť niektoré krátkodobé ciele, predtým ako budete môcť dosiahnuť tie dlhodobé.  
 
 Hlavné ciele programu verejnej podpory:
 
-* To increase awareness among influential groups and the public
+* Zvýšenie povedomie medzi vplyvnými skupinami a verejnosťou.
 
-* To reduce stigma and fear
+* Zníženie stigmy a strachu.
 
-* To engage and mobilize key stakeholders within the community who will champion the development
+* Zapojenie a mobilizácia hlavných zainsteresovaných strán v rámci komunity, ktoré budú presadzovať rozvoj otvorenej vedy.
 
-* To expand advocacy groups, including community volunteers
+* Rozšírenie skupín verejnej podpory, vrátane komunity dobrovoľníkov.
 
-* To mobilize resources to support the implementation of key priority \(core\) interventions
+* Mobilizovanie zdroje na podporu implementácie kľúčových prioritných \(základných\) intervencií.
 
-* To maintain the involvement of decision-makers and the public l by disseminating information on achievements to date and future challenges.
+* Zachovanie zapojenia rozhodujúcich orgánov a verejnosti šírením informácií o doteraz dosiahnutých výsledkoch a úspechoch a budúcich výzvach.
 
 ##### Kroky smerom k dobrej verejnej podpore
 
-1. Define your goals
-   1. What needs changing?
-   2. What do we want to ask for? Changing legislation, policy, regulation, programs, funding
-2. Understand your audience: different strategies for each target
-3. Build a profile of open access stakeholders and their attitudes
-4. Craft your message: create compelling messages that appeal to stakeholders’ interests
-   1. Be clear on what we are asking for
-   2. Keep it simple and focussed
-   3. Use positive language
-   4. Use evidence - facts carry more weight than anecdotal evidence
-   5. Economic arguments are important
-5. Plan and develop your communication and advocacy campaign
-6. Identify delivery methods:
-   1. Advocacy is relationship building,
-   2. Tactics change by target audience
-7. Identify Resources and Gaps:
-   1. Do a SWOT \(strengths, weaknesses, opportunities and threats\) analysis
-   2. Build on existing resources and opportunities
-8. Plan next steps, identify achievable goals that set stage for larger work: advocacy strategy/plan
-9. Evaluate effectiveness regularly
+1. Definujte svoje ciele
+   1. Čo treba zmeniť?
+   2. O čo chceme požiadať? Zmenenie legislatívy, politiky, nariadenia, programy, financovanie.
+2. Poznajte svoje publikum: rôzne stratégie pre každý cieľ. 
+3. Vytvorte profil strán zainteresovaných do otvoreného prístupu a ich postojov _Build a profile of open access stakeholders and their attitudes_
+4. Vytvorte svoje posolstvo : vytvorte presvedčivý odkaz, ktoré osloví zainteresované strany a pritiahne ich záujem.
+   1. Jasne vyjadrite, čo požadujeme. ? Ujasnite si, čo požadujeme.  _Be clear on what we are asking for_
+   2. Vyjadrujte sa jednoducho a priamo.  _Keep it simple and focussed_
+   3. Používajte pozitívne formulácie.  Use positive language
+   4. Používajte dôkazy – fakty majú väčšiu váhu ako neoficiálne tvrdenia (anecdotal evidence).   - facts carry more weight than anecdotal evidence
+   5. Ekonomické argumenty sú dôležité.
+5. Naplánujte si a rozvíjajte svoju komunikačnú a propagačnú kampaň.
+6. Identifikujte metódy poskytovania ? oslovenia ? práce   _Identify delivery methods_:
+   1. Verejná podpora a presadzovanie  znamená budovanie a rozvíjanie vzťahov. _Advocacy is relationship building_,
+   2. Taktiku prispôsobte cieľovému publiku. 
+7. Identifikujte zdroje a medzery/rozdiely:
+   1. Urobte SWOT analýzu \(SWOT: strengths (silné stránky), weaknesses (slabé stránky), opportunities (príležitosti) a threats (hrozby)\) 
+   2. Stavajte na existujúcich zdrojoch a príležitostiach. 
+8. Plánujte ďalšie kroky, identifikujte dosiahnuteľné ciele, ktoré pripravia pôdu rozsiahlejšej práci: stratégii/plánu verejnej podpory 
+9. Pravidelne vyhodnocujte efektívnosť a účinnosť.
 
 ##### Aspekty verejnej podpory
 
-* Advocating for your own rights as an author
+* Verejná podpora a presadzovanie svojich vlastných práv ako autora.
 
-* The basic steps for achieving local culture change ([Kotter n.y.](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html))
+* Základné kroky na dosiahnutie zmeny miestnej kultúry ([Kotter n.y.](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html)).
 
-* Advocating to your peers: Writing letters and articles advocating for Open
+* Verejná podpora otvorenej vedy medzi kolegami: písanie listov a článkov verejne podporujúcich otvorenosť.
 
-* Talking to journal editors - having the OA conversation with your field
+* Rozhovory s redaktormi časopisov – diskusia o otvorenom prístupe vo vašej oblasti. 
 
-* Talking to policymakers
+* Rozhovory s politikmi a rozhodujúcimi orgánmi. 
 
 ##### Nástroje a metódy
 
-**Indirect**: stimulate participants to take action on their own behalf
+**Nepriame**: povzbudzovanie účastníkov, aby začali konať sami za seba.
 
-**Direct:** lobbying before decision makers by representatives on behalf of others
+**Priame:** lobovanie medzi politikmi a rozhodujúcimi orgánmi v mene iných.   _lobbying before decision makers by representatives on behalf of others_
 
-**Campaigning:** generating a response from the wider public and using a variety of techniques such as:
+**Kampane:** vytváranie reakcií/ohlasu zo strany širšej verejnosti a využívanie rôznych metód ako:    _reakcií generating a response from the wider public and using a variety of techniques such as:_
 
-* Chain e-mail or letter
+* reťazový email alebo list 
 
-* Opinion pieces and letters to the editor in newspapers
+* názory a listy zaslané redaktorovi v novinách 
 
-* Newsletters
+* informačný bulletin (newsletter)
 
-* Celebrity endorsements
+* podpora celebrít
 
-* Media partnerships with newspapers, journalists and film-makers
+* mediálne partnerstvo s novinami, novinármi a filmármi
 
-* Web-based bulletins and online discussions
+* internetový bulletiny a online diskusie 
 
-* Public events
+* verejné podujatia
 
-* Large-scale advertising campaigns
+* rozsiahle propagačné kampane 
 
-* Use of social media \(Twitter, Facebook\)
+* využitie sociálnych médií \(Twitter, Facebook\)
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Zručnosti
 
-* Write a letter for a newsletter or forum for your scholarly society about Open Access.
+* Napíšte list o otvorenom prístupe do informačného bulletinu alebo na fórum svojej vedeckej ? akademickej ? učenej spoločnosti.  Write a letter for a newsletter or forum for your scholarly society about Open Access.
 
-* Make your own email template reply about only reviewing for OA journals, etc. Reuse/base it on ones out there already.
+* Pripravte si vlastnú emailovú šablónu odpovede o tom, že recenzujete iba pre časopisy s otvoreným prístupom atď. Použite už existujúce šablóny.    Make your own email template reply about only reviewing for OA journals, etc. Reuse/base it on ones out there already.
 
-* Outline concrete solutions and benefits Open Science can deliver for current headaches university administrators may struggle with.
+* Načrtnite konkrétne riešenia a výhody, ktoré môže otvorená veda poskytnúť univerzitám na vyriešenie problémov a ťažkostí, ktorým v súčasnosti čelia. Outline concrete solutions and benefits Open Science can deliver for current headaches university administrators may struggle with.
 
-* Find your local advocacy group and volunteer for them!
+* Nájdite miestnu skupinu verejnej podpory a pracujte v nej ako dobrovoľník!   Find your local advocacy group and volunteer for them!
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Otázky, prekážky a bežné mylné predstavy
 
-Lack of interest from audiences. Lack of understanding the value.
+Nedostatok záujmu verejnosti. Nedostatočné pochopenie hodnoty. 
 
-The institution and/or senior management is concerned about the impact of the advocacy efforts.
+Inštitúcia a/alebo vyšší manažment sa obáva dopadu úsilia v oblasti verejnej podpory a presadzovania otvorenej vedy.  The institution and/or senior management is concerned about the impact of the advocacy efforts.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Výsledky vzdelávania
 
-The trainer will be able to consider the training event in the context of a program.
+Školiteľ dokáže zvážiť vzdelávanie/výcvik v kontexte nejakého programu.    The trainer will be able to consider the training event in the context of a program.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Ďalšie odporúčané čítanie
@@ -174,7 +174,7 @@ The trainer will be able to consider the training event in the context of a prog
 * 8 Steps to Good Advocacy. [PDF](http://www.chpca.net/media/7413/8_Steps_to_Good_Advocacy.pdf)
 
 
-### Initiatives and projects
+### Iniciatívy a projekty
 
 * FOSTER Plus Project (2017-2019). Fostering the practical implementation of Open Science in Horizon 2020 and beyond. [fosteropenscience.eu](https://www.fosteropenscience.eu/about)
 
